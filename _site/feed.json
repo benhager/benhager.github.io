@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/04/26/after-a-little.html",
+			"content_html": "<p>After a little bit of tinkering, finally got <a href=\"http://hager.blog\">hager.blog</a> pointed to my Micro.blog and it seems to be working!</p>\n",
+			"date_published": "2017-04-26T03:30:00+00:00",
+			"url": "http://benhager.micro.blog/2017/04/26/after-a-little.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/04/26/two-roads-diverges.html",
 			"content_html": "<p>Two roads diverges in a wood, and I - \nI took the one less traveled by,\nAnd that has made all difference.</p>\n",
 			"date_published": "2017-04-26T02:09:00+00:00",
