@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/11/always-fun-to.html",
+			"content_html": "<p>Always fun to play with the neighbor’s puppy!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/5ca984a901.jpg\" width=\"600\" height=\"597\" /></p>\n",
+			"date_published": "2017-07-10T20:39:00-04:00",
+			"url": "http://hager.blog/2017/07/10/always-fun-to.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/11/the-latest-republican.html",
 			"content_html": "<p>🏛 “The latest Republican plan to overhaul the health care system would eliminate insurance coverage for millions of their own constituents, which should greatly concern senators who support the bill.” – <a href=\"https://www.nytimes.com/interactive/2017/07/07/opinion/republican-health-care-medicaid.html\">Republicans Take a Hatchet to Health Care - NYT</a></p>\n",
 			"date_published": "2017-07-10T20:22:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Report-Terrafugia-Sold-To-Chinese-Conglomerate-229244-1.html\">Report: Terrafugia Sold To Chinese Conglomerate - AVweb flash Article</a></p>\n",
 			"date_published": "2017-07-05T22:00:00-04:00",
 			"url": "http://hager.blog/2017/07/05/report-terrafugia-sold.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/06/had-a-great.html",
-			"content_html": "<p>Had a great time at the lake tonight! Love our new neighborhood!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/2640b9469a.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-05T20:11:00-04:00",
-			"url": "http://hager.blog/2017/07/05/had-a-great.html"
 		}
 		
 	]
