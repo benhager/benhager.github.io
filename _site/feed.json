@@ -6,6 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/11/the-audi-a.html",
+			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-audi-a8-the-worlds-first-production-car-to-achieve-level-3-autonomy\">The Audi A8: the World’s First Production Car to Achieve Level 3 Autonomy - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-07-11T19:38:00-04:00",
+			"url": "http://hager.blog/2017/07/11/the-audi-a.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/11/how-a-oneman.html",
+			"content_html": "<p>🚀 <a href=\"http://spectrum.ieee.org/automaton/robotics/robotics-software/coordinated-robotics-winner-nasa-space-robotics-challenge\">How a One-Man Team from California Won NASA’s Space Robotics Challenge - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-07-11T19:37:00-04:00",
+			"url": "http://hager.blog/2017/07/11/how-a-oneman.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/11/the-aircraft-had.html",
 			"content_html": "<p>🛩 “The aircraft had taken off in Tennessee. Photos online show the wreckage burning, with heavy smoke. The USMC announced the crash on Twitter, and said further information will be forthcoming.” – <a href=\"https://www.avweb.com/avwebflash/news/16-Killed-In-Crash-Of-Marine-C-130-229267-1.html\">16 Killed In Crash Of Marine C-130 - AVweb</a></p>\n",
 			"date_published": "2017-07-11T08:55:00-04:00",
@@ -59,20 +73,6 @@
 			"content_html": "<p>📱 <a href=\"https://daringfireball.net/2017/07/speculation_on_new_iphone_pricing\">Daring Fireball: Speculation Regarding the Pricing of and Strategy Behind This Year’s New iPhones</a></p>\n",
 			"date_published": "2017-07-07T20:27:00-04:00",
 			"url": "http://hager.blog/2017/07/07/daring-fireball-speculation.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/08/this-circuit-board.html",
-			"content_html": "<p>🔬 <a href=\"http://spectrum.ieee.org/the-human-os/biomedical/devices/this-circuit-board-will-selfdestruct-in-5-4-3\">This Circuit Board Will Self-Destruct in 5, 4, 3… - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-07T20:17:00-04:00",
-			"url": "http://hager.blog/2017/07/07/this-circuit-board.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/06/amelia-earhart-and.html",
-			"content_html": "<p>🛩 “Amelia Earhart and her navigator Fred Noonan survived a landing in the Marshall Islands on July 2 1937, only to be imprisoned by the Japanese, says a new History Channel documentary…” – <a href=\"https://www.avweb.com/avwebflash/news/Earhart-Survived-Crash-History-Channel-229245-1.html\">Earhart Survived Crash, History Channel - AVweb</a></p>\n",
-			"date_published": "2017-07-06T07:43:00-04:00",
-			"url": "http://hager.blog/2017/07/06/amelia-earhart-and.html"
 		}
 		
 	]
