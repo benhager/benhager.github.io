@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/11/the-latest-republican.html",
+			"content_html": "<p>🏛 “The latest Republican plan to overhaul the health care system would eliminate insurance coverage for millions of their own constituents, which should greatly concern senators who support the bill.” – <a href=\"https://www.nytimes.com/interactive/2017/07/07/opinion/republican-health-care-medicaid.html\">Republicans Take a Hatchet to Health Care - NYT</a></p>\n",
+			"date_published": "2017-07-10T20:22:00-04:00",
+			"url": "http://hager.blog/2017/07/10/the-latest-republican.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/10/darpa-wants-brain.html",
 			"content_html": "<p>🔬 <a href=\"http://spectrum.ieee.org/the-human-os/biomedical/devices/darpa-wants-brain-implants-that-record-from-1-million-neurons\">DARPA Wants Brain Implants That Record From 1 Million Neurons - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-10T11:21:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Had a great time at the lake tonight! Love our new neighborhood!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/2640b9469a.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-05T20:11:00-04:00",
 			"url": "http://hager.blog/2017/07/05/had-a-great.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/04/ga-lobbies-against.html",
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/GA-Lobbies-Against-ATC-Change-229238-1.html\">GA Lobbies Against ATC Change - AVweb flash Article</a></p>\n",
-			"date_published": "2017-07-03T22:22:00-04:00",
-			"url": "http://hager.blog/2017/07/03/ga-lobbies-against.html"
 		}
 		
 	]
