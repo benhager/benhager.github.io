@@ -20,6 +20,13 @@
 		},
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/11/nathan-brought-me.html",
+			"content_html": "<p>Nathan brought me a blue raspberry slurpy from 7/11 today!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/6257596a0b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-07-11T19:15:00-04:00",
+			"url": "http://hager.blog/2017/07/11/nathan-brought-me.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/11/the-aircraft-had.html",
 			"content_html": "<p>🛩 “The aircraft had taken off in Tennessee. Photos online show the wreckage burning, with heavy smoke. The USMC announced the crash on Twitter, and said further information will be forthcoming.” – <a href=\"https://www.avweb.com/avwebflash/news/16-Killed-In-Crash-Of-Marine-C-130-229267-1.html\">16 Killed In Crash Of Marine C-130 - AVweb</a></p>\n",
 			"date_published": "2017-07-11T08:55:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/video/telecom/standards/underwater-robots-learn-a-new-language-janus\">Underwater Robots Learn a New Language, JANUS - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-09T15:45:00-04:00",
 			"url": "http://hager.blog/2017/07/09/underwater-robots-learn.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/08/daring-fireball-speculation.html",
-			"content_html": "<p>📱 <a href=\"https://daringfireball.net/2017/07/speculation_on_new_iphone_pricing\">Daring Fireball: Speculation Regarding the Pricing of and Strategy Behind This Year’s New iPhones</a></p>\n",
-			"date_published": "2017-07-07T20:27:00-04:00",
-			"url": "http://hager.blog/2017/07/07/daring-fireball-speculation.html"
 		}
 		
 	]
