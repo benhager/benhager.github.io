@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/12/the-honda-jet.html",
+			"content_html": "<p>🛩 “The Honda Jet aircraft was inbound from Philadelphia, aviation officials said…” – <a href=\"http://abc7chicago.com/news/small-plane-slides-off-runway-at-midway-/2209815/\">Small plane slides off runway at Midway</a></p>\n",
+			"date_published": "2017-07-12T17:50:00-04:00",
+			"url": "http://hager.blog/2017/07/12/the-honda-jet.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/11/the-audi-a.html",
 			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-audi-a8-the-worlds-first-production-car-to-achieve-level-3-autonomy\">The Audi A8: the World’s First Production Car to Achieve Level 3 Autonomy - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-11T19:38:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Looks ominous… ⛈</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/03270bb8db.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-10T09:56:00-04:00",
 			"url": "http://hager.blog/2017/07/10/looks-ominous.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/09/underwater-robots-learn.html",
-			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/video/telecom/standards/underwater-robots-learn-a-new-language-janus\">Underwater Robots Learn a New Language, JANUS - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-09T15:45:00-04:00",
-			"url": "http://hager.blog/2017/07/09/underwater-robots-learn.html"
 		}
 		
 	]
