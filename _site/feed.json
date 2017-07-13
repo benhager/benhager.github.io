@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/13/first-customer-pc.html",
+			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/First-Customer-PC-24-Fuselage-and-Wings-Married-229277-1.html\">First Customer PC-24 Fuselage and Wings Married - AVweb</a></p>\n",
+			"date_published": "2017-07-13T15:21:00-04:00",
+			"url": "http://hager.blog/2017/07/13/first-customer-pc.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/13/conspiracy-or-coincidence.html",
 			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2017/07/12/us/politics/trump-russia-election-meeting.html?emc=edit_th_20170713&amp;nl=todaysheadlines&amp;nlid=66325106\">Conspiracy or Coincidence? A Timeline Open to Interpretation - NY Times</a></p>\n",
 			"date_published": "2017-07-13T11:12:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🛩 “The aircraft had taken off in Tennessee. Photos online show the wreckage burning, with heavy smoke. The USMC announced the crash on Twitter, and said further information will be forthcoming.” – <a href=\"https://www.avweb.com/avwebflash/news/16-Killed-In-Crash-Of-Marine-C-130-229267-1.html\">16 Killed In Crash Of Marine C-130 - AVweb</a></p>\n",
 			"date_published": "2017-07-11T08:55:00-04:00",
 			"url": "http://hager.blog/2017/07/11/the-aircraft-had.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/11/falcon-x-first.html",
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Falcon-5X-First-Flight-229265-1.html\">Falcon 5X First Flight - AVweb flash Article</a></p>\n",
-			"date_published": "2017-07-11T08:53:00-04:00",
-			"url": "http://hager.blog/2017/07/11/falcon-x-first.html"
 		}
 		
 	]
