@@ -6,6 +6,27 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/13/how-to-safely.html",
+			"content_html": "<p>🌎 <a href=\"http://kottke.org/17/07/how-to-safely-enjoy-the-2017-solar-eclipse-a-buyers-guide-for-normal-people\">How to safely enjoy the 2017 solar eclipse, a buyer’s guide for normal people</a></p>\n",
+			"date_published": "2017-07-13T08:16:00-04:00",
+			"url": "http://hager.blog/2017/07/13/how-to-safely.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/13/121410.html",
+			"content_html": "<p>🔬 <a href=\"http://spectrum.ieee.org/the-human-os/biomedical/devices/scientists-store-video-data-in-the-dna-of-living-organisms\">Scientists Store Video Data in the DNA of Living Organisms - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-07-13T08:14:00-04:00",
+			"url": "http://hager.blog/2017/07/13/121410.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/13/scientists-store-video.html",
+			"content_html": "<p>🔬 <a href=\"http://spectrum.ieee.org/the-human-os/biomedical/devices/scientists-store-video-data-in-the-dna-of-living-organisms\">Scientists Store Video Data in the DNA of Living Organisms - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-07-13T08:13:00-04:00",
+			"url": "http://hager.blog/2017/07/13/scientists-store-video.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/12/the-honda-jet.html",
 			"content_html": "<p>🛩 “The Honda Jet aircraft was inbound from Philadelphia, aviation officials said…” – <a href=\"http://abc7chicago.com/news/small-plane-slides-off-runway-at-midway-/2209815/\">Small plane slides off runway at Midway</a></p>\n",
 			"date_published": "2017-07-12T17:50:00-04:00",
@@ -52,27 +73,6 @@
 			"content_html": "<p>Always fun to play with the neighbor’s puppy!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/5ca984a901.jpg\" width=\"600\" height=\"597\" /></p>\n",
 			"date_published": "2017-07-10T20:39:00-04:00",
 			"url": "http://hager.blog/2017/07/10/always-fun-to.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/11/the-latest-republican.html",
-			"content_html": "<p>🏛 “The latest Republican plan to overhaul the health care system would eliminate insurance coverage for millions of their own constituents, which should greatly concern senators who support the bill.” – <a href=\"https://www.nytimes.com/interactive/2017/07/07/opinion/republican-health-care-medicaid.html\">Republicans Take a Hatchet to Health Care - NYT</a></p>\n",
-			"date_published": "2017-07-10T20:22:00-04:00",
-			"url": "http://hager.blog/2017/07/10/the-latest-republican.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/10/darpa-wants-brain.html",
-			"content_html": "<p>🔬 <a href=\"http://spectrum.ieee.org/the-human-os/biomedical/devices/darpa-wants-brain-implants-that-record-from-1-million-neurons\">DARPA Wants Brain Implants That Record From 1 Million Neurons - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-10T11:21:00-04:00",
-			"url": "http://hager.blog/2017/07/10/darpa-wants-brain.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/10/looks-ominous.html",
-			"content_html": "<p>Looks ominous… ⛈</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/03270bb8db.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-10T09:56:00-04:00",
-			"url": "http://hager.blog/2017/07/10/looks-ominous.html"
 		}
 		
 	]
