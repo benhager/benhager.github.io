@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/13/conspiracy-or-coincidence.html",
+			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2017/07/12/us/politics/trump-russia-election-meeting.html?emc=edit_th_20170713&amp;nl=todaysheadlines&amp;nlid=66325106\">Conspiracy or Coincidence? A Timeline Open to Interpretation - NY Times</a></p>\n",
+			"date_published": "2017-07-13T11:12:00-04:00",
+			"url": "http://hager.blog/2017/07/13/conspiracy-or-coincidence.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/13/how-to-safely.html",
 			"content_html": "<p>🌎 <a href=\"http://kottke.org/17/07/how-to-safely-enjoy-the-2017-solar-eclipse-a-buyers-guide-for-normal-people\">How to safely enjoy the 2017 solar eclipse, a buyer’s guide for normal people</a></p>\n",
 			"date_published": "2017-07-13T08:16:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Falcon-5X-First-Flight-229265-1.html\">Falcon 5X First Flight - AVweb flash Article</a></p>\n",
 			"date_published": "2017-07-11T08:53:00-04:00",
 			"url": "http://hager.blog/2017/07/11/falcon-x-first.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/11/always-fun-to.html",
-			"content_html": "<p>Always fun to play with the neighbor’s puppy!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/5ca984a901.jpg\" width=\"600\" height=\"597\" /></p>\n",
-			"date_published": "2017-07-10T20:39:00-04:00",
-			"url": "http://hager.blog/2017/07/10/always-fun-to.html"
 		}
 		
 	]
