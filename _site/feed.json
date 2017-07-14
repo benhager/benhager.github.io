@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/14/what-stood-out.html",
+			"content_html": "<p>🏛 “What stood out most in the interview was the moral emptiness of the president’s son.” - <a href=\"http://www.slate.com/articles/news_and_politics/politics/2017/07/why_donald_trump_jr_thinks_he_did_nothing_wrong.html\">Why Donald Trump Jr. thinks he did nothing wrong</a></p>\n",
+			"date_published": "2017-07-13T21:54:00-04:00",
+			"url": "http://hager.blog/2017/07/13/what-stood-out.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/14/the-new-senate.html",
 			"content_html": "<p>🏛 <a href=\"https://www.vox.com/health-care/2017/7/13/15965762/senate-health-bill-bcra-preexisting-conditions\">The new Senate health bill is terrible for anyone who is sick, has been sick, or will be sick</a></p>\n",
 			"date_published": "2017-07-13T20:18:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-audi-a8-the-worlds-first-production-car-to-achieve-level-3-autonomy\">The Audi A8: the World’s First Production Car to Achieve Level 3 Autonomy - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-11T19:38:00-04:00",
 			"url": "http://hager.blog/2017/07/11/the-audi-a.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/11/how-a-oneman.html",
-			"content_html": "<p>🚀 <a href=\"http://spectrum.ieee.org/automaton/robotics/robotics-software/coordinated-robotics-winner-nasa-space-robotics-challenge\">How a One-Man Team from California Won NASA’s Space Robotics Challenge - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-11T19:37:00-04:00",
-			"url": "http://hager.blog/2017/07/11/how-a-oneman.html"
 		}
 		
 	]
