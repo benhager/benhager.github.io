@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/14/no-one-aboard.html",
+			"content_html": "<p>🛩 “No one aboard a HondaJet was hurt Wednesday when the landing aircraft departed the hard surface of Runway 31 Center at Chicago’s Midway Airport.” - <a href=\"http://www.flyingmag.com/hondajet-skids-off-runway-in-chicago\">HondaJet Skids Off Runway in Chicago</a></p>\n",
+			"date_published": "2017-07-14T10:07:00-04:00",
+			"url": "http://hager.blog/2017/07/14/no-one-aboard.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/14/what-stood-out.html",
 			"content_html": "<p>🏛 “What stood out most in the interview was the moral emptiness of the president’s son.” - <a href=\"http://www.slate.com/articles/news_and_politics/politics/2017/07/why_donald_trump_jr_thinks_he_did_nothing_wrong.html\">Why Donald Trump Jr. thinks he did nothing wrong</a></p>\n",
 			"date_published": "2017-07-13T21:54:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🛩 “The Honda Jet aircraft was inbound from Philadelphia, aviation officials said…” – <a href=\"http://abc7chicago.com/news/small-plane-slides-off-runway-at-midway-/2209815/\">Small plane slides off runway at Midway</a></p>\n",
 			"date_published": "2017-07-12T17:50:00-04:00",
 			"url": "http://hager.blog/2017/07/12/the-honda-jet.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/11/the-audi-a.html",
-			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-audi-a8-the-worlds-first-production-car-to-achieve-level-3-autonomy\">The Audi A8: the World’s First Production Car to Achieve Level 3 Autonomy - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-11T19:38:00-04:00",
-			"url": "http://hager.blog/2017/07/11/the-audi-a.html"
 		}
 		
 	]
