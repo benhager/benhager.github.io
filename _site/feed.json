@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/14/the-new-senate.html",
+			"content_html": "<p>🏛 <a href=\"https://www.vox.com/health-care/2017/7/13/15965762/senate-health-bill-bcra-preexisting-conditions\">The new Senate health bill is terrible for anyone who is sick, has been sick, or will be sick</a></p>\n",
+			"date_published": "2017-07-13T20:18:00-04:00",
+			"url": "http://hager.blog/2017/07/13/the-new-senate.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/13/continental-brings-headup.html",
 			"content_html": "<p>🚗 <a href=\"http://articles.sae.org/15432/\">Continental brings head-up displays to commercial vehicles - SAE</a></p>\n",
 			"date_published": "2017-07-13T19:49:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🚀 <a href=\"http://spectrum.ieee.org/automaton/robotics/robotics-software/coordinated-robotics-winner-nasa-space-robotics-challenge\">How a One-Man Team from California Won NASA’s Space Robotics Challenge - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-11T19:37:00-04:00",
 			"url": "http://hager.blog/2017/07/11/how-a-oneman.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/11/nathan-brought-me.html",
-			"content_html": "<p>Nathan brought me a blue raspberry slurpy from 7/11 today!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/6257596a0b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-07-11T19:15:00-04:00",
-			"url": "http://hager.blog/2017/07/11/nathan-brought-me.html"
 		}
 		
 	]
