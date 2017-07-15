@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/15/as-a-generation.html",
+			"content_html": "<p>🏛 “As a generation, boomers collectively ditched their hippie heritage, they learned to hate the state, they voted for Reagan, they locked in high asset values, their savings benefited from high-interest rates, they rode it all the way down, they got bailed out in the bust, now they’re all fine and everybody else is screwed.” <a href=\"http://www.gq.com/story/mark-blyth-economics-interview\">The Economist Who Predicted Trump and Brexit Explains How Baby Boomers Ruined Everything</a></p>\n",
+			"date_published": "2017-07-14T22:41:00-04:00",
+			"url": "http://hager.blog/2017/07/14/as-a-generation.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/14/airventure-offers-scaled.html",
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/AirVenture-Offers-Scaled-Warbirds-And-Everything-Between-229279-1.html\">AirVenture Offers Scaled, Warbirds And Everything Between - AVweb</a></p>\n",
 			"date_published": "2017-07-14T18:06:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🔬 <a href=\"http://spectrum.ieee.org/the-human-os/biomedical/devices/scientists-store-video-data-in-the-dna-of-living-organisms\">Scientists Store Video Data in the DNA of Living Organisms - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-13T08:14:00-04:00",
 			"url": "http://hager.blog/2017/07/13/121410.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/13/scientists-store-video.html",
-			"content_html": "<p>🔬 <a href=\"http://spectrum.ieee.org/the-human-os/biomedical/devices/scientists-store-video-data-in-the-dna-of-living-organisms\">Scientists Store Video Data in the DNA of Living Organisms - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-13T08:13:00-04:00",
-			"url": "http://hager.blog/2017/07/13/scientists-store-video.html"
 		}
 		
 	]
