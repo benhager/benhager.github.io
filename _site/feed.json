@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/18/where-every-senator.html",
+			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/interactive/2017/07/13/us/politics/senate-revised-health-care-whip-count.html\">Where Every Senator Stands on the Revised Health Care Bill - The New York Times</a></p>\n",
+			"date_published": "2017-07-18T07:35:00-04:00",
+			"url": "http://hager.blog/2017/07/18/where-every-senator.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/18/mr-trump-somehow.html",
 			"content_html": "<p>🏛 “Mr. Trump somehow seems to believe that his outsize personality and social-media following make him larger than the Presidency. He’s wrong…” – <a href=\"https://www.wsj.com/amp/articles/the-trumps-and-the-truth-1500332545\">The Trumps and the Truth - WSJ</a></p>\n",
 			"date_published": "2017-07-18T06:53:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🚗 <a href=\"http://articles.sae.org/15432/\">Continental brings head-up displays to commercial vehicles - SAE</a></p>\n",
 			"date_published": "2017-07-13T19:49:00-04:00",
 			"url": "http://hager.blog/2017/07/13/continental-brings-headup.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/13/first-customer-pc.html",
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/First-Customer-PC-24-Fuselage-and-Wings-Married-229277-1.html\">First Customer PC-24 Fuselage and Wings Married - AVweb</a></p>\n",
-			"date_published": "2017-07-13T15:21:00-04:00",
-			"url": "http://hager.blog/2017/07/13/first-customer-pc.html"
 		}
 		
 	]
