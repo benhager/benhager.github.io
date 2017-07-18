@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/18/garmin-announces-new.html",
+			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Garmin-Announces-New-Retrofit-Autopilots-229297-1.html\">Garmin Announces New Retrofit Autopilots - AVweb flash Article</a></p>\n",
+			"date_published": "2017-07-18T09:58:00-04:00",
+			"url": "http://hager.blog/2017/07/18/garmin-announces-new.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/18/where-every-senator.html",
 			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/interactive/2017/07/13/us/politics/senate-revised-health-care-whip-count.html\">Where Every Senator Stands on the Revised Health Care Bill - The New York Times</a></p>\n",
 			"date_published": "2017-07-18T07:35:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🏛 <a href=\"https://www.vox.com/health-care/2017/7/13/15965762/senate-health-bill-bcra-preexisting-conditions\">The new Senate health bill is terrible for anyone who is sick, has been sick, or will be sick</a></p>\n",
 			"date_published": "2017-07-13T20:18:00-04:00",
 			"url": "http://hager.blog/2017/07/13/the-new-senate.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/13/continental-brings-headup.html",
-			"content_html": "<p>🚗 <a href=\"http://articles.sae.org/15432/\">Continental brings head-up displays to commercial vehicles - SAE</a></p>\n",
-			"date_published": "2017-07-13T19:49:00-04:00",
-			"url": "http://hager.blog/2017/07/13/continental-brings-headup.html"
 		}
 		
 	]
