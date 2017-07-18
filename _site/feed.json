@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/18/python-jumps-to.html",
+			"content_html": "<p>💻 “Python jumps to No. 1, and Swift enters the Top Ten” - <a href=\"http://spectrum.ieee.org/computing/software/the-2017-top-programming-languages\">The 2017 Top Programming Languages - IEEE</a></p>\n",
+			"date_published": "2017-07-18T16:23:00-04:00",
+			"url": "http://hager.blog/2017/07/18/python-jumps-to.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/18/foreflight-offers-new.html",
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Foreflight-Offers-New-ADS-B-In-Device-229299-1.html\">Foreflight Offers New ADS-B In Device - AVweb flash Article</a></p>\n",
 			"date_published": "2017-07-18T15:29:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🛩 “No one aboard a HondaJet was hurt Wednesday when the landing aircraft departed the hard surface of Runway 31 Center at Chicago’s Midway Airport.” - <a href=\"http://www.flyingmag.com/hondajet-skids-off-runway-in-chicago\">HondaJet Skids Off Runway in Chicago</a></p>\n",
 			"date_published": "2017-07-14T10:07:00-04:00",
 			"url": "http://hager.blog/2017/07/14/no-one-aboard.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/14/what-stood-out.html",
-			"content_html": "<p>🏛 “What stood out most in the interview was the moral emptiness of the president’s son.” - <a href=\"http://www.slate.com/articles/news_and_politics/politics/2017/07/why_donald_trump_jr_thinks_he_did_nothing_wrong.html\">Why Donald Trump Jr. thinks he did nothing wrong</a></p>\n",
-			"date_published": "2017-07-13T21:54:00-04:00",
-			"url": "http://hager.blog/2017/07/13/what-stood-out.html"
 		}
 		
 	]
