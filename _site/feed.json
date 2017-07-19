@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/19/daring-fireball-public.html",
+			"content_html": "<p>📱 <a href=\"https://daringfireball.net/2017/07/you_should_not_force_quit_apps\">Daring Fireball: Public Service Announcement: You Should Not Force Quit Apps on iOS</a></p>\n",
+			"date_published": "2017-07-19T19:38:00-04:00",
+			"url": "http://hager.blog/2017/07/19/daring-fireball-public.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/19/icon-starts-customer.html",
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Icon-Starts-Customer-Deliveries-229311-1.html\">Icon Starts Customer Deliveries - AVweb flash Article</a></p>\n",
 			"date_published": "2017-07-19T13:04:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🏛 “Mr. Trump somehow seems to believe that his outsize personality and social-media following make him larger than the Presidency. He’s wrong…” – <a href=\"https://www.wsj.com/amp/articles/the-trumps-and-the-truth-1500332545\">The Trumps and the Truth - WSJ</a></p>\n",
 			"date_published": "2017-07-18T06:53:00-04:00",
 			"url": "http://hager.blog/2017/07/18/mr-trump-somehow.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/15/g-bytes-beamforming.html",
-			"content_html": "<p>📱 <a href=\"http://spectrum.ieee.org/video/telecom/wireless/5g-bytes-beamforming-explained\">5G Bytes: Beamforming Explained - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-15T13:35:00-04:00",
-			"url": "http://hager.blog/2017/07/15/g-bytes-beamforming.html"
 		}
 		
 	]
