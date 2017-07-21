@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/21/where-the-jobs.html",
+			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/at-work/tech-careers/where-the-jobs-are-2017\">Where the Jobs Are: 2017 - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-07-21T11:36:00-04:00",
+			"url": "http://hager.blog/2017/07/21/where-the-jobs.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/20/nbc-news-sen.html",
 			"content_html": "<p>🏛 <a href=\"http://nbcnews.to/2uKLcxe\">NBC News: Sen. John McCain Diagnosed With Brain Cancer</a></p>\n",
 			"date_published": "2017-07-19T20:49:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Garmin-Announces-New-Retrofit-Autopilots-229297-1.html\">Garmin Announces New Retrofit Autopilots - AVweb flash Article</a></p>\n",
 			"date_published": "2017-07-18T09:58:00-04:00",
 			"url": "http://hager.blog/2017/07/18/garmin-announces-new.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/18/where-every-senator.html",
-			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/interactive/2017/07/13/us/politics/senate-revised-health-care-whip-count.html\">Where Every Senator Stands on the Revised Health Care Bill - The New York Times</a></p>\n",
-			"date_published": "2017-07-18T07:35:00-04:00",
-			"url": "http://hager.blog/2017/07/18/where-every-senator.html"
 		}
 		
 	]
