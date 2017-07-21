@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/21/he-and-his.html",
+			"content_html": "<p>🏛 “He and his coterie of idiots, nihilists, and opportunists were the perfect prey for Putin’s spell…” – <a href=\"http://www.vanityfair.com/news/2017/07/how-russia-played-trump-for-a-fool\">How Russia Mercilessly Played Trump for a Fool - Vanity Fair</a></p>\n",
+			"date_published": "2017-07-21T13:59:00-04:00",
+			"url": "http://hager.blog/2017/07/21/he-and-his.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/21/trip-to-the.html",
 			"content_html": "<p>Trip to the airport this morning!</p>\n\n<p>&lt;img src=”http://hager.blog/uploads/2017/999b8104b0.jpg” width=”600” height=”600” style=”height: auto” /&gt;</p>\n",
 			"date_published": "2017-07-21T13:51:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.ainonline.com/aviation-news/business-aviation/2017-07-17/first-service-hondajet-incident-overrun-mdw\">First In-service HondaJet Incident: Overrun at MDW - Business Aviation News: Aviation International News</a></p>\n",
 			"date_published": "2017-07-18T17:47:00-04:00",
 			"url": "http://hager.blog/2017/07/18/first-inservice-hondajet.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/18/python-jumps-to.html",
-			"content_html": "<p>💻 “Python jumps to No. 1, and Swift enters the Top Ten” - <a href=\"http://spectrum.ieee.org/computing/software/the-2017-top-programming-languages\">The 2017 Top Programming Languages - IEEE</a></p>\n",
-			"date_published": "2017-07-18T16:23:00-04:00",
-			"url": "http://hager.blog/2017/07/18/python-jumps-to.html"
 		}
 		
 	]
