@@ -6,6 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/23/unhackable-quantum-networks.html",
+			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/aerospace/satellites/unhackable-quantum-networks-take-to-space\">Unhackable Quantum Networks Take to Space - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-07-23T14:19:00-04:00",
+			"url": "http://hager.blog/2017/07/23/unhackable-quantum-networks.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/23/a-new-home.html",
+			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/A-New-Home-For-Doc-But-First-Oshkosh-229326-1.html\">A New Home For Doc, But First, Oshkosh - AVweb flash Article</a></p>\n",
+			"date_published": "2017-07-23T14:17:00-04:00",
+			"url": "http://hager.blog/2017/07/23/a-new-home.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/23/a-newfound-memo.html",
 			"content_html": "<p>🏛 “A newfound memo from Kenneth W. Starr’s independent counsel investigation into President Bill Clinton sheds fresh light on a constitutional puzzle that is taking on mounting significance amid the Trump-Russia inquiry: Can a sitting president be indicted…” – <a href=\"https://mobile.nytimes.com/2017/07/22/us/politics/can-president-be-indicted-kenneth-starr-memo.html\">Can the President Be Indicted? A Long-Hidden Legal Memo Says Yes - NYT</a></p>\n",
 			"date_published": "2017-07-23T09:15:00-04:00",
@@ -59,20 +73,6 @@
 			"content_html": "<p>🏛 “He and his coterie of idiots, nihilists, and opportunists were the perfect prey for Putin’s spell…” – <a href=\"http://www.vanityfair.com/news/2017/07/how-russia-played-trump-for-a-fool\">How Russia Mercilessly Played Trump for a Fool - Vanity Fair</a></p>\n",
 			"date_published": "2017-07-21T13:59:00-04:00",
 			"url": "http://hager.blog/2017/07/21/he-and-his.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/21/trump-team-seeks.html",
-			"content_html": "<p>🏛 <a href=\"https://www.washingtonpost.com/politics/trumps-lawyers-seek-to-undercut-muellers-russia-investigation/\">Trump team seeks to control, block Mueller’s Russia investigation - The Washington Post</a></p>\n",
-			"date_published": "2017-07-21T11:49:00-04:00",
-			"url": "http://hager.blog/2017/07/21/trump-team-seeks.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/21/where-the-jobs.html",
-			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/at-work/tech-careers/where-the-jobs-are-2017\">Where the Jobs Are: 2017 - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-21T11:36:00-04:00",
-			"url": "http://hager.blog/2017/07/21/where-the-jobs.html"
 		}
 		
 	]
