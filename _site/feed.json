@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/23/a-newfound-memo.html",
+			"content_html": "<p>🏛 “A newfound memo from Kenneth W. Starr’s independent counsel investigation into President Bill Clinton sheds fresh light on a constitutional puzzle that is taking on mounting significance amid the Trump-Russia inquiry: Can a sitting president be indicted…” – <a href=\"https://mobile.nytimes.com/2017/07/22/us/politics/can-president-be-indicted-kenneth-starr-memo.html\">Can the President Be Indicted? A Long-Hidden Legal Memo Says Yes - NYT</a></p>\n",
+			"date_published": "2017-07-23T09:15:00-04:00",
+			"url": "http://hager.blog/2017/07/23/a-newfound-memo.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/23/testing-the-internet.html",
 			"content_html": "<p>📱 <a href=\"http://spectrum.ieee.org/view-from-the-valley/at-work/test-and-measurement/testing-the-internet-of-things\">Testing the Internet of Things - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-22T21:25:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/at-work/tech-careers/where-the-jobs-are-2017\">Where the Jobs Are: 2017 - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-21T11:36:00-04:00",
 			"url": "http://hager.blog/2017/07/21/where-the-jobs.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/20/nbc-news-sen.html",
-			"content_html": "<p>🏛 <a href=\"http://nbcnews.to/2uKLcxe\">NBC News: Sen. John McCain Diagnosed With Brain Cancer</a></p>\n",
-			"date_published": "2017-07-19T20:49:00-04:00",
-			"url": "http://hager.blog/2017/07/19/nbc-news-sen.html"
 		}
 		
 	]
