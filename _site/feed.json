@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/23/realtime-distance-image.html",
+			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/transportation/sensors/realtime-distance-image-sensor-detects-obstacles\">Real-Time Distance Image Sensor Detects Obstacles - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-07-23T16:20:00-04:00",
+			"url": "http://hager.blog/2017/07/23/realtime-distance-image.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/23/unhackable-quantum-networks.html",
 			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/aerospace/satellites/unhackable-quantum-networks-take-to-space\">Unhackable Quantum Networks Take to Space - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-23T14:19:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Trip to the airport this morning!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/9f9f2824eb.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-21T14:24:00-04:00",
 			"url": "http://hager.blog/2017/07/21/182412.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/21/he-and-his.html",
-			"content_html": "<p>🏛 “He and his coterie of idiots, nihilists, and opportunists were the perfect prey for Putin’s spell…” – <a href=\"http://www.vanityfair.com/news/2017/07/how-russia-played-trump-for-a-fool\">How Russia Mercilessly Played Trump for a Fool - Vanity Fair</a></p>\n",
-			"date_published": "2017-07-21T13:59:00-04:00",
-			"url": "http://hager.blog/2017/07/21/he-and-his.html"
 		}
 		
 	]
