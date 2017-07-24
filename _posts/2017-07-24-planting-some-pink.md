@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-23 22:47 -0400
 guid: http://benhager.micro.blog/2017/07/24/planting-some-pink.html
 ---
