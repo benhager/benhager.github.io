@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-24 18:54 -0400
 guid: http://benhager.micro.blog/2017/05/24/garmin-announces-new.html
 ---
