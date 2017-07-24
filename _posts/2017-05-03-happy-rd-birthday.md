@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-03 15:49 -0400
 guid: http://benhager.micro.blog/2017/05/03/happy-rd-birthday.html
 ---
