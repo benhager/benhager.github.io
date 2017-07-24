@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/24/the-faa-has.html",
+			"content_html": "<p>🛩 “The FAA has reorganized its certification division, scrapping the familiar Transport, Small Airplane, Engine and Propeller and Rotorcraft Directorates in favor of a new “functionally-aligned organizational structure”” – <a href=\"https://www.avweb.com/avwebflash/news/FAA-Reorganizes-Certification-Service-229334-1.html\">FAA Reorganizes Certification Service - AVweb</a></p>\n",
+			"date_published": "2017-07-24T09:42:00-04:00",
+			"url": "http://hager.blog/2017/07/24/the-faa-has.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/24/the-skyview-is.html",
 			"content_html": "<p>🛩 “The Skyview is a complete EFIS system, offering a primary flight display, multi-function display with moving map, ADS-B In and Out options, traffic and transponder and a back-up D10A electronic gyro…” – <a href=\"https://www.avweb.com/avwebflash/news/Dynon-Announces-Certified-Avionics-229331-1.html\">Dynon Announces Certified Avionics - AVweb</a></p>\n",
 			"date_published": "2017-07-24T07:35:00-04:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>📱 <a href=\"http://spectrum.ieee.org/view-from-the-valley/at-work/test-and-measurement/testing-the-internet-of-things\">Testing the Internet of Things - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-22T21:25:00-04:00",
 			"url": "http://hager.blog/2017/07/22/testing-the-internet.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/23/stratos-vlj-development.html",
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Stratos-VLJ-Development-on-Pace-229323-1.html\">Stratos VLJ Development On Pace - AVweb flash Article</a></p>\n",
-			"date_published": "2017-07-22T21:22:00-04:00",
-			"url": "http://hager.blog/2017/07/22/stratos-vlj-development.html"
 		}
 		
 	]
