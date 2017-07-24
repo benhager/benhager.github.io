@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-20 20:55 -0400
 guid: http://benhager.micro.blog/2017/06/21/rollsroyce-boss-warns.html
 ---
