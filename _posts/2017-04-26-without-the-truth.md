@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-04-26 10:53 -0400
 guid: http://benhager.micro.blog/2017/04/26/without-the-truth.html
 ---
