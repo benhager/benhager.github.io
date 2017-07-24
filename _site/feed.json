@@ -6,7 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/24/cirrus-announces-complimentary.html",
+	      	
+			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Cirrus-Announces-Complimentary-Training-Program-229341-1.html\">Cirrus Announces Complimentary Training Program - AVweb flash Article</a></p>\n",
+			"date_published": "2017-07-24T13:25:00-04:00",
+			"url": "http://hager.blog/2017/07/24/cirrus-announces-complimentary.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/24/the-faa-has.html",
+	      	
 			"content_html": "<p>🛩 “The FAA has reorganized its certification division, scrapping the familiar Transport, Small Airplane, Engine and Propeller and Rotorcraft Directorates in favor of a new “functionally-aligned organizational structure”” – <a href=\"https://www.avweb.com/avwebflash/news/FAA-Reorganizes-Certification-Service-229334-1.html\">FAA Reorganizes Certification Service - AVweb</a></p>\n",
 			"date_published": "2017-07-24T09:42:00-04:00",
 			"url": "http://hager.blog/2017/07/24/the-faa-has.html"
@@ -14,6 +23,7 @@
 		
 		{
 			"id": "http://benhager.micro.blog/2017/07/24/the-skyview-is.html",
+	      	
 			"content_html": "<p>🛩 “The Skyview is a complete EFIS system, offering a primary flight display, multi-function display with moving map, ADS-B In and Out options, traffic and transponder and a back-up D10A electronic gyro…” – <a href=\"https://www.avweb.com/avwebflash/news/Dynon-Announces-Certified-Avionics-229331-1.html\">Dynon Announces Certified Avionics - AVweb</a></p>\n",
 			"date_published": "2017-07-24T07:35:00-04:00",
 			"url": "http://hager.blog/2017/07/24/the-skyview-is.html"
@@ -21,6 +31,7 @@
 		
 		{
 			"id": "http://benhager.micro.blog/2017/07/24/every-summer-when.html",
+	      	
 			"content_html": "<p>🛩 “Every summer, when July rolls around, the aviation world begins to lean toward Oshkosh, and by this weekend, the flow into Wisconsin was nonstop…” – <a href=\"https://www.avweb.com/avwebflash/news/EAA-AirVenture-2017-Arrives-To-Blue-Skies-229329-1.html\">EAA AirVenture 2017 Arrives To Blue Skies - AVweb</a></p>\n",
 			"date_published": "2017-07-23T23:51:00-04:00",
 			"url": "http://hager.blog/2017/07/23/every-summer-when.html"
@@ -28,6 +39,7 @@
 		
 		{
 			"id": "http://benhager.micro.blog/2017/07/24/planting-some-pink.html",
+	      	
 			"content_html": "<p>Planting some pink flowers for the front porch!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/a7d838c178.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-07-23T22:47:00-04:00",
 			"url": "http://hager.blog/2017/07/23/planting-some-pink.html"
@@ -35,6 +47,7 @@
 		
 		{
 			"id": "http://benhager.micro.blog/2017/07/24/ice-cream-after.html",
+	      	
 			"content_html": "<p>Ice cream after lunch! Chocolate, vanilla, and rainbow sprinkles!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/e20e08a652.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-07-23T20:10:00-04:00",
 			"url": "http://hager.blog/2017/07/23/ice-cream-after.html"
@@ -42,6 +55,7 @@
 		
 		{
 			"id": "http://benhager.micro.blog/2017/07/23/realtime-distance-image.html",
+	      	
 			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/transportation/sensors/realtime-distance-image-sensor-detects-obstacles\">Real-Time Distance Image Sensor Detects Obstacles - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-23T16:20:00-04:00",
 			"url": "http://hager.blog/2017/07/23/realtime-distance-image.html"
@@ -49,6 +63,7 @@
 		
 		{
 			"id": "http://benhager.micro.blog/2017/07/23/unhackable-quantum-networks.html",
+	      	
 			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/aerospace/satellites/unhackable-quantum-networks-take-to-space\">Unhackable Quantum Networks Take to Space - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-23T14:19:00-04:00",
 			"url": "http://hager.blog/2017/07/23/unhackable-quantum-networks.html"
@@ -56,6 +71,7 @@
 		
 		{
 			"id": "http://benhager.micro.blog/2017/07/23/a-new-home.html",
+	      	
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/A-New-Home-For-Doc-But-First-Oshkosh-229326-1.html\">A New Home For Doc, But First, Oshkosh - AVweb flash Article</a></p>\n",
 			"date_published": "2017-07-23T14:17:00-04:00",
 			"url": "http://hager.blog/2017/07/23/a-new-home.html"
@@ -63,16 +79,10 @@
 		
 		{
 			"id": "http://benhager.micro.blog/2017/07/23/a-newfound-memo.html",
+	      	
 			"content_html": "<p>🏛 “A newfound memo from Kenneth W. Starr’s independent counsel investigation into President Bill Clinton sheds fresh light on a constitutional puzzle that is taking on mounting significance amid the Trump-Russia inquiry: Can a sitting president be indicted…” – <a href=\"https://mobile.nytimes.com/2017/07/22/us/politics/can-president-be-indicted-kenneth-starr-memo.html\">Can the President Be Indicted? A Long-Hidden Legal Memo Says Yes - NYT</a></p>\n",
 			"date_published": "2017-07-23T09:15:00-04:00",
 			"url": "http://hager.blog/2017/07/23/a-newfound-memo.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/23/testing-the-internet.html",
-			"content_html": "<p>📱 <a href=\"http://spectrum.ieee.org/view-from-the-valley/at-work/test-and-measurement/testing-the-internet-of-things\">Testing the Internet of Things - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-22T21:25:00-04:00",
-			"url": "http://hager.blog/2017/07/22/testing-the-internet.html"
 		}
 		
 	]
