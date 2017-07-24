@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-08 20:51 -0400
 guid: http://benhager.micro.blog/2017/06/09/apple-introduces-homepod.html
 ---
