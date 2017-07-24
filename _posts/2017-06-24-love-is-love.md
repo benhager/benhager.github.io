@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-24 17:50 -0400
 guid: http://benhager.micro.blog/2017/06/24/love-is-love.html
 ---
