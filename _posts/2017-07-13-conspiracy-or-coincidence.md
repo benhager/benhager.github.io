@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-13 11:12 -0400
 guid: http://benhager.micro.blog/2017/07/13/conspiracy-or-coincidence.html
 ---
