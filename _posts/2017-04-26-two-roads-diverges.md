@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-04-25 22:09 -0400
 guid: http://benhager.micro.blog/2017/04/26/two-roads-diverges.html
 ---
