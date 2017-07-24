@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-18 19:59 -0400
 guid: http://benhager.micro.blog/2017/05/18/hockey-fun-on.html
 ---
