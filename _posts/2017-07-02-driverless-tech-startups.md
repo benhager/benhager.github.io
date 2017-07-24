@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-01 20:37 -0400
 guid: http://benhager.micro.blog/2017/07/02/driverless-tech-startups.html
 ---
