@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-15 21:52 -0400
 guid: http://benhager.micro.blog/2017/05/16/three-studies-show.html
 ---
