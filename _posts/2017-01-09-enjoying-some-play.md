@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-01-08 23:48 -0400
 guid: http://benhager.micro.blog/2017/01/09/enjoying-some-play.html
 ---
