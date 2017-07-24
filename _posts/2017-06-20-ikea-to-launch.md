@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-19 21:00 -0400
 guid: http://benhager.micro.blog/2017/06/20/ikea-to-launch.html
 ---
