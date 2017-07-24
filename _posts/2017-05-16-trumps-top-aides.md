@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-16 07:26 -0400
 guid: http://benhager.micro.blog/2017/05/16/trumps-top-aides.html
 ---
