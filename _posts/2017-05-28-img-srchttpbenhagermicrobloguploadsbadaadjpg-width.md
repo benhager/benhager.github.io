@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-27 20:30 -0400
 guid: http://benhager.micro.blog/2017/05/28/img-srchttpbenhagermicrobloguploadsbadaadjpg-width.html
 ---
