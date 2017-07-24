@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/24/bespoke-processors-a.html",
+	      	
+			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/semiconductors/design/bespoke-processors-a-new-path-to-cheap-chips\">Bespoke Processors: A New Path to Cheap Chips - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-07-24T16:49:00-04:00",
+			"url": "http://hager.blog/2017/07/24/bespoke-processors-a.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/24/stratos-comes-to.html",
+	      	
+			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Stratos-714-Comes-to-Oshkosh-229339-1.html\">Stratos 714 Comes to Oshkosh - AVweb flash Article</a></p>\n",
+			"date_published": "2017-07-24T16:48:00-04:00",
+			"url": "http://hager.blog/2017/07/24/stratos-comes-to.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/24/cubcrafters-certifies-gx.html",
+	      	
+			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/CubCrafters-Certifies-G3X-in-XCub-229337-1.html\">CubCrafters Certifies G3X in XCub - AVweb flash Article</a></p>\n",
+			"date_published": "2017-07-24T16:48:00-04:00",
+			"url": "http://hager.blog/2017/07/24/cubcrafters-certifies-gx.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/24/bad-news-for.html",
 	      	
 			"content_html": "<p>🏛 <a href=\"https://fivethirtyeight.com/features/bad-news-for-house-republicans-clinton-wont-be-on-the-ballot-in-2018/?ex_cid=538twitter\">Bad News For House Republicans: Clinton Won’t Be On The Ballot In 2018 - FiveThirtyEight</a></p>\n",
@@ -59,30 +83,6 @@
 			"content_html": "<p>Ice cream after lunch! Chocolate, vanilla, and rainbow sprinkles!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/e20e08a652.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-07-23T20:10:00-04:00",
 			"url": "http://hager.blog/2017/07/23/ice-cream-after.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/23/realtime-distance-image.html",
-	      	
-			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/transportation/sensors/realtime-distance-image-sensor-detects-obstacles\">Real-Time Distance Image Sensor Detects Obstacles - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-23T16:20:00-04:00",
-			"url": "http://hager.blog/2017/07/23/realtime-distance-image.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/23/unhackable-quantum-networks.html",
-	      	
-			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/aerospace/satellites/unhackable-quantum-networks-take-to-space\">Unhackable Quantum Networks Take to Space - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-23T14:19:00-04:00",
-			"url": "http://hager.blog/2017/07/23/unhackable-quantum-networks.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/23/a-new-home.html",
-	      	
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/A-New-Home-For-Doc-But-First-Oshkosh-229326-1.html\">A New Home For Doc, But First, Oshkosh - AVweb flash Article</a></p>\n",
-			"date_published": "2017-07-23T14:17:00-04:00",
-			"url": "http://hager.blog/2017/07/23/a-new-home.html"
 		}
 		
 	]
