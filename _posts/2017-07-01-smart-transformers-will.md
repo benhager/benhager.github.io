@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-01 08:41 -0400
 guid: http://benhager.micro.blog/2017/07/01/smart-transformers-will.html
 ---
