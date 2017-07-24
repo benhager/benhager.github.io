@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-08 14:57 -0400
 guid: http://benhager.micro.blog/2017/05/08/heres-how-apple.html
 ---
