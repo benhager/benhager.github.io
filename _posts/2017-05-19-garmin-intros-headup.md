@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-18 21:08 -0400
 guid: http://benhager.micro.blog/2017/05/19/garmin-intros-headup.html
 ---
