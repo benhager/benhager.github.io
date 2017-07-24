@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-11 19:54 -0400
 guid: http://benhager.micro.blog/2017/05/11/microsoft-just-made.html
 ---
