@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-21 08:01 -0400
 guid: http://benhager.micro.blog/2017/06/21/building-a-successor.html
 ---
