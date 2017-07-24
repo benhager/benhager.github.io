@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-04-28 20:31 -0400
 guid: http://benhager.micro.blog/2017/04/29/trump-now-agrees.html
 ---
