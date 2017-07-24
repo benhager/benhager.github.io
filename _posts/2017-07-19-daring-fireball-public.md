@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-19 19:38 -0400
 guid: http://benhager.micro.blog/2017/07/19/daring-fireball-public.html
 ---
