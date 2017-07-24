@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-06 07:43 -0400
 guid: http://benhager.micro.blog/2017/07/06/amelia-earhart-and.html
 ---
