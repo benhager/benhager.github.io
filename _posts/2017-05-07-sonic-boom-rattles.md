@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-07 12:34 -0400
 guid: http://benhager.micro.blog/2017/05/07/sonic-boom-rattles.html
 ---
