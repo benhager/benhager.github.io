@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-24 08:16 -0400
 guid: http://benhager.micro.blog/2017/05/24/the-presidents-budget.html
 ---
