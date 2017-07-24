@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-17 09:15 -0400
 guid: http://benhager.micro.blog/2017/05/17/history-shows-trump.html
 ---
