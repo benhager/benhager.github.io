@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-15 13:35 -0400
 guid: http://benhager.micro.blog/2017/07/15/g-bytes-beamforming.html
 ---
