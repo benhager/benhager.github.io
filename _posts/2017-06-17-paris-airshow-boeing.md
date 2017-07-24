@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-16 20:59 -0400
 guid: http://benhager.micro.blog/2017/06/17/paris-airshow-boeing.html
 ---
