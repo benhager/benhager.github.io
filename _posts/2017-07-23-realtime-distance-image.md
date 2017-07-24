@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-23 16:20 -0400
 guid: http://benhager.micro.blog/2017/07/23/realtime-distance-image.html
 ---
