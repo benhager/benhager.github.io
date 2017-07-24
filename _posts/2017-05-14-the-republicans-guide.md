@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-14 13:52 -0400
 guid: http://benhager.micro.blog/2017/05/14/the-republicans-guide.html
 ---
