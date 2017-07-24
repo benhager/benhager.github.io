@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-27 20:57 -0400
 guid: http://benhager.micro.blog/2017/05/28/a-whole-new.html
 ---
