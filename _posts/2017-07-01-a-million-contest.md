@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-01 17:56 -0400
 guid: http://benhager.micro.blog/2017/07/01/a-million-contest.html
 ---
