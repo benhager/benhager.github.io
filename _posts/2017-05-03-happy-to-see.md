@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-03 09:21 -0400
 guid: http://benhager.micro.blog/2017/05/03/happy-to-see.html
 ---
