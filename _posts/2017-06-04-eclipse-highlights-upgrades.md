@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-04 11:39 -0400
 guid: http://benhager.micro.blog/2017/06/04/eclipse-highlights-upgrades.html
 ---
