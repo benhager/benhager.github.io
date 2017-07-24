@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-22 19:37 -0400
 guid: http://benhager.micro.blog/2017/06/22/one-weird-trick.html
 ---
