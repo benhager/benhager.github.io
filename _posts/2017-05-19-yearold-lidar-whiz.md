@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-19 19:09 -0400
 guid: http://benhager.micro.blog/2017/05/19/yearold-lidar-whiz.html
 ---
