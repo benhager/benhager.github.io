@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-02 09:56 -0400
 guid: http://benhager.micro.blog/2017/06/02/stratolaunch-leaves-hangar.html
 ---
