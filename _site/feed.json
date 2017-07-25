@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/25/the-trump-administration.html",
+	      	
+			"content_html": "<p>🛩 “The [Trump] administration is hell-bent on making [privatization] happen, and we have to be as equally unified to make sure that we all encourage our elected officials to vote ‘no’…” – <a href=\"https://www.avweb.com/avwebflash/news/Senate-Committee-Says-No-To-ATC-Privatization-229354-1.html\">Senate Committee Says No To ATC Privatization - AVweb</a></p>\n",
+			"date_published": "2017-07-25T18:56:00-04:00",
+			"url": "http://hager.blog/2017/07/25/the-trump-administration.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/25/a-conversation-with.html",
+	      	
+			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>🏛 [A Conversation with the New York Times Reporter Maggie Haberman, Trump’s Favorite Foe</td>\n      <td>The New Yorker](http://www.newyorker.com/news/news-desk/a-conversation-with-maggie-haberman-trumps-favorite-foe)</td>\n    </tr>\n  </tbody>\n</table>\n",
+			"date_published": "2017-07-25T18:53:00-04:00",
+			"url": "http://hager.blog/2017/07/25/a-conversation-with.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/25/daring-fireball-adobe.html",
+	      	
+			"content_html": "<p>💻 <a href=\"https://daringfireball.net/linked/2017/07/25/flash-end-of-life\">Daring Fireball: Adobe Announces End-of-Life for Flash</a></p>\n",
+			"date_published": "2017-07-25T18:51:00-04:00",
+			"url": "http://hager.blog/2017/07/25/daring-fireball-adobe.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/25/smart-contact-lenses.html",
 	      	
 			"content_html": "<p>🔬 <a href=\"http://spectrum.ieee.org/biomedical/devices/smart-contact-lenses-and-eye-implants-will-give-doctors-medical-insights\">Smart Contact Lenses and Eye Implants Will Give Doctors Medical Insights - IEEE Spectrum</a></p>\n",
@@ -59,30 +83,6 @@
 			"content_html": "<p>🏛 <a href=\"https://fivethirtyeight.com/features/bad-news-for-house-republicans-clinton-wont-be-on-the-ballot-in-2018/?ex_cid=538twitter\">Bad News For House Republicans: Clinton Won’t Be On The Ballot In 2018 - FiveThirtyEight</a></p>\n",
 			"date_published": "2017-07-24T15:55:00-04:00",
 			"url": "http://hager.blog/2017/07/24/bad-news-for.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/24/cirrus-announces-complimentary.html",
-	      	
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Cirrus-Announces-Complimentary-Training-Program-229341-1.html\">Cirrus Announces Complimentary Training Program - AVweb flash Article</a></p>\n",
-			"date_published": "2017-07-24T13:25:00-04:00",
-			"url": "http://hager.blog/2017/07/24/cirrus-announces-complimentary.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/24/the-faa-has.html",
-	      	
-			"content_html": "<p>🛩 “The FAA has reorganized its certification division, scrapping the familiar Transport, Small Airplane, Engine and Propeller and Rotorcraft Directorates in favor of a new “functionally-aligned organizational structure”” – <a href=\"https://www.avweb.com/avwebflash/news/FAA-Reorganizes-Certification-Service-229334-1.html\">FAA Reorganizes Certification Service - AVweb</a></p>\n",
-			"date_published": "2017-07-24T09:42:00-04:00",
-			"url": "http://hager.blog/2017/07/24/the-faa-has.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/24/the-skyview-is.html",
-	      	
-			"content_html": "<p>🛩 “The Skyview is a complete EFIS system, offering a primary flight display, multi-function display with moving map, ADS-B In and Out options, traffic and transponder and a back-up D10A electronic gyro…” – <a href=\"https://www.avweb.com/avwebflash/news/Dynon-Announces-Certified-Avionics-229331-1.html\">Dynon Announces Certified Avionics - AVweb</a></p>\n",
-			"date_published": "2017-07-24T07:35:00-04:00",
-			"url": "http://hager.blog/2017/07/24/the-skyview-is.html"
 		}
 		
 	]
