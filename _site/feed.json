@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/25/the-king-air.html",
+	      	
+			"content_html": "<p>✈️ “The King Air NextGen flight deck will be similar to IS&amp;S’s STC’d PC-12 avionics upgrade…” <a href=\"http://www.ainonline.com/aviation-news/business-aviation/2017-07-24/iss-blackhawk-partner-king-air-avionics-and-autothrottle\">IS&amp;S, Blackhawk Partner on King Air Avionics and Autothrottle</a></p>\n",
+			"date_published": "2017-07-25T09:21:00-04:00",
+			"url": "http://hager.blog/2017/07/25/the-king-air.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/25/icon-aircraft-hopes.html",
 	      	
 			"content_html": "<p>🛩 “Icon Aircraft hopes to deliver 15 aircraft by the end of this year and ramp up to 200 for 2018. In an interview at AirVenture 2017…” – <a href=\"https://www.avweb.com/avwebflash/news/Icon-Delivers-Six-Aircraft-229344-1.html\">Icon Delivers Six Aircraft - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 “Every summer, when July rolls around, the aviation world begins to lean toward Oshkosh, and by this weekend, the flow into Wisconsin was nonstop…” – <a href=\"https://www.avweb.com/avwebflash/news/EAA-AirVenture-2017-Arrives-To-Blue-Skies-229329-1.html\">EAA AirVenture 2017 Arrives To Blue Skies - AVweb</a></p>\n",
 			"date_published": "2017-07-23T23:51:00-04:00",
 			"url": "http://hager.blog/2017/07/23/every-summer-when.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/24/planting-some-pink.html",
-	      	
-			"content_html": "<p>Planting some pink flowers for the front porch!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/a7d838c178.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-07-23T22:47:00-04:00",
-			"url": "http://hager.blog/2017/07/23/planting-some-pink.html"
 		}
 		
 	]
