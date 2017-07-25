@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/25/icon-aircraft-hopes.html",
+	      	
+			"content_html": "<p>🛩 “Icon Aircraft hopes to deliver 15 aircraft by the end of this year and ramp up to 200 for 2018. In an interview at AirVenture 2017…” – <a href=\"https://www.avweb.com/avwebflash/news/Icon-Delivers-Six-Aircraft-229344-1.html\">Icon Delivers Six Aircraft - AVweb</a></p>\n",
+			"date_published": "2017-07-24T22:09:00-04:00",
+			"url": "http://hager.blog/2017/07/24/icon-aircraft-hopes.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/24/bespoke-processors-a.html",
 	      	
 			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/semiconductors/design/bespoke-processors-a-new-path-to-cheap-chips\">Bespoke Processors: A New Path to Cheap Chips - IEEE Spectrum</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Planting some pink flowers for the front porch!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/a7d838c178.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-07-23T22:47:00-04:00",
 			"url": "http://hager.blog/2017/07/23/planting-some-pink.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/24/ice-cream-after.html",
-	      	
-			"content_html": "<p>Ice cream after lunch! Chocolate, vanilla, and rainbow sprinkles!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/e20e08a652.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-07-23T20:10:00-04:00",
-			"url": "http://hager.blog/2017/07/23/ice-cream-after.html"
 		}
 		
 	]
