@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/26/daring-fireball-trump.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://daringfireball.net/linked/2017/07/25/trump-cook-big-beautiful-plants\">Daring Fireball: Trump Says Tim Cook Has Promised to Build Three Manufacturing Plants in U.S.</a></p>\n",
+			"date_published": "2017-07-26T13:25:00-04:00",
+			"url": "http://hager.blog/2017/07/26/daring-fireball-trump.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/26/how-jony-ive.html",
+	      	
+			"content_html": "<p> <a href=\"https://www.wsj.com/articles/how-jony-ive-masterminded-apples-new-headquarters-1501063201\">How Jony Ive Masterminded Apple’s New Headquarters - WSJ</a></p>\n",
+			"date_published": "2017-07-26T13:22:00-04:00",
+			"url": "http://hager.blog/2017/07/26/how-jony-ive.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/26/the-eclipse-features.html",
 	      	
 			"content_html": "<p>🛩 “The Eclipse 700 features a four-foot longer wingspan, a 14-inch fuselage stretch and a longer horizontal stabilizer than the EA500/550 series…” – <a href=\"https://www.ainonline.com/aviation-news/business-aviation/2017-07-25/one-aviations-project-canada-now-eclipse-700\">One Aviation’s “Project Canada” Is Now Eclipse 700 - AIN</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>✈️ “The King Air NextGen flight deck will be similar to IS&amp;S’s STC’d PC-12 avionics upgrade…” <a href=\"http://www.ainonline.com/aviation-news/business-aviation/2017-07-24/iss-blackhawk-partner-king-air-avionics-and-autothrottle\">IS&amp;S, Blackhawk Partner on King Air Avionics and Autothrottle</a></p>\n",
 			"date_published": "2017-07-25T09:21:00-04:00",
 			"url": "http://hager.blog/2017/07/25/the-king-air.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/25/icon-aircraft-hopes.html",
-	      	
-			"content_html": "<p>🛩 “Icon Aircraft hopes to deliver 15 aircraft by the end of this year and ramp up to 200 for 2018. In an interview at AirVenture 2017…” – <a href=\"https://www.avweb.com/avwebflash/news/Icon-Delivers-Six-Aircraft-229344-1.html\">Icon Delivers Six Aircraft - AVweb</a></p>\n",
-			"date_published": "2017-07-24T22:09:00-04:00",
-			"url": "http://hager.blog/2017/07/24/icon-aircraft-hopes.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/24/bespoke-processors-a.html",
-	      	
-			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/semiconductors/design/bespoke-processors-a-new-path-to-cheap-chips\">Bespoke Processors: A New Path to Cheap Chips - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-24T16:49:00-04:00",
-			"url": "http://hager.blog/2017/07/24/bespoke-processors-a.html"
 		}
 		
 	]
