@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/26/a-good-speech.html",
+	      	
+			"content_html": "<p>🏛 A good speech that was completely negated minutes later when he voted yes on the MTP - <a href=\"https://www.washingtonpost.com/powerpost/were-getting-nothing-done-mccain-in-emotional-return-laments-what-the-senate-has-become/\">‘We’re getting nothing done’: McCain, in emotional return, laments what the Senate has become</a></p>\n",
+			"date_published": "2017-07-25T21:36:00-04:00",
+			"url": "http://hager.blog/2017/07/25/a-good-speech.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/26/a-conversation-with.html",
 	      	
 			"content_html": "<p>🏛 <a href=\"http://www.newyorker.com/news/news-desk/a-conversation-with-maggie-haberman-trumps-favorite-foe\">A Conversation with the New York Times Reporter Maggie Haberman, Trump’s Favorite Foe - The New Yorker</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Stratos-714-Comes-to-Oshkosh-229339-1.html\">Stratos 714 Comes to Oshkosh - AVweb flash Article</a></p>\n",
 			"date_published": "2017-07-24T16:48:00-04:00",
 			"url": "http://hager.blog/2017/07/24/stratos-comes-to.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/24/cubcrafters-certifies-gx.html",
-	      	
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/CubCrafters-Certifies-G3X-in-XCub-229337-1.html\">CubCrafters Certifies G3X in XCub - AVweb flash Article</a></p>\n",
-			"date_published": "2017-07-24T16:48:00-04:00",
-			"url": "http://hager.blog/2017/07/24/cubcrafters-certifies-gx.html"
 		}
 		
 	]
