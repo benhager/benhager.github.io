@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/27/eaa-innovation-prize.html",
+	      	
+			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/EAA-Innovation-Prize-Goes-To-Head-Up-Display-229391-1.html\">EAA Innovation Prize Goes To Head-Up Display - AVweb flash Article</a></p>\n",
+			"date_published": "2017-07-27T13:12:00-04:00",
+			"url": "http://hager.blog/2017/07/27/eaa-innovation-prize.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/26/daring-fireball-trump.html",
 	      	
 			"content_html": "<p>🏛 <a href=\"https://daringfireball.net/linked/2017/07/25/trump-cook-big-beautiful-plants\">Daring Fireball: Trump Says Tim Cook Has Promised to Build Three Manufacturing Plants in U.S.</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🔬 <a href=\"http://spectrum.ieee.org/biomedical/devices/smart-contact-lenses-and-eye-implants-will-give-doctors-medical-insights\">Smart Contact Lenses and Eye Implants Will Give Doctors Medical Insights - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-25T12:09:00-04:00",
 			"url": "http://hager.blog/2017/07/25/smart-contact-lenses.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/25/the-king-air.html",
-	      	
-			"content_html": "<p>✈️ “The King Air NextGen flight deck will be similar to IS&amp;S’s STC’d PC-12 avionics upgrade…” <a href=\"http://www.ainonline.com/aviation-news/business-aviation/2017-07-24/iss-blackhawk-partner-king-air-avionics-and-autothrottle\">IS&amp;S, Blackhawk Partner on King Air Avionics and Autothrottle</a></p>\n",
-			"date_published": "2017-07-25T09:21:00-04:00",
-			"url": "http://hager.blog/2017/07/25/the-king-air.html"
 		}
 		
 	]
