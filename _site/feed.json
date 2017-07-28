@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/28/some-in-the.html",
+	      	
+			"content_html": "<p>🏛 “…some in the centrist Tuesday Group have started to adopt the power-in-numbers strategy of the Freedom Caucus…” – <a href=\"http://www.politico.com/story/2017/07/27/paul-ryan-moderates-house-republicans-240954\">Pity Paul Ryan: Moderates adopt Freedom Caucus tactics - POLITICO</a></p>\n",
+			"date_published": "2017-07-27T20:58:00-04:00",
+			"url": "http://hager.blog/2017/07/27/some-in-the.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/28/the-senate-voted.html",
+	      	
+			"content_html": "<p>🏛 “The Senate voted 98-2 to approve the sanctions bill that cleared the House earlier this week…” – <a href=\"http://www.politico.com/story/2017/07/27/russia-sanctions-bill-senate-to-pass-241034?lo=ap_a1\">Congress sends Russia sanctions to Trump’s desk, daring a veto - POLITICO</a></p>\n",
+			"date_published": "2017-07-27T20:53:00-04:00",
+			"url": "http://hager.blog/2017/07/27/the-senate-voted.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/07/28/war-inside-the.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"http://www.nbcnews.com/politics/donald-trump/war-inside-white-house-n787001\">War Inside the White House: Scaramucci Takes On Priebus Over ‘Leaks’ - NBC News</a></p>\n",
+			"date_published": "2017-07-27T20:51:00-04:00",
+			"url": "http://hager.blog/2017/07/27/war-inside-the.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/27/eaa-innovation-prize.html",
 	      	
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/EAA-Innovation-Prize-Goes-To-Head-Up-Display-229391-1.html\">EAA Innovation Prize Goes To Head-Up Display - AVweb flash Article</a></p>\n",
@@ -59,30 +83,6 @@
 			"content_html": "<p>🛩 “Over 8,000 aircraft had already arrived by the time of the Monday news conference…” – <a href=\"https://www.avweb.com/avwebflash/news/EAA-Chief-Previews-AirVenture-17-229345-1.html\">EAA Chief Previews AirVenture ‘17 - AVweb</a></p>\n",
 			"date_published": "2017-07-25T20:01:00-04:00",
 			"url": "http://hager.blog/2017/07/25/over-aircraft-had.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/25/the-trump-administration.html",
-	      	
-			"content_html": "<p>🛩 “The [Trump] administration is hell-bent on making [privatization] happen, and we have to be as equally unified to make sure that we all encourage our elected officials to vote ‘no’…” – <a href=\"https://www.avweb.com/avwebflash/news/Senate-Committee-Says-No-To-ATC-Privatization-229354-1.html\">Senate Committee Says No To ATC Privatization - AVweb</a></p>\n",
-			"date_published": "2017-07-25T18:56:00-04:00",
-			"url": "http://hager.blog/2017/07/25/the-trump-administration.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/25/daring-fireball-adobe.html",
-	      	
-			"content_html": "<p>💻 <a href=\"https://daringfireball.net/linked/2017/07/25/flash-end-of-life\">Daring Fireball: Adobe Announces End-of-Life for Flash</a></p>\n",
-			"date_published": "2017-07-25T18:51:00-04:00",
-			"url": "http://hager.blog/2017/07/25/daring-fireball-adobe.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/25/smart-contact-lenses.html",
-	      	
-			"content_html": "<p>🔬 <a href=\"http://spectrum.ieee.org/biomedical/devices/smart-contact-lenses-and-eye-implants-will-give-doctors-medical-insights\">Smart Contact Lenses and Eye Implants Will Give Doctors Medical Insights - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-25T12:09:00-04:00",
-			"url": "http://hager.blog/2017/07/25/smart-contact-lenses.html"
 		}
 		
 	]
