@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/29/attendees-at-oshkosh.html",
+	      	
+			"content_html": "<p>🚀 “Attendees at Oshkosh head over to the NASA pavilion and try their hand at docking the Orion spacecraft…” – <a href=\"https://www.avweb.com/avwebflash/news/Lockheed-Martins-Reusable-Orion-Spacecraft-229415-1.html\">Lockheed Martin’s Reusable Orion Spacecraft - AVweb</a></p>\n",
+			"date_published": "2017-07-29T08:52:00-04:00",
+			"url": "http://hager.blog/2017/07/29/attendees-at-oshkosh.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/29/in-combat-stewart.html",
 	      	
 			"content_html": "<p>🛩 “In combat, Stewart flew a P-51 in escort bomber missions. He flew 43 missions total and often escorted bombers from Italy to Europe…” – <a href=\"https://www.avweb.com/avwebflash/news/Tuskegee-Airman-Attends-AirVenture-2017-229410-1.html\">Tuskegee Airman Attends AirVenture 2017 - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 “The Senate voted 98-2 to approve the sanctions bill that cleared the House earlier this week…” – <a href=\"http://www.politico.com/story/2017/07/27/russia-sanctions-bill-senate-to-pass-241034?lo=ap_a1\">Congress sends Russia sanctions to Trump’s desk, daring a veto - POLITICO</a></p>\n",
 			"date_published": "2017-07-27T20:53:00-04:00",
 			"url": "http://hager.blog/2017/07/27/the-senate-voted.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/28/war-inside-the.html",
-	      	
-			"content_html": "<p>🏛 <a href=\"http://www.nbcnews.com/politics/donald-trump/war-inside-white-house-n787001\">War Inside the White House: Scaramucci Takes On Priebus Over ‘Leaks’ - NBC News</a></p>\n",
-			"date_published": "2017-07-27T20:51:00-04:00",
-			"url": "http://hager.blog/2017/07/27/war-inside-the.html"
 		}
 		
 	]
