@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/29/inside-darpas-mission.html",
+	      	
+			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/aerospace/satellites/inside-darpas-mission-to-send-a-repair-robot-to-geosynchronous-orbit\">Inside DARPA’s Mission to Send a Repair Robot to Geosynchronous Orbit - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-07-29T15:22:00-04:00",
+			"url": "http://hager.blog/2017/07/29/inside-darpas-mission.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/29/attendees-at-oshkosh.html",
 	      	
 			"content_html": "<p>🚀 “Attendees at Oshkosh head over to the NASA pavilion and try their hand at docking the Orion spacecraft…” – <a href=\"https://www.avweb.com/avwebflash/news/Lockheed-Martins-Reusable-Orion-Spacecraft-229415-1.html\">Lockheed Martin’s Reusable Orion Spacecraft - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 “…some in the centrist Tuesday Group have started to adopt the power-in-numbers strategy of the Freedom Caucus…” – <a href=\"http://www.politico.com/story/2017/07/27/paul-ryan-moderates-house-republicans-240954\">Pity Paul Ryan: Moderates adopt Freedom Caucus tactics - POLITICO</a></p>\n",
 			"date_published": "2017-07-27T20:58:00-04:00",
 			"url": "http://hager.blog/2017/07/27/some-in-the.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/28/the-senate-voted.html",
-	      	
-			"content_html": "<p>🏛 “The Senate voted 98-2 to approve the sanctions bill that cleared the House earlier this week…” – <a href=\"http://www.politico.com/story/2017/07/27/russia-sanctions-bill-senate-to-pass-241034?lo=ap_a1\">Congress sends Russia sanctions to Trump’s desk, daring a veto - POLITICO</a></p>\n",
-			"date_published": "2017-07-27T20:53:00-04:00",
-			"url": "http://hager.blog/2017/07/27/the-senate-voted.html"
 		}
 		
 	]
