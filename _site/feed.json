@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/07/31/ask-him-how.html",
+	      	
+			"content_html": "<p>🏛 “…ask him how many times he’s seen Glengarry Glen Ross.” – <a href=\"http://amp.nationalreview.com/article/449988/donald-trump-cant-close-deal-failing-salesman\">Donald Trump Can’t Close Deal, Failing Salesman - National Review</a></p>\n",
+			"date_published": "2017-07-30T23:33:00-04:00",
+			"url": "http://hager.blog/2017/07/30/ask-him-how.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/29/inside-darpas-mission.html",
 	      	
 			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/aerospace/satellites/inside-darpas-mission-to-send-a-repair-robot-to-geosynchronous-orbit\">Inside DARPA’s Mission to Send a Repair Robot to Geosynchronous Orbit - IEEE Spectrum</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.ainonline.com/aviation-news/defense/2017-07-25/jstars-contenders-argue-merits-business-jet-versus-airliner\">JStars Contenders Argue Merits of Business Jet Versus Airliner - Defense News: Aviation International News</a></p>\n",
 			"date_published": "2017-07-27T21:35:00-04:00",
 			"url": "http://hager.blog/2017/07/27/jstars-contenders-argue.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/28/some-in-the.html",
-	      	
-			"content_html": "<p>🏛 “…some in the centrist Tuesday Group have started to adopt the power-in-numbers strategy of the Freedom Caucus…” – <a href=\"http://www.politico.com/story/2017/07/27/paul-ryan-moderates-house-republicans-240954\">Pity Paul Ryan: Moderates adopt Freedom Caucus tactics - POLITICO</a></p>\n",
-			"date_published": "2017-07-27T20:58:00-04:00",
-			"url": "http://hager.blog/2017/07/27/some-in-the.html"
 		}
 		
 	]
