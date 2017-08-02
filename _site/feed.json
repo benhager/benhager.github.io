@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/02/did-the-ipad.html",
+	      	
+			"content_html": "<p>📱 <a href=\"https://sixcolors.com/post/2017/08/did-the-ipad-turn-the-corner-this-quarter/\">Did the iPad turn the corner this quarter? - Six Colors</a></p>\n",
+			"date_published": "2017-08-02T09:57:00-04:00",
+			"url": "http://hager.blog/2017/08/02/did-the-ipad.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/07/31/ask-him-how.html",
 	      	
 			"content_html": "<p>🏛 “…ask him how many times he’s seen Glengarry Glen Ross.” – <a href=\"http://amp.nationalreview.com/article/449988/donald-trump-cant-close-deal-failing-salesman\">Donald Trump Can’t Close Deal, Failing Salesman - National Review</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 “Aviation entrepreneur George Bye brought his Sun Flyer 2 all-electric, proof-of concept trainer to AirVenture this year…” – <a href=\"https://www.ainonline.com/aviation-news/general-aviation/2017-07-26/electric-sun-flyer-plans-fall-first-flight\">Electric Sun Flyer Plans Fall First Flight - General Aviation News: Aviation International News</a></p>\n",
 			"date_published": "2017-07-27T21:38:00-04:00",
 			"url": "http://hager.blog/2017/07/27/aviation-entrepreneur-george.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/28/jstars-contenders-argue.html",
-	      	
-			"content_html": "<p>🛩 <a href=\"https://www.ainonline.com/aviation-news/defense/2017-07-25/jstars-contenders-argue-merits-business-jet-versus-airliner\">JStars Contenders Argue Merits of Business Jet Versus Airliner - Defense News: Aviation International News</a></p>\n",
-			"date_published": "2017-07-27T21:35:00-04:00",
-			"url": "http://hager.blog/2017/07/27/jstars-contenders-argue.html"
 		}
 		
 	]
