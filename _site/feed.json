@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/02/boeing-to-develop.html",
+	      	
+			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Boeing-To-Develop-Its-Own-Avionics-229435-1.html\">Boeing To Develop Its Own Avionics - AVweb flash Article</a></p>\n",
+			"date_published": "2017-08-02T10:13:00-04:00",
+			"url": "http://hager.blog/2017/08/02/boeing-to-develop.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/08/02/in-we-seem.html",
+	      	
+			"content_html": "<p>🏛 “In 2017, we seem to have lost our appreciation for just how hard won and vulnerable those institutions are…” - Senator Jeff Flake – <a href=\"http://www.politico.com/magazine/story/2017/07/31/my-party-is-in-denial-about-donald-trump-215442\">My Party Is in Denial About Donald Trump</a></p>\n",
+			"date_published": "2017-08-02T10:06:00-04:00",
+			"url": "http://hager.blog/2017/08/02/in-we-seem.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/02/did-the-ipad.html",
 	      	
 			"content_html": "<p>📱 <a href=\"https://sixcolors.com/post/2017/08/did-the-ipad-turn-the-corner-this-quarter/\">Did the iPad turn the corner this quarter? - Six Colors</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/geek-life/reviews/documentaries-for-engineers-mission-control-denial-and-viva-amiga\">Documentaries for Engineers: Mission Control, Denial, and Viva Amiga - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-27T21:47:00-04:00",
 			"url": "http://hager.blog/2017/07/27/documentaries-for-engineers.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/28/apple-removes-ipod.html",
-	      	
-			"content_html": "<p>📱 <a href=\"https://512pixels.net/2017/07/rip-ipod-nano-shuffle/\">Apple Removes iPod nano and iPod shuffle From Sale – 512 Pixels</a></p>\n",
-			"date_published": "2017-07-27T21:43:00-04:00",
-			"url": "http://hager.blog/2017/07/27/apple-removes-ipod.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/28/aviation-entrepreneur-george.html",
-	      	
-			"content_html": "<p>🛩 “Aviation entrepreneur George Bye brought his Sun Flyer 2 all-electric, proof-of concept trainer to AirVenture this year…” – <a href=\"https://www.ainonline.com/aviation-news/general-aviation/2017-07-26/electric-sun-flyer-plans-fall-first-flight\">Electric Sun Flyer Plans Fall First Flight - General Aviation News: Aviation International News</a></p>\n",
-			"date_published": "2017-07-27T21:38:00-04:00",
-			"url": "http://hager.blog/2017/07/27/aviation-entrepreneur-george.html"
 		}
 		
 	]
