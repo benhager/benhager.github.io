@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/02/carmakers-take-to.html",
+	      	
+			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/carmakers-take-to-the-selfdriving-test-track\">Carmakers Take to the (Self-Driving) Test Track - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-08-02T14:46:00-04:00",
+			"url": "http://hager.blog/2017/08/02/carmakers-take-to.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/02/boeing-to-develop.html",
 	      	
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Boeing-To-Develop-Its-Own-Avionics-229435-1.html\">Boeing To Develop Its Own Avionics - AVweb flash Article</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 <a href=\"https://daringfireball.net/linked/2017/07/26/nine-minutes\">Daring Fireball: Nine Minutes of Doubt</a></p>\n",
 			"date_published": "2017-07-27T21:51:00-04:00",
 			"url": "http://hager.blog/2017/07/27/daring-fireball-nine.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/28/documentaries-for-engineers.html",
-	      	
-			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/geek-life/reviews/documentaries-for-engineers-mission-control-denial-and-viva-amiga\">Documentaries for Engineers: Mission Control, Denial, and Viva Amiga - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-07-27T21:47:00-04:00",
-			"url": "http://hager.blog/2017/07/27/documentaries-for-engineers.html"
 		}
 		
 	]
