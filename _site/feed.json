@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/03/so-cool-tesla.html",
+	      	
+			"content_html": "<p>🚗 So cool… <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/tesla-model-3-to-driver-look-me-in-the-eye\">Tesla Model 3 to Driver: Look Me in the Eye - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-08-03T09:10:00-04:00",
+			"url": "http://hager.blog/2017/08/03/so-cool-tesla.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/03/many-republicans-favour.html",
 	      	
 			"content_html": "<p>🏛 “Many Republicans favour shutting down news outlets for bias or inaccurate reporting…” – <a href=\"https://www.economist.com/blogs/graphicdetail/2017/08/daily-chart-0\">Attitudes towards the mainstream media take an unconstitutional turn</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🚀 “Attendees at Oshkosh head over to the NASA pavilion and try their hand at docking the Orion spacecraft…” – <a href=\"https://www.avweb.com/avwebflash/news/Lockheed-Martins-Reusable-Orion-Spacecraft-229415-1.html\">Lockheed Martin’s Reusable Orion Spacecraft - AVweb</a></p>\n",
 			"date_published": "2017-07-29T08:52:00-04:00",
 			"url": "http://hager.blog/2017/07/29/attendees-at-oshkosh.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/29/in-combat-stewart.html",
-	      	
-			"content_html": "<p>🛩 “In combat, Stewart flew a P-51 in escort bomber missions. He flew 43 missions total and often escorted bombers from Italy to Europe…” – <a href=\"https://www.avweb.com/avwebflash/news/Tuskegee-Airman-Attends-AirVenture-2017-229410-1.html\">Tuskegee Airman Attends AirVenture 2017 - AVweb</a></p>\n",
-			"date_published": "2017-07-28T22:09:00-04:00",
-			"url": "http://hager.blog/2017/07/28/in-combat-stewart.html"
 		}
 		
 	]
