@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/03/many-republicans-favour.html",
+	      	
+			"content_html": "<p>🏛 “Many Republicans favour shutting down news outlets for bias or inaccurate reporting…” – <a href=\"https://www.economist.com/blogs/graphicdetail/2017/08/daily-chart-0\">Attitudes towards the mainstream media take an unconstitutional turn</a></p>\n",
+			"date_published": "2017-08-02T23:02:00-04:00",
+			"url": "http://hager.blog/2017/08/02/many-republicans-favour.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/03/researchers-use-image.html",
 	      	
 			"content_html": "<p>🔬 <a href=\"https://blogs.mathworks.com/headlines/2017/08/01/researchers-use-image-processing-to-study-usain-bolts-stride-does-scoliosis-make-him-faster/?s_eid=PSM_bl\">Researchers use image processing to study Usain Bolt’s stride. Does scoliosis make him faster? » Behind the Headlines</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 “In combat, Stewart flew a P-51 in escort bomber missions. He flew 43 missions total and often escorted bombers from Italy to Europe…” – <a href=\"https://www.avweb.com/avwebflash/news/Tuskegee-Airman-Attends-AirVenture-2017-229410-1.html\">Tuskegee Airman Attends AirVenture 2017 - AVweb</a></p>\n",
 			"date_published": "2017-07-28T22:09:00-04:00",
 			"url": "http://hager.blog/2017/07/28/in-combat-stewart.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/28/the-to-vote.html",
-	      	
-			"content_html": "<p>🏛 “The 49-to-51 vote was also a humiliating setback for the Senate majority leader, Mitch McConnell…” – <a href=\"https://mobile.nytimes.com/2017/07/27/us/politics/obamacare-partial-repeal-senate-republicans-revolt.html\">Senate Rejects Slimmed-Down Obamacare Repeal as McCain Votes No - NYTimes</a></p>\n",
-			"date_published": "2017-07-28T12:10:00-04:00",
-			"url": "http://hager.blog/2017/07/28/the-to-vote.html"
 		}
 		
 	]
