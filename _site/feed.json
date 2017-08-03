@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/03/researchers-use-image.html",
+	      	
+			"content_html": "<p>🔬 <a href=\"https://blogs.mathworks.com/headlines/2017/08/01/researchers-use-image-processing-to-study-usain-bolts-stride-does-scoliosis-make-him-faster/?s_eid=PSM_bl\">Researchers use image processing to study Usain Bolt’s stride. Does scoliosis make him faster? » Behind the Headlines</a></p>\n",
+			"date_published": "2017-08-02T20:33:00-04:00",
+			"url": "http://hager.blog/2017/08/02/researchers-use-image.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/02/carmakers-take-to.html",
 	      	
 			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/carmakers-take-to-the-selfdriving-test-track\">Carmakers Take to the (Self-Driving) Test Track - IEEE Spectrum</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 “The 49-to-51 vote was also a humiliating setback for the Senate majority leader, Mitch McConnell…” – <a href=\"https://mobile.nytimes.com/2017/07/27/us/politics/obamacare-partial-repeal-senate-republicans-revolt.html\">Senate Rejects Slimmed-Down Obamacare Repeal as McCain Votes No - NYTimes</a></p>\n",
 			"date_published": "2017-07-28T12:10:00-04:00",
 			"url": "http://hager.blog/2017/07/28/the-to-vote.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/28/daring-fireball-nine.html",
-	      	
-			"content_html": "<p>🏛 <a href=\"https://daringfireball.net/linked/2017/07/26/nine-minutes\">Daring Fireball: Nine Minutes of Doubt</a></p>\n",
-			"date_published": "2017-07-27T21:51:00-04:00",
-			"url": "http://hager.blog/2017/07/27/daring-fireball-nine.html"
 		}
 		
 	]
