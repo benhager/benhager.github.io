@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/04/my-helper.html",
+	      	
+			"content_html": "<p>My helper!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/31ef786d18.jpg\" width=\"600\" height=\"597\" /></p>\n",
+			"date_published": "2017-08-03T21:10:00-04:00",
+			"url": "http://hager.blog/2017/08/03/my-helper.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/03/so-cool-tesla.html",
 	      	
 			"content_html": "<p>🚗 So cool… <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/tesla-model-3-to-driver-look-me-in-the-eye\">Tesla Model 3 to Driver: Look Me in the Eye - IEEE Spectrum</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/aerospace/satellites/inside-darpas-mission-to-send-a-repair-robot-to-geosynchronous-orbit\">Inside DARPA’s Mission to Send a Repair Robot to Geosynchronous Orbit - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-07-29T15:22:00-04:00",
 			"url": "http://hager.blog/2017/07/29/inside-darpas-mission.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/29/attendees-at-oshkosh.html",
-	      	
-			"content_html": "<p>🚀 “Attendees at Oshkosh head over to the NASA pavilion and try their hand at docking the Orion spacecraft…” – <a href=\"https://www.avweb.com/avwebflash/news/Lockheed-Martins-Reusable-Orion-Spacecraft-229415-1.html\">Lockheed Martin’s Reusable Orion Spacecraft - AVweb</a></p>\n",
-			"date_published": "2017-07-29T08:52:00-04:00",
-			"url": "http://hager.blog/2017/07/29/attendees-at-oshkosh.html"
 		}
 		
 	]
