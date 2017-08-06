@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/06/aspiring-sky-writer.html",
+	      	
+			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Aspiring-Sky-Writer-Plans-Boeing-Test-Flights-229450-1.html\">Aspiring Sky Writer Plans Boeing Test Flights - AVweb</a></p>\n",
+			"date_published": "2017-08-05T21:55:00-04:00",
+			"url": "http://hager.blog/2017/08/05/aspiring-sky-writer.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/04/on-august-michiganbased.html",
 	      	
 			"content_html": "<p>🌎 “On August 1, Michigan-based DTE Energy revealed plans to spend almost $1 billion to build a 1,100-megawatt gas-fired power plant. When the station enters service in 2022, it will replace three existing coal-fired units that currently employ more than 500 people. Job openings at the new gas-fired plant? Thirty-five full-time employees, says a DTE spokesperson…” – <a href=\"http://spectrum.ieee.org/energywise/energy/fossil-fuels/automation-is-engineering-the-jobs-out-of-power-plants\">Automation Is Engineering the Jobs Out of Power Plants - IEEE Spectrum</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>📱 <a href=\"https://sixcolors.com/post/2017/08/did-the-ipad-turn-the-corner-this-quarter/\">Did the iPad turn the corner this quarter? - Six Colors</a></p>\n",
 			"date_published": "2017-08-02T09:57:00-04:00",
 			"url": "http://hager.blog/2017/08/02/did-the-ipad.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/07/31/ask-him-how.html",
-	      	
-			"content_html": "<p>🏛 “…ask him how many times he’s seen Glengarry Glen Ross.” – <a href=\"http://amp.nationalreview.com/article/449988/donald-trump-cant-close-deal-failing-salesman\">Donald Trump Can’t Close Deal, Failing Salesman - National Review</a></p>\n",
-			"date_published": "2017-07-30T23:33:00-04:00",
-			"url": "http://hager.blog/2017/07/30/ask-him-how.html"
 		}
 		
 	]
