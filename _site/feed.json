@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/06/my-helper-at.html",
+	      	
+			"content_html": "<p>My helper at the store this morning!! Need his Starbucks in a cup holder like daddy.</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/83d4199a5e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-06T14:05:00-04:00",
+			"url": "http://hager.blog/2017/08/06/my-helper-at.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/06/aspiring-sky-writer.html",
 	      	
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Aspiring-Sky-Writer-Plans-Boeing-Test-Flights-229450-1.html\">Aspiring Sky Writer Plans Boeing Test Flights - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 “In 2017, we seem to have lost our appreciation for just how hard won and vulnerable those institutions are…” - Senator Jeff Flake – <a href=\"http://www.politico.com/magazine/story/2017/07/31/my-party-is-in-denial-about-donald-trump-215442\">My Party Is in Denial About Donald Trump</a></p>\n",
 			"date_published": "2017-08-02T10:06:00-04:00",
 			"url": "http://hager.blog/2017/08/02/in-we-seem.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/02/did-the-ipad.html",
-	      	
-			"content_html": "<p>📱 <a href=\"https://sixcolors.com/post/2017/08/did-the-ipad-turn-the-corner-this-quarter/\">Did the iPad turn the corner this quarter? - Six Colors</a></p>\n",
-			"date_published": "2017-08-02T09:57:00-04:00",
-			"url": "http://hager.blog/2017/08/02/did-the-ipad.html"
 		}
 		
 	]
