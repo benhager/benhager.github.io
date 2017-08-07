@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/07/april-may-be.html",
+	      	
+			"content_html": "<p>🏛 “April may be the cruelest month, as T.S. Eliot once claimed. But for Team Trump —  underachieving, underprepared and understaffed — August is the most dangerous.” – <a href=\"https://www.washingtonpost.com/amphtml/opinions/august-is-a-dangerous-month-for-trump/2017/08/06/f64baa56-7879-11e7-9eac-d56bd5568db8_story.html\">August is a dangerous month for Trump</a></p>\n",
+			"date_published": "2017-08-06T23:40:00-04:00",
+			"url": "http://hager.blog/2017/08/06/april-may-be.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/07/secretary-of-state.html",
 	      	
 			"content_html": "<p>🏛 “Secretary of State Rex Tillerson is resisting the pleas of State Department officials to spend nearly $80 million allocated by Congress for fighting terrorist propaganda and Russian disinformation…” – <a href=\"http://www.politico.com/story/2017/08/02/tillerson-isis-russia-propaganda-241218\">Tillerson spurns $80 million to counter ISIS, Russian propaganda - POLITICO</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/carmakers-take-to-the-selfdriving-test-track\">Carmakers Take to the (Self-Driving) Test Track - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-08-02T14:46:00-04:00",
 			"url": "http://hager.blog/2017/08/02/carmakers-take-to.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/02/boeing-to-develop.html",
-	      	
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Boeing-To-Develop-Its-Own-Avionics-229435-1.html\">Boeing To Develop Its Own Avionics - AVweb flash Article</a></p>\n",
-			"date_published": "2017-08-02T10:13:00-04:00",
-			"url": "http://hager.blog/2017/08/02/boeing-to-develop.html"
 		}
 		
 	]
