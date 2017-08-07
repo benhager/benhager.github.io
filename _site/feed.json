@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/07/secretary-of-state.html",
+	      	
+			"content_html": "<p>🏛 “Secretary of State Rex Tillerson is resisting the pleas of State Department officials to spend nearly $80 million allocated by Congress for fighting terrorist propaganda and Russian disinformation…” – <a href=\"http://www.politico.com/story/2017/08/02/tillerson-isis-russia-propaganda-241218\">Tillerson spurns $80 million to counter ISIS, Russian propaganda - POLITICO</a></p>\n",
+			"date_published": "2017-08-06T23:19:00-04:00",
+			"url": "http://hager.blog/2017/08/06/secretary-of-state.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/06/my-helper-at.html",
 	      	
 			"content_html": "<p>My helper at the store this morning!! Need his Starbucks in a cup holder like daddy.</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/83d4199a5e.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Boeing-To-Develop-Its-Own-Avionics-229435-1.html\">Boeing To Develop Its Own Avionics - AVweb flash Article</a></p>\n",
 			"date_published": "2017-08-02T10:13:00-04:00",
 			"url": "http://hager.blog/2017/08/02/boeing-to-develop.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/02/in-we-seem.html",
-	      	
-			"content_html": "<p>🏛 “In 2017, we seem to have lost our appreciation for just how hard won and vulnerable those institutions are…” - Senator Jeff Flake – <a href=\"http://www.politico.com/magazine/story/2017/07/31/my-party-is-in-denial-about-donald-trump-215442\">My Party Is in Denial About Donald Trump</a></p>\n",
-			"date_published": "2017-08-02T10:06:00-04:00",
-			"url": "http://hager.blog/2017/08/02/in-we-seem.html"
 		}
 		
 	]
