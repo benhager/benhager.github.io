@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/08/the-article-warns.html",
+	      	
+			"content_html": "<p>🏛 “The article warns that conservative American Catholics have strayed dangerously into the deepening political polarization in the United States. The writers even declare that the worldview of American evangelical and hard-line Catholics, which is based on a literal interpretation of the Bible, is “not too far apart’’ from jihadists.” – <a href=\"https://mobile.nytimes.com/2017/08/02/world/europe/vatican-us-catholic-conservatives.html\">A Vatican Shot Across the Bow for Hard-Line U.S. Catholics - NYTimes</a></p>\n",
+			"date_published": "2017-08-08T11:35:00-04:00",
+			"url": "http://hager.blog/2017/08/08/the-article-warns.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/07/april-may-be.html",
 	      	
 			"content_html": "<p>🏛 “April may be the cruelest month, as T.S. Eliot once claimed. But for Team Trump —  underachieving, underprepared and understaffed — August is the most dangerous.” – <a href=\"https://www.washingtonpost.com/amphtml/opinions/august-is-a-dangerous-month-for-trump/2017/08/06/f64baa56-7879-11e7-9eac-d56bd5568db8_story.html\">August is a dangerous month for Trump</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🔬 <a href=\"https://blogs.mathworks.com/headlines/2017/08/01/researchers-use-image-processing-to-study-usain-bolts-stride-does-scoliosis-make-him-faster/?s_eid=PSM_bl\">Researchers use image processing to study Usain Bolt’s stride. Does scoliosis make him faster? » Behind the Headlines</a></p>\n",
 			"date_published": "2017-08-02T20:33:00-04:00",
 			"url": "http://hager.blog/2017/08/02/researchers-use-image.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/02/carmakers-take-to.html",
-	      	
-			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/carmakers-take-to-the-selfdriving-test-track\">Carmakers Take to the (Self-Driving) Test Track - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-08-02T14:46:00-04:00",
-			"url": "http://hager.blog/2017/08/02/carmakers-take-to.html"
 		}
 		
 	]
