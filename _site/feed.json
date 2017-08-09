@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/09/enjoying-some-time.html",
+	      	
+			"content_html": "<p>Enjoying some time outside with a friend!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/ce91d3527b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-08T20:10:00-04:00",
+			"url": "http://hager.blog/2017/08/08/enjoying-some-time.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/08/ubs-says-airlines.html",
 	      	
 			"content_html": "<p>🛩 “UBS says airlines could save more than $26bn in pilot costs by introducing pilotless aircraft and added that such a move would save the business jet industry up to $3bn and civil helicopters about $2.1bn…” – <a href=\"http://www.bbc.com/news/business-40860911\">Would you get on a pilotless plane? - BBC News</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🚗 So cool… <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/tesla-model-3-to-driver-look-me-in-the-eye\">Tesla Model 3 to Driver: Look Me in the Eye - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-08-03T09:10:00-04:00",
 			"url": "http://hager.blog/2017/08/03/so-cool-tesla.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/03/many-republicans-favour.html",
-	      	
-			"content_html": "<p>🏛 “Many Republicans favour shutting down news outlets for bias or inaccurate reporting…” – <a href=\"https://www.economist.com/blogs/graphicdetail/2017/08/daily-chart-0\">Attitudes towards the mainstream media take an unconstitutional turn</a></p>\n",
-			"date_published": "2017-08-02T23:02:00-04:00",
-			"url": "http://hager.blog/2017/08/02/many-republicans-favour.html"
 		}
 		
 	]
