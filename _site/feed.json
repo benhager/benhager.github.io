@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/10/shows-that-respondents.html",
+	      	
+			"content_html": "<p>🏛 “shows that respondents who could correctly identify North Korea tended to view diplomatic and nonmilitary strategies more favorably than those who could not…” – <a href=\"https://www.nytimes.com/interactive/2017/05/14/upshot/if-americans-can-find-north-korea-on-a-map-theyre-more-likely-to-prefer-diplomacy.html\">If Americans Can Find North Korea on a Map, They’re More Likely to Prefer Diplomacy - NYT</a></p>\n",
+			"date_published": "2017-08-10T17:34:00-04:00",
+			"url": "http://hager.blog/2017/08/10/shows-that-respondents.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/10/williams-fjaqpm-engine.html",
 	      	
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Williams-FJ44-4A-QPM-Engine-Certified-229481-1.html\">Williams FJ44-4A-QPM Engine Certified - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 “April may be the cruelest month, as T.S. Eliot once claimed. But for Team Trump —  underachieving, underprepared and understaffed — August is the most dangerous.” – <a href=\"https://www.washingtonpost.com/amphtml/opinions/august-is-a-dangerous-month-for-trump/2017/08/06/f64baa56-7879-11e7-9eac-d56bd5568db8_story.html\">August is a dangerous month for Trump</a></p>\n",
 			"date_published": "2017-08-06T23:40:00-04:00",
 			"url": "http://hager.blog/2017/08/06/april-may-be.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/07/secretary-of-state.html",
-	      	
-			"content_html": "<p>🏛 “Secretary of State Rex Tillerson is resisting the pleas of State Department officials to spend nearly $80 million allocated by Congress for fighting terrorist propaganda and Russian disinformation…” – <a href=\"http://www.politico.com/story/2017/08/02/tillerson-isis-russia-propaganda-241218\">Tillerson spurns $80 million to counter ISIS, Russian propaganda - POLITICO</a></p>\n",
-			"date_published": "2017-08-06T23:19:00-04:00",
-			"url": "http://hager.blog/2017/08/06/secretary-of-state.html"
 		}
 		
 	]
