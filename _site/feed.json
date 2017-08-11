@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/11/you-are-entitled.html",
+	      	
+			"content_html": "<p>🏛 “You are entitled to your own opinion, but you are not entitled to your own facts.” — Daniel Patrick Moynihan – <a href=\"https://www.theatlantic.com/magazine/archive/2017/09/how-america-lost-its-mind/534231/\">How America Went Haywire - The Atlantic</a></p>\n",
+			"date_published": "2017-08-10T20:14:00-04:00",
+			"url": "http://hager.blog/2017/08/10/you-are-entitled.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/10/shows-that-respondents.html",
 	      	
 			"content_html": "<p>🏛 “shows that respondents who could correctly identify North Korea tended to view diplomatic and nonmilitary strategies more favorably than those who could not…” – <a href=\"https://www.nytimes.com/interactive/2017/05/14/upshot/if-americans-can-find-north-korea-on-a-map-theyre-more-likely-to-prefer-diplomacy.html\">If Americans Can Find North Korea on a Map, They’re More Likely to Prefer Diplomacy - NYT</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 “The article warns that conservative American Catholics have strayed dangerously into the deepening political polarization in the United States. The writers even declare that the worldview of American evangelical and hard-line Catholics, which is based on a literal interpretation of the Bible, is “not too far apart’’ from jihadists.” – <a href=\"https://mobile.nytimes.com/2017/08/02/world/europe/vatican-us-catholic-conservatives.html\">A Vatican Shot Across the Bow for Hard-Line U.S. Catholics - NYTimes</a></p>\n",
 			"date_published": "2017-08-08T11:35:00-04:00",
 			"url": "http://hager.blog/2017/08/08/the-article-warns.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/07/april-may-be.html",
-	      	
-			"content_html": "<p>🏛 “April may be the cruelest month, as T.S. Eliot once claimed. But for Team Trump —  underachieving, underprepared and understaffed — August is the most dangerous.” – <a href=\"https://www.washingtonpost.com/amphtml/opinions/august-is-a-dangerous-month-for-trump/2017/08/06/f64baa56-7879-11e7-9eac-d56bd5568db8_story.html\">August is a dangerous month for Trump</a></p>\n",
-			"date_published": "2017-08-06T23:40:00-04:00",
-			"url": "http://hager.blog/2017/08/06/april-may-be.html"
 		}
 		
 	]
