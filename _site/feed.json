@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/12/trump-will-take.html",
+	      	
+			"content_html": "<p>🏛 Trump will take on almost everyone, including members of his own cabinet and party. Everyone, that is, except Putin.</p>\n\n<p><a href=\"https://mobile.nytimes.com/2017/08/11/us/politics/combative-trump-pulls-his-punches-for-one-man-putin.html\">Combative Trump Pulls His Punches for One Man: Putin - NYTimes</a></p>\n",
+			"date_published": "2017-08-11T21:43:00-04:00",
+			"url": "http://hager.blog/2017/08/11/trump-will-take.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/11/you-are-entitled.html",
 	      	
 			"content_html": "<p>🏛 “You are entitled to your own opinion, but you are not entitled to your own facts.” — Daniel Patrick Moynihan – <a href=\"https://www.theatlantic.com/magazine/archive/2017/09/how-america-lost-its-mind/534231/\">How America Went Haywire - The Atlantic</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 “UBS says airlines could save more than $26bn in pilot costs by introducing pilotless aircraft and added that such a move would save the business jet industry up to $3bn and civil helicopters about $2.1bn…” – <a href=\"http://www.bbc.com/news/business-40860911\">Would you get on a pilotless plane? - BBC News</a></p>\n",
 			"date_published": "2017-08-08T12:00:00-04:00",
 			"url": "http://hager.blog/2017/08/08/ubs-says-airlines.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/08/the-article-warns.html",
-	      	
-			"content_html": "<p>🏛 “The article warns that conservative American Catholics have strayed dangerously into the deepening political polarization in the United States. The writers even declare that the worldview of American evangelical and hard-line Catholics, which is based on a literal interpretation of the Bible, is “not too far apart’’ from jihadists.” – <a href=\"https://mobile.nytimes.com/2017/08/02/world/europe/vatican-us-catholic-conservatives.html\">A Vatican Shot Across the Bow for Hard-Line U.S. Catholics - NYTimes</a></p>\n",
-			"date_published": "2017-08-08T11:35:00-04:00",
-			"url": "http://hager.blog/2017/08/08/the-article-warns.html"
 		}
 		
 	]
