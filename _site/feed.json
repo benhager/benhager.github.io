@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/12/commentary-trump-engineering.html",
+	      	
+			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/tech-talk/aerospace/military/commentary-trump-engineering-advisors-and-the-north-korea-crisis\">Commentary: Trump, Engineering Advisers, and the North Korea Crisis - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-08-12T17:22:00-04:00",
+			"url": "http://hager.blog/2017/08/12/commentary-trump-engineering.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/12/air-force-oax.html",
 	      	
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Air-Force-OA-X-Trials-Likely-Moving-to-Battlefield-229496-1.html\">Air Force OA-X Trials Likely Moving to Battlefield - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>📱 <a href=\"https://daringfireball.net/linked/2017/08/08/iphone-sonny-dickson\">Daring Fireball: I Don’t Think There’s Going to Be an ‘iPhone 7S’</a></p>\n",
 			"date_published": "2017-08-09T20:48:00-04:00",
 			"url": "http://hager.blog/2017/08/09/daring-fireball-i.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/09/passengers-call-from.html",
-	      	
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Passengers-Call-911-From-Ramped-Airliner-229464-1.html\">Passengers Call 911 From Ramped Airliner - AVweb flash Article</a></p>\n",
-			"date_published": "2017-08-09T17:37:00-04:00",
-			"url": "http://hager.blog/2017/08/09/passengers-call-from.html"
 		}
 		
 	]
