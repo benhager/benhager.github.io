@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/14/the-biggest-critique.html",
+	      	
+			"content_html": "<p>🏛 “The biggest critique of the United States’ H-1B visa program is that tech companies use it as a channel for importing cheap labor from overseas. New data released by the federal government affirms that argument…” – <a href=\"http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/new-data-hammers-home-problems-with-h1bs-and-outsourcing-firms\">New Data Hammers Home Problems With H-1Bs and Outsourcing Firms - IEEE</a></p>\n",
+			"date_published": "2017-08-14T18:30:00-04:00",
+			"url": "http://hager.blog/2017/08/14/the-biggest-critique.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/08/14/is-there-a.html",
+	      	
+			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Is-There-A-Delorean-In-Aviations-Future-229507-1.html\">Is There A DeLorean In Aviation’s Future? - AVweb flash Article</a></p>\n",
+			"date_published": "2017-08-14T18:23:00-04:00",
+			"url": "http://hager.blog/2017/08/14/is-there-a.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/13/admonishes-americans-that.html",
 	      	
 			"content_html": "<p>🌎 “Admonishes Americans that they will lose their country if they let fanaticism and hatred turn them into “suckers.” “Let’s forget about ‘we’ and ‘they’ – let’s think about us!” In the context of the emerging Cold War, this film appears paradoxical…” – <a href=\"https://archive.org/details/DontBeaS1947\">Don’t Be a Sucker : U.S. War Department : Internet Archive</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>🏛 “shows that respondents who could correctly identify North Korea tended to view diplomatic and nonmilitary strategies more favorably than those who could not…” – <a href=\"https://www.nytimes.com/interactive/2017/05/14/upshot/if-americans-can-find-north-korea-on-a-map-theyre-more-likely-to-prefer-diplomacy.html\">If Americans Can Find North Korea on a Map, They’re More Likely to Prefer Diplomacy - NYT</a></p>\n",
 			"date_published": "2017-08-10T17:34:00-04:00",
 			"url": "http://hager.blog/2017/08/10/shows-that-respondents.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/10/williams-fjaqpm-engine.html",
-	      	
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Williams-FJ44-4A-QPM-Engine-Certified-229481-1.html\">Williams FJ44-4A-QPM Engine Certified - AVweb</a></p>\n",
-			"date_published": "2017-08-09T20:58:00-04:00",
-			"url": "http://hager.blog/2017/08/09/williams-fjaqpm-engine.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/10/the-loyal-engineers.html",
-	      	
-			"content_html": "<p>🚀 <a href=\"https://www.nytimes.com/2017/08/03/magazine/the-loyal-engineers-steering-nasas-voyager-probes-across-the-universe.html?_r=0\">The Loyal Engineers Steering NASA’s Voyager Probes Across the Universe - The New York Times</a></p>\n",
-			"date_published": "2017-08-09T20:55:00-04:00",
-			"url": "http://hager.blog/2017/08/09/the-loyal-engineers.html"
 		}
 		
 	]
