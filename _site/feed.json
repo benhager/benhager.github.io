@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/17/why-would-a.html",
+	      	
+			"content_html": "<p>🏛 “Why would a city in a state that sat out the Civil War erect a monument to Confederate generals in 1948…” – <a href=\"http://m.huffpost.com/us/entry/us_5995a3a6e4b0d0d2cc84c952/amp\">Baltimore’s Confederate Monument Was Never About ‘History And Culture’</a></p>\n",
+			"date_published": "2017-08-17T17:52:00-04:00",
+			"url": "http://hager.blog/2017/08/17/why-would-a.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/08/17/nasa-offers-free.html",
+	      	
+			"content_html": "<p>✈️🚀 <a href=\"https://www.avweb.com/avwebflash/news/NASA-Offers-Free-Aviation-E-books-229517-1.html\">NASA Offers Free Aviation E-books - AVweb flash Article</a></p>\n",
+			"date_published": "2017-08-17T07:23:00-04:00",
+			"url": "http://hager.blog/2017/08/17/nasa-offers-free.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/16/piston-aircraft-sales.html",
 	      	
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Piston-Aircraft-Sales-Surge-229512-1.html\">Piston Aircraft Sales Surge - AVweb flash Article</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Air-Force-OA-X-Trials-Likely-Moving-to-Battlefield-229496-1.html\">Air Force OA-X Trials Likely Moving to Battlefield - AVweb</a></p>\n",
 			"date_published": "2017-08-12T14:12:00-04:00",
 			"url": "http://hager.blog/2017/08/12/air-force-oax.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/12/state-of-emergency.html",
-	      	
-			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2017/08/12/us/charlottesville-protest-white-nationalist.html\">State of Emergency Declared in Charlottesville After Protests Turn Violent - The New York Times</a></p>\n",
-			"date_published": "2017-08-12T13:59:00-04:00",
-			"url": "http://hager.blog/2017/08/12/state-of-emergency.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/12/trump-will-take.html",
-	      	
-			"content_html": "<p>🏛 Trump will take on almost everyone, including members of his own cabinet and party. Everyone, that is, except Putin.</p>\n\n<p><a href=\"https://mobile.nytimes.com/2017/08/11/us/politics/combative-trump-pulls-his-punches-for-one-man-putin.html\">Combative Trump Pulls His Punches for One Man: Putin - NYTimes</a></p>\n",
-			"date_published": "2017-08-11T21:43:00-04:00",
-			"url": "http://hager.blog/2017/08/11/trump-will-take.html"
 		}
 		
 	]
