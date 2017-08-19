@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/19/he-abdicated-his.html",
+	      	
+			"content_html": "<p>🏛 “He abdicated his responsibilities so thoroughly and recklessly that it amounted to a letter of resignation…” – <a href=\"https://www.nytimes.com/2017/08/18/opinion/sunday/president-trump-resignation.html\">The Week When President Trump Resigned - NYTimes</a></p>\n",
+			"date_published": "2017-08-19T08:21:00-04:00",
+			"url": "http://hager.blog/2017/08/19/he-abdicated-his.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/17/he-also-pledged.html",
 	      	
 			"content_html": "<p>📱 “He also pledged big donations to the Southern Poverty Law Center and the Anti-Defamation League…” – <a href=\"https://www.recode.net/2017/8/16/16160202/apple-tim-cook-donald-trump-neo-nazi-violence-charlottesville\">Apple’s Tim Cook ‘disagrees’ with Donald Trump’s take on neo-Nazi violence in Charlottesville</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Two-Die-in-Helicopter-Crash-Near-Charlottesville-Demonstration-229499-1.html\">Two Die in Helicopter Crash Near Charlottesville Demonstration - AVweb</a></p>\n",
 			"date_published": "2017-08-13T16:00:00-04:00",
 			"url": "http://hager.blog/2017/08/13/two-die-in.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/12/commentary-trump-engineering.html",
-	      	
-			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/tech-talk/aerospace/military/commentary-trump-engineering-advisors-and-the-north-korea-crisis\">Commentary: Trump, Engineering Advisers, and the North Korea Crisis - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-08-12T17:22:00-04:00",
-			"url": "http://hager.blog/2017/08/12/commentary-trump-engineering.html"
 		}
 		
 	]
