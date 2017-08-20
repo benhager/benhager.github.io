@@ -2,10 +2,19 @@
 <rss version="2.0">
   <channel>
     <title>Ben Hager</title>
-    <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
+    <description>Follow &lt;a href=&quot;https://micro.blog/benhager&quot;&gt;@benhager on Micro.blog&lt;/a&gt;.</description>
     <link>http://hager.blog/</link>
-    <pubDate>Sun, 20 Aug 2017 03:28:18 -0400</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 03:28:18 -0400</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2017 13:32:09 -0400</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2017 13:32:09 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;💻 &lt;a href=&quot;http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/the-big-sprawl-software-engineering-jobs-escape-into-new-territories&quot;&gt;The Big Sprawl: Software Engineering Jobs Escape Into New Territories - IEEE Spectrum&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Aug 2017 13:32:00 -0400</pubDate>
+        <link>http://hager.blog/2017/08/20/the-big-sprawl.html</link>
+        <guid isPermaLink="true">http://benhager.micro.blog/2017/08/20/the-big-sprawl.html</guid>
+      </item>
     
       <item>
       	
@@ -454,15 +463,6 @@
         <pubDate>Thu, 27 Jul 2017 20:58:00 -0400</pubDate>
         <link>http://hager.blog/2017/07/27/some-in-the.html</link>
         <guid isPermaLink="true">http://benhager.micro.blog/2017/07/28/some-in-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;🏛 “The Senate voted 98-2 to approve the sanctions bill that cleared the House earlier this week…” – &lt;a href=&quot;http://www.politico.com/story/2017/07/27/russia-sanctions-bill-senate-to-pass-241034?lo=ap_a1&quot;&gt;Congress sends Russia sanctions to Trump’s desk, daring a veto - POLITICO&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 27 Jul 2017 20:53:00 -0400</pubDate>
-        <link>http://hager.blog/2017/07/27/the-senate-voted.html</link>
-        <guid isPermaLink="true">http://benhager.micro.blog/2017/07/28/the-senate-voted.html</guid>
       </item>
     
   </channel>
