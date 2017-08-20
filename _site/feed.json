@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/20/the-big-sprawl.html",
+	      	
+			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/the-big-sprawl-software-engineering-jobs-escape-into-new-territories\">The Big Sprawl: Software Engineering Jobs Escape Into New Territories - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-08-20T13:32:00-04:00",
+			"url": "http://hager.blog/2017/08/20/the-big-sprawl.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/20/small-cells-will.html",
 	      	
 			"content_html": "<p>📱 “Small cells will help companies build denser 5G networks that can reuse bandwidth more efficiently…” – <a href=\"http://spectrum.ieee.org/video/telecom/wireless/5g-bytes-small-cells-explained\">5G Bytes: Small Cells Explained - IEEE Spectrum</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Is-There-A-Delorean-In-Aviations-Future-229507-1.html\">Is There A DeLorean In Aviation’s Future? - AVweb flash Article</a></p>\n",
 			"date_published": "2017-08-14T18:23:00-04:00",
 			"url": "http://hager.blog/2017/08/14/is-there-a.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/13/admonishes-americans-that.html",
-	      	
-			"content_html": "<p>🌎 “Admonishes Americans that they will lose their country if they let fanaticism and hatred turn them into “suckers.” “Let’s forget about ‘we’ and ‘they’ – let’s think about us!” In the context of the emerging Cold War, this film appears paradoxical…” – <a href=\"https://archive.org/details/DontBeaS1947\">Don’t Be a Sucker : U.S. War Department : Internet Archive</a></p>\n",
-			"date_published": "2017-08-13T17:38:00-04:00",
-			"url": "http://hager.blog/2017/08/13/admonishes-americans-that.html"
 		}
 		
 	]
