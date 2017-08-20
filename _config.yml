@@ -34,8 +34,8 @@ sass:
 
 title: "Ben Hager"
 tagline: ""
-description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
-credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+description: "Follow <a href=\"https://micro.blog/benhager\">@benhager on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/benhager\">@benhager on Micro.blog</a>."
 baseurl: ""
 url: "http://hager.blog"
 markdown: "kramdown"
