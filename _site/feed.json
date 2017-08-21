@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/21/eclipse-and-transit.html",
+	      	
+			"content_html": "<p>🌎 <a href=\"https://www.nasa.gov/eclipsephotos\">Eclipse and Transit Images - NASA</a></p>\n",
+			"date_published": "2017-08-21T18:01:00-04:00",
+			"url": "http://hager.blog/2017/08/21/eclipse-and-transit.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/20/the-big-sprawl.html",
 	      	
 			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/the-big-sprawl-software-engineering-jobs-escape-into-new-territories\">The Big Sprawl: Software Engineering Jobs Escape Into New Territories - IEEE Spectrum</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 “The biggest critique of the United States’ H-1B visa program is that tech companies use it as a channel for importing cheap labor from overseas. New data released by the federal government affirms that argument…” – <a href=\"http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/new-data-hammers-home-problems-with-h1bs-and-outsourcing-firms\">New Data Hammers Home Problems With H-1Bs and Outsourcing Firms - IEEE</a></p>\n",
 			"date_published": "2017-08-14T18:30:00-04:00",
 			"url": "http://hager.blog/2017/08/14/the-biggest-critique.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/14/is-there-a.html",
-	      	
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Is-There-A-Delorean-In-Aviations-Future-229507-1.html\">Is There A DeLorean In Aviation’s Future? - AVweb flash Article</a></p>\n",
-			"date_published": "2017-08-14T18:23:00-04:00",
-			"url": "http://hager.blog/2017/08/14/is-there-a.html"
 		}
 		
 	]
