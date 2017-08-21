@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/21/enjoyed-watching-some.html",
+	      	
+			"content_html": "<p>Enjoyed watching some of the eclipse today at work, we got about 80% totality here. One of my co-workers got this shot with his camera.</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/24c0df8bf3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-21T18:30:00-04:00",
+			"url": "http://hager.blog/2017/08/21/enjoyed-watching-some.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/21/eclipse-and-transit.html",
 	      	
 			"content_html": "<p>🌎 <a href=\"https://www.nasa.gov/eclipsephotos\">Eclipse and Transit Images - NASA</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 “Air Berlin, Germany’s second-largest carrier, has filed for insolvency, after its main shareholder Etihad declared it would not be providing further financial support…” – <a href=\"http://www.bbc.com/news/business-40935559\">Air Berlin files for insolvency but flights continue - BBC News</a></p>\n",
 			"date_published": "2017-08-15T16:35:00-04:00",
 			"url": "http://hager.blog/2017/08/15/air-berlin-germanys.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/14/the-biggest-critique.html",
-	      	
-			"content_html": "<p>🏛 “The biggest critique of the United States’ H-1B visa program is that tech companies use it as a channel for importing cheap labor from overseas. New data released by the federal government affirms that argument…” – <a href=\"http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/new-data-hammers-home-problems-with-h1bs-and-outsourcing-firms\">New Data Hammers Home Problems With H-1Bs and Outsourcing Firms - IEEE</a></p>\n",
-			"date_published": "2017-08-14T18:30:00-04:00",
-			"url": "http://hager.blog/2017/08/14/the-biggest-critique.html"
 		}
 		
 	]
