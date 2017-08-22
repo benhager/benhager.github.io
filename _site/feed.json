@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/22/california-faced-the.html",
+	      	
+			"content_html": "<p>🌎 “California faced the biggest challenge. It is not in the path of totality, but the 56- to 78-percent blockage of sunlight will have a big impact thanks to 18,000 gigawatts worth of solar panels deployed at utility-scale power plants and across rooftops—more than any other state…” – <a href=\"http://spectrum.ieee.org/energywise/green-tech/solar/how-california-grid-operators-managed-the-eclipse\">How California Grid Operators Managed the Eclipse - IEEE</a></p>\n",
+			"date_published": "2017-08-21T22:50:00-04:00",
+			"url": "http://hager.blog/2017/08/21/california-faced-the.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/21/enjoyed-watching-some.html",
 	      	
 			"content_html": "<p>Enjoyed watching some of the eclipse today at work, we got about 80% totality here. One of my co-workers got this shot with his camera.</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/24c0df8bf3.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Piston-Aircraft-Sales-Surge-229512-1.html\">Piston Aircraft Sales Surge - AVweb flash Article</a></p>\n",
 			"date_published": "2017-08-16T07:33:00-04:00",
 			"url": "http://hager.blog/2017/08/16/piston-aircraft-sales.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/15/air-berlin-germanys.html",
-	      	
-			"content_html": "<p>🛩 “Air Berlin, Germany’s second-largest carrier, has filed for insolvency, after its main shareholder Etihad declared it would not be providing further financial support…” – <a href=\"http://www.bbc.com/news/business-40935559\">Air Berlin files for insolvency but flights continue - BBC News</a></p>\n",
-			"date_published": "2017-08-15T16:35:00-04:00",
-			"url": "http://hager.blog/2017/08/15/air-berlin-germanys.html"
 		}
 		
 	]
