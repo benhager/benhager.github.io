@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/22/our-small-electric.html",
+	      	
+			"content_html": "<p>✈️ “Our small electric plane, which uses light and powerful batteries and motors, is less costly than its gasoline-engine rivals…” – <a href=\"http://spectrum.ieee.org/aerospace/aviation/cheaper-lighter-quieter-the-electrification-of-flight-is-at-hand\">Cheaper, Lighter, Quieter: The Electrification of Flight Is at Hand - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-08-22T19:30:00-04:00",
+			"url": "http://hager.blog/2017/08/22/our-small-electric.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/08/22/part-of-the.html",
+	      	
+			"content_html": "<p>💻 “Part of the logic in your book leads to the counterintuitive idea that the best team might not have the best individuals on it…” – <a href=\"http://spectrum.ieee.org/at-work/tech-careers/when-diversity-deliversand-when-it-doesnt\">When Diversity Delivers—and When It Doesn’t - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-08-22T19:27:00-04:00",
+			"url": "http://hager.blog/2017/08/22/part-of-the.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/22/california-faced-the.html",
 	      	
 			"content_html": "<p>🌎 “California faced the biggest challenge. It is not in the path of totality, but the 56- to 78-percent blockage of sunlight will have a big impact thanks to 18,000 gigawatts worth of solar panels deployed at utility-scale power plants and across rooftops—more than any other state…” – <a href=\"http://spectrum.ieee.org/energywise/green-tech/solar/how-california-grid-operators-managed-the-eclipse\">How California Grid Operators Managed the Eclipse - IEEE</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>🏛 “Why would a city in a state that sat out the Civil War erect a monument to Confederate generals in 1948…” – <a href=\"http://m.huffpost.com/us/entry/us_5995a3a6e4b0d0d2cc84c952/amp\">Baltimore’s Confederate Monument Was Never About ‘History And Culture’</a></p>\n",
 			"date_published": "2017-08-17T17:52:00-04:00",
 			"url": "http://hager.blog/2017/08/17/why-would-a.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/17/nasa-offers-free.html",
-	      	
-			"content_html": "<p>✈️🚀 <a href=\"https://www.avweb.com/avwebflash/news/NASA-Offers-Free-Aviation-E-books-229517-1.html\">NASA Offers Free Aviation E-books - AVweb flash Article</a></p>\n",
-			"date_published": "2017-08-17T07:23:00-04:00",
-			"url": "http://hager.blog/2017/08/17/nasa-offers-free.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/16/piston-aircraft-sales.html",
-	      	
-			"content_html": "<p>🛩 <a href=\"https://www.avweb.com/avwebflash/news/Piston-Aircraft-Sales-Surge-229512-1.html\">Piston Aircraft Sales Surge - AVweb flash Article</a></p>\n",
-			"date_published": "2017-08-16T07:33:00-04:00",
-			"url": "http://hager.blog/2017/08/16/piston-aircraft-sales.html"
 		}
 		
 	]
