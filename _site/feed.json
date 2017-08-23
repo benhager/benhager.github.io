@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/23/offline-onlyhttpschrisbolincooffline.html",
+	      	
+			"content_html": "<p>📱 <a href=\"https://chris.bolin.co/offline/\">Offline Only</a></p>\n",
+			"date_published": "2017-08-23T17:26:00-04:00",
+			"url": "http://hager.blog/2017/08/23/offline-onlyhttpschrisbolincooffline.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/23/what-was-once.html",
 	      	
 			"content_html": "<p>🏛 “What was once an uneasy governing alliance has curdled into a feud of mutual resentment and sometimes outright hostility…” – <a href=\"https://nytimes.com/2017/08/22/us/politics/mitch-mcconnell-trump.html?referer=\">McConnell, in Private, Doubts if Trump Can Save Presidency - NYTimes</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 “He abdicated his responsibilities so thoroughly and recklessly that it amounted to a letter of resignation…” – <a href=\"https://www.nytimes.com/2017/08/18/opinion/sunday/president-trump-resignation.html\">The Week When President Trump Resigned - NYTimes</a></p>\n",
 			"date_published": "2017-08-19T08:21:00-04:00",
 			"url": "http://hager.blog/2017/08/19/he-abdicated-his.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/17/he-also-pledged.html",
-	      	
-			"content_html": "<p>📱 “He also pledged big donations to the Southern Poverty Law Center and the Anti-Defamation League…” – <a href=\"https://www.recode.net/2017/8/16/16160202/apple-tim-cook-donald-trump-neo-nazi-violence-charlottesville\">Apple’s Tim Cook ‘disagrees’ with Donald Trump’s take on neo-Nazi violence in Charlottesville</a></p>\n",
-			"date_published": "2017-08-17T19:26:00-04:00",
-			"url": "http://hager.blog/2017/08/17/he-also-pledged.html"
 		}
 		
 	]
