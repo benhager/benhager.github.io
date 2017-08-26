@@ -1,9 +1,8 @@
 ---
 title: About
-permalink: about/
-profile: true
-layout: default
-css_class: home
+permalink: /about/
+layout: page
+order: 0
 ---
 
 father, engineer, programmer, technology junkie
