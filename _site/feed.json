@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/26/ge-reveals-major.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.flightglobal.com/news/articles/ge-reveals-major-achievements-in-hybrid-electric-pro-440602\">GE reveals major achievements in hybrid electric propulsion</a></p>\n",
+			"date_published": "2017-08-26T15:54:00-04:00",
+			"url": "http://hager.blog/2017/08/26/ge-reveals-major.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/08/26/144152.html",
+	      	
+			"content_html": "<p>🏛 Read this thread about the person Trump just pardoned: <a href=\"https://twitter.com/phoenixnewtimes/status/901263384087334914\">Phoenix New Times</a></p>\n",
+			"date_published": "2017-08-26T10:41:00-04:00",
+			"url": "http://hager.blog/2017/08/26/144152.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/08/26/hope-everyone-stays.html",
+	      	
+			"content_html": "<p>🌎 Hope everyone stays safe! </p>\n\n<p><a href=\"https://www.avweb.com/avwebflash/news/Feds-Prepare-for-Hurricane-Harvey-229546-1.html\">Feds Prepare for Hurricane Harvey - AVweb</a></p>\n",
+			"date_published": "2017-08-26T08:48:00-04:00",
+			"url": "http://hager.blog/2017/08/26/hope-everyone-stays.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/25/airbus-vahana-on.html",
 	      	
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Airbus-Vahana-On-Track-For-November-Flight-Tests-229541-1.html\">Airbus Vahana On Track For November Flight Tests - AVweb</a></p>\n",
@@ -59,30 +83,6 @@
 			"content_html": "<p>🌎 “California faced the biggest challenge. It is not in the path of totality, but the 56- to 78-percent blockage of sunlight will have a big impact thanks to 18,000 gigawatts worth of solar panels deployed at utility-scale power plants and across rooftops—more than any other state…” – <a href=\"http://spectrum.ieee.org/energywise/green-tech/solar/how-california-grid-operators-managed-the-eclipse\">How California Grid Operators Managed the Eclipse - IEEE</a></p>\n",
 			"date_published": "2017-08-21T22:50:00-04:00",
 			"url": "http://hager.blog/2017/08/21/california-faced-the.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/21/enjoyed-watching-some.html",
-	      	
-			"content_html": "<p>Enjoyed watching some of the eclipse today at work, we got about 80% totality here. One of my co-workers got this shot with his camera.</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/24c0df8bf3.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-08-21T18:30:00-04:00",
-			"url": "http://hager.blog/2017/08/21/enjoyed-watching-some.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/21/eclipse-and-transit.html",
-	      	
-			"content_html": "<p>🌎 <a href=\"https://www.nasa.gov/eclipsephotos\">Eclipse and Transit Images - NASA</a></p>\n",
-			"date_published": "2017-08-21T18:01:00-04:00",
-			"url": "http://hager.blog/2017/08/21/eclipse-and-transit.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/20/the-big-sprawl.html",
-	      	
-			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/the-big-sprawl-software-engineering-jobs-escape-into-new-territories\">The Big Sprawl: Software Engineering Jobs Escape Into New Territories - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-08-20T13:32:00-04:00",
-			"url": "http://hager.blog/2017/08/20/the-big-sprawl.html"
 		}
 		
 	]
