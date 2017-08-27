@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/27/big-customers-demand.html",
+	      	
+			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/energy/the-smarter-grid/big-customers-demand-100-percent-renewablesand-utilities-look-set-to-deliver\">Big Customers Demand 100 Percent Renewables—and Utilities Look Set to Deliver - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-08-27T10:17:00-04:00",
+			"url": "http://hager.blog/2017/08/27/big-customers-demand.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/26/the-future-of.html",
 	      	
 			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/computing/hardware/the-future-of-computing-depends-on-making-it-reversible\">The Future of Computing Depends on Making It Reversible - IEEE Spectrum</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ “Our small electric plane, which uses light and powerful batteries and motors, is less costly than its gasoline-engine rivals…” – <a href=\"http://spectrum.ieee.org/aerospace/aviation/cheaper-lighter-quieter-the-electrification-of-flight-is-at-hand\">Cheaper, Lighter, Quieter: The Electrification of Flight Is at Hand - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-08-22T19:30:00-04:00",
 			"url": "http://hager.blog/2017/08/22/our-small-electric.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/22/part-of-the.html",
-	      	
-			"content_html": "<p>💻 “Part of the logic in your book leads to the counterintuitive idea that the best team might not have the best individuals on it…” – <a href=\"http://spectrum.ieee.org/at-work/tech-careers/when-diversity-deliversand-when-it-doesnt\">When Diversity Delivers—and When It Doesn’t - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-08-22T19:27:00-04:00",
-			"url": "http://hager.blog/2017/08/22/part-of-the.html"
 		}
 		
 	]
