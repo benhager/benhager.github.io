@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/27/nasa-considers-five.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/NASA-Considers-Five-X-Plane-Concepts-229558-1.html\">NASA Considers Five X-Plane Concepts - AVweb flash Article</a></p>\n",
+			"date_published": "2017-08-27T15:51:00-04:00",
+			"url": "http://hager.blog/2017/08/27/nasa-considers-five.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/27/big-customers-demand.html",
 	      	
 			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/energy/the-smarter-grid/big-customers-demand-100-percent-renewablesand-utilities-look-set-to-deliver\">Big Customers Demand 100 Percent Renewables—and Utilities Look Set to Deliver - IEEE Spectrum</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 “What was once an uneasy governing alliance has curdled into a feud of mutual resentment and sometimes outright hostility…” – <a href=\"https://nytimes.com/2017/08/22/us/politics/mitch-mcconnell-trump.html?referer=\">McConnell, in Private, Doubts if Trump Can Save Presidency - NYTimes</a></p>\n",
 			"date_published": "2017-08-22T22:01:00-04:00",
 			"url": "http://hager.blog/2017/08/22/what-was-once.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/22/our-small-electric.html",
-	      	
-			"content_html": "<p>✈️ “Our small electric plane, which uses light and powerful batteries and motors, is less costly than its gasoline-engine rivals…” – <a href=\"http://spectrum.ieee.org/aerospace/aviation/cheaper-lighter-quieter-the-electrification-of-flight-is-at-hand\">Cheaper, Lighter, Quieter: The Electrification of Flight Is at Hand - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-08-22T19:30:00-04:00",
-			"url": "http://hager.blog/2017/08/22/our-small-electric.html"
 		}
 		
 	]
