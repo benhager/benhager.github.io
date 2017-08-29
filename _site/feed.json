@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/29/united-technologies-nears.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.wsj.com/amp/articles/united-technologies-nears-deal-to-buy-rockwell-collins-for-more-than-20-billion-1504019858\">United Technologies Nears Deal to Buy Rockwell Collins for More Than $20 Billion - WSJ</a></p>\n",
+			"date_published": "2017-08-29T13:01:00-04:00",
+			"url": "http://hager.blog/2017/08/29/united-technologies-nears.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/08/28/the-pair-voted.html",
+	      	
+			"content_html": "<p>🏛 “The pair voted against a disaster relief package after Hurricane Sandy slammed the U.S. east coast in 2013, causing severe damage to the region…” – <a href=\"http://thehill.com/homenews/senate/348015-cruz-cornyn-back-texas-governors-request-for-disaster-declaration\">Cruz, Cornyn back Texas gov’s request for disaster declaration - TheHill</a></p>\n",
+			"date_published": "2017-08-27T21:31:00-04:00",
+			"url": "http://hager.blog/2017/08/27/the-pair-voted.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/28/students-race-driverless.html",
 	      	
 			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/students-race-driverless-cars-in-germany-in-formula-student-competition\">Students Race Driverless Cars in Germany in Formula Student Competition - IEEE Spectrum</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Airbus-Vahana-On-Track-For-November-Flight-Tests-229541-1.html\">Airbus Vahana On Track For November Flight Tests - AVweb</a></p>\n",
 			"date_published": "2017-08-25T19:50:00-04:00",
 			"url": "http://hager.blog/2017/08/25/airbus-vahana-on.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/23/the-crew-declared.html",
-	      	
-			"content_html": "<p>✈️ “The crew declared an emergency and landed safely at Wichita…” – <a href=\"https://www.avweb.com/avwebflash/news/Bombardier-Engine-Shuts-Down-During-Test-Flight-229535-1.html\">Bombardier Engine Shuts Down During Test Flight - AVweb</a></p>\n",
-			"date_published": "2017-08-23T18:48:00-04:00",
-			"url": "http://hager.blog/2017/08/23/the-crew-declared.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/23/offline-onlyhttpschrisbolincooffline.html",
-	      	
-			"content_html": "<p>📱 <a href=\"https://chris.bolin.co/offline/\">Offline Only</a></p>\n",
-			"date_published": "2017-08-23T17:26:00-04:00",
-			"url": "http://hager.blog/2017/08/23/offline-onlyhttpschrisbolincooffline.html"
 		}
 		
 	]
