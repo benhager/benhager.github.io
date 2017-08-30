@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/30/we-intend-to.html",
+	      	
+			"content_html": "<p>📱 “we intend to partner with private companies and public safety agencies to help emergency responders around the world stay connected at times when communicating is, quite literally, a matter of life and death.” – <a href=\"http://spectrum.ieee.org/telecom/wireless/when-disaster-strikes-flying-cell-towers-could-aid-search-and-rescue\">When Disaster Strikes, Flying Cell Towers Could Aid Search and Rescue - IEEE</a></p>\n",
+			"date_published": "2017-08-29T21:00:00-04:00",
+			"url": "http://hager.blog/2017/08/29/we-intend-to.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/08/30/apple-prepare-for.html",
+	      	
+			"content_html": "<p>💻 <a href=\"https://512pixels.net/2017/08/apple-prepare-for-apfs/\">Apple: Prepare for APFS – 512 Pixels</a></p>\n",
+			"date_published": "2017-08-29T20:56:00-04:00",
+			"url": "http://hager.blog/2017/08/29/apple-prepare-for.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/29/united-technologies-nears.html",
 	      	
 			"content_html": "<p>✈️ <a href=\"https://www.wsj.com/amp/articles/united-technologies-nears-deal-to-buy-rockwell-collins-for-more-than-20-billion-1504019858\">United Technologies Nears Deal to Buy Rockwell Collins for More Than $20 Billion - WSJ</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>🏛 Read this thread about the person Trump just pardoned: <a href=\"https://twitter.com/phoenixnewtimes/status/901263384087334914\">Phoenix New Times</a></p>\n",
 			"date_published": "2017-08-26T10:41:00-04:00",
 			"url": "http://hager.blog/2017/08/26/144152.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/26/hope-everyone-stays.html",
-	      	
-			"content_html": "<p>🌎 Hope everyone stays safe! </p>\n\n<p><a href=\"https://www.avweb.com/avwebflash/news/Feds-Prepare-for-Hurricane-Harvey-229546-1.html\">Feds Prepare for Hurricane Harvey - AVweb</a></p>\n",
-			"date_published": "2017-08-26T08:48:00-04:00",
-			"url": "http://hager.blog/2017/08/26/hope-everyone-stays.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/25/airbus-vahana-on.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Airbus-Vahana-On-Track-For-November-Flight-Tests-229541-1.html\">Airbus Vahana On Track For November Flight Tests - AVweb</a></p>\n",
-			"date_published": "2017-08-25T19:50:00-04:00",
-			"url": "http://hager.blog/2017/08/25/airbus-vahana-on.html"
 		}
 		
 	]
