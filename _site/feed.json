@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/30/houstons-big-dams.html",
+	      	
+			"content_html": "<p>🌎 <a href=\"http://projects.propublica.org/graphics/addicks-barker\">Houston’s Big Dams Won’t Fail. But Many Neighborhoods Will Have to Be Flooded to Save Them. - ProPublica</a></p>\n",
+			"date_published": "2017-08-29T23:00:00-04:00",
+			"url": "http://hager.blog/2017/08/29/houstons-big-dams.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/30/we-intend-to.html",
 	      	
 			"content_html": "<p>📱 “we intend to partner with private companies and public safety agencies to help emergency responders around the world stay connected at times when communicating is, quite literally, a matter of life and death.” – <a href=\"http://spectrum.ieee.org/telecom/wireless/when-disaster-strikes-flying-cell-towers-could-aid-search-and-rescue\">When Disaster Strikes, Flying Cell Towers Could Aid Search and Rescue - IEEE</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.flightglobal.com/news/articles/ge-reveals-major-achievements-in-hybrid-electric-pro-440602\">GE reveals major achievements in hybrid electric propulsion</a></p>\n",
 			"date_published": "2017-08-26T15:54:00-04:00",
 			"url": "http://hager.blog/2017/08/26/ge-reveals-major.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/26/144152.html",
-	      	
-			"content_html": "<p>🏛 Read this thread about the person Trump just pardoned: <a href=\"https://twitter.com/phoenixnewtimes/status/901263384087334914\">Phoenix New Times</a></p>\n",
-			"date_published": "2017-08-26T10:41:00-04:00",
-			"url": "http://hager.blog/2017/08/26/144152.html"
 		}
 		
 	]
