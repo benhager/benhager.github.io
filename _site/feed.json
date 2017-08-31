@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/08/31/sierra-nevada-corporations.html",
+	      	
+			"content_html": "<p>🚀 “Sierra Nevada Corporation’s Dream Chaser left the ground at Edwards Air Force Base on Wednesday but the real testing is just about to begin…” – <a href=\"https://www.avweb.com/avwebflash/news/Dream-Chaser-Gets-A-Lift-229569-1.html\">Dream Chaser Gets A Lift - AVweb</a></p>\n",
+			"date_published": "2017-08-31T12:45:00-04:00",
+			"url": "http://hager.blog/2017/08/31/sierra-nevada-corporations.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/30/houstons-big-dams.html",
 	      	
 			"content_html": "<p>🌎 <a href=\"http://projects.propublica.org/graphics/addicks-barker\">Houston’s Big Dams Won’t Fail. But Many Neighborhoods Will Have to Be Flooded to Save Them. - ProPublica</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/computing/hardware/the-future-of-computing-depends-on-making-it-reversible\">The Future of Computing Depends on Making It Reversible - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-08-26T19:28:00-04:00",
 			"url": "http://hager.blog/2017/08/26/the-future-of.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/26/ge-reveals-major.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://www.flightglobal.com/news/articles/ge-reveals-major-achievements-in-hybrid-electric-pro-440602\">GE reveals major achievements in hybrid electric propulsion</a></p>\n",
-			"date_published": "2017-08-26T15:54:00-04:00",
-			"url": "http://hager.blog/2017/08/26/ge-reveals-major.html"
 		}
 		
 	]
