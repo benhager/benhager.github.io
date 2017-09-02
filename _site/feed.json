@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/02/water-landings-in.html",
+	      	
+			"content_html": "<p>✈️ “Water landings in amphibious aircraft are no cause for alarm, but that’s a message still making its way to the general public…” – <a href=\"https://www.avweb.com/avwebflash/news/Icon-A5-Triggers-911-Calls-229577-1.html\">Icon A5 Triggers 911 Calls - AVweb</a></p>\n",
+			"date_published": "2017-09-02T14:56:00-04:00",
+			"url": "http://hager.blog/2017/09/02/water-landings-in.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/08/31/sierra-nevada-corporations.html",
 	      	
 			"content_html": "<p>🚀 “Sierra Nevada Corporation’s Dream Chaser left the ground at Edwards Air Force Base on Wednesday but the real testing is just about to begin…” – <a href=\"https://www.avweb.com/avwebflash/news/Dream-Chaser-Gets-A-Lift-229569-1.html\">Dream Chaser Gets A Lift - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/energy/the-smarter-grid/big-customers-demand-100-percent-renewablesand-utilities-look-set-to-deliver\">Big Customers Demand 100 Percent Renewables—and Utilities Look Set to Deliver - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-08-27T10:17:00-04:00",
 			"url": "http://hager.blog/2017/08/27/big-customers-demand.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/26/the-future-of.html",
-	      	
-			"content_html": "<p>💻 <a href=\"http://spectrum.ieee.org/computing/hardware/the-future-of-computing-depends-on-making-it-reversible\">The Future of Computing Depends on Making It Reversible - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-08-26T19:28:00-04:00",
-			"url": "http://hager.blog/2017/08/26/the-future-of.html"
 		}
 		
 	]
