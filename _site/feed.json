@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/03/why-george-keyworth.html",
+	      	
+			"content_html": "<p>🔬 <a href=\"https://spectrum.ieee.org/view-from-the-valley/geek-life/profiles/remembering-george-keyworthand-why-he-thought-science-belonged-in-the-white-house\">Why George Keyworth Thought Science Belonged in the White House - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-09-03T04:58:00-04:00",
+			"url": "http://hager.blog/2017/09/03/why-george-keyworth.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/02/water-landings-in.html",
 	      	
 			"content_html": "<p>✈️ “Water landings in amphibious aircraft are no cause for alarm, but that’s a message still making its way to the general public…” – <a href=\"https://www.avweb.com/avwebflash/news/Icon-A5-Triggers-911-Calls-229577-1.html\">Icon A5 Triggers 911 Calls - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/NASA-Considers-Five-X-Plane-Concepts-229558-1.html\">NASA Considers Five X-Plane Concepts - AVweb flash Article</a></p>\n",
 			"date_published": "2017-08-27T15:51:00-04:00",
 			"url": "http://hager.blog/2017/08/27/nasa-considers-five.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/27/big-customers-demand.html",
-	      	
-			"content_html": "<p>🌎 <a href=\"http://spectrum.ieee.org/energy/the-smarter-grid/big-customers-demand-100-percent-renewablesand-utilities-look-set-to-deliver\">Big Customers Demand 100 Percent Renewables—and Utilities Look Set to Deliver - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-08-27T10:17:00-04:00",
-			"url": "http://hager.blog/2017/08/27/big-customers-demand.html"
 		}
 		
 	]
