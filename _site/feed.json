@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/04/eclipse-ea-first.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Eclipse-EA700-First-Flight-229584-1.html\">Eclipse EA700 First Flight - AVweb flash Article</a></p>\n",
+			"date_published": "2017-09-04T03:44:00-04:00",
+			"url": "http://hager.blog/2017/09/04/eclipse-ea-first.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/03/why-george-keyworth.html",
 	      	
 			"content_html": "<p>🔬 <a href=\"https://spectrum.ieee.org/view-from-the-valley/geek-life/profiles/remembering-george-keyworthand-why-he-thought-science-belonged-in-the-white-house\">Why George Keyworth Thought Science Belonged in the White House - IEEE Spectrum</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🚗 <a href=\"http://spectrum.ieee.org/cars-that-think/transportation/self-driving/students-race-driverless-cars-in-germany-in-formula-student-competition\">Students Race Driverless Cars in Germany in Formula Student Competition - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-08-27T20:10:00-04:00",
 			"url": "http://hager.blog/2017/08/27/students-race-driverless.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/27/nasa-considers-five.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/NASA-Considers-Five-X-Plane-Concepts-229558-1.html\">NASA Considers Five X-Plane Concepts - AVweb flash Article</a></p>\n",
-			"date_published": "2017-08-27T15:51:00-04:00",
-			"url": "http://hager.blog/2017/08/27/nasa-considers-five.html"
 		}
 		
 	]
