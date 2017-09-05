@@ -91,7 +91,11 @@ h4 {
 }
 
 ul {
-	padding: 10px;
+	list-style: disc inside;
+	padding-top: 5px;
+	padding-bottom: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
 li {
