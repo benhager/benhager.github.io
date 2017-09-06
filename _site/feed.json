@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/06/the-faa-says.html",
+	      	
+			"content_html": "<p>✈️ “The FAA says the new Part 23 will enable faster installation of innovative, safety-enhancing technologies into small airplanes, while reducing costs for the aviation industry.” – <a href=\"https://www.avweb.com/avwebflash/news/New-Part-23-Now-In-Effect-229589-1.html\">New Part 23 Now In Effect - AVweb</a></p>\n",
+			"date_published": "2017-09-06T10:21:00-04:00",
+			"url": "http://hager.blog/2017/09/06/the-faa-says.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/09/06/reliable-perching-makes.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://spectrum.ieee.org/automaton/robotics/drones/reliable-perching-makes-fixedwing-uavs-much-more-useful\">Reliable Perching Makes Fixed-Wing UAVs Much More Useful - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-09-06T10:19:00-04:00",
+			"url": "http://hager.blog/2017/09/06/reliable-perching-makes.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/06/they-are-pursuing.html",
 	      	
 			"content_html": "<p>💻 “They are pursuing diverse workforces because diverse teams do better at solving big technical challenges…” – <a href=\"https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/engineering-managers-say-great-teams-need-diversity-regular-retraining\">Engineering Managers Say Great Teams Need Diversity, Regular Retraining - IEEE</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>📱 “we intend to partner with private companies and public safety agencies to help emergency responders around the world stay connected at times when communicating is, quite literally, a matter of life and death.” – <a href=\"http://spectrum.ieee.org/telecom/wireless/when-disaster-strikes-flying-cell-towers-could-aid-search-and-rescue\">When Disaster Strikes, Flying Cell Towers Could Aid Search and Rescue - IEEE</a></p>\n",
 			"date_published": "2017-08-29T21:00:00-04:00",
 			"url": "http://hager.blog/2017/08/29/we-intend-to.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/30/apple-prepare-for.html",
-	      	
-			"content_html": "<p>💻 <a href=\"https://512pixels.net/2017/08/apple-prepare-for-apfs/\">Apple: Prepare for APFS – 512 Pixels</a></p>\n",
-			"date_published": "2017-08-29T20:56:00-04:00",
-			"url": "http://hager.blog/2017/08/29/apple-prepare-for.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/29/united-technologies-nears.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://www.wsj.com/amp/articles/united-technologies-nears-deal-to-buy-rockwell-collins-for-more-than-20-billion-1504019858\">United Technologies Nears Deal to Buy Rockwell Collins for More Than $20 Billion - WSJ</a></p>\n",
-			"date_published": "2017-08-29T13:01:00-04:00",
-			"url": "http://hager.blog/2017/08/29/united-technologies-nears.html"
 		}
 		
 	]
