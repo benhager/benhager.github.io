@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/07/b-supertanker-fights.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/B747-SuperTanker-Fights-First-US-Fire-229594-1.html\">B747 SuperTanker Fights First U.S. Fire - AVweb flash Article</a></p>\n",
+			"date_published": "2017-09-07T03:22:00-04:00",
+			"url": "http://hager.blog/2017/09/07/b-supertanker-fights.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/06/the-faa-says.html",
 	      	
 			"content_html": "<p>✈️ “The FAA says the new Part 23 will enable faster installation of innovative, safety-enhancing technologies into small airplanes, while reducing costs for the aviation industry.” – <a href=\"https://www.avweb.com/avwebflash/news/New-Part-23-Now-In-Effect-229589-1.html\">New Part 23 Now In Effect - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🌎 <a href=\"http://projects.propublica.org/graphics/addicks-barker\">Houston’s Big Dams Won’t Fail. But Many Neighborhoods Will Have to Be Flooded to Save Them. - ProPublica</a></p>\n",
 			"date_published": "2017-08-29T23:00:00-04:00",
 			"url": "http://hager.blog/2017/08/29/houstons-big-dams.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/30/we-intend-to.html",
-	      	
-			"content_html": "<p>📱 “we intend to partner with private companies and public safety agencies to help emergency responders around the world stay connected at times when communicating is, quite literally, a matter of life and death.” – <a href=\"http://spectrum.ieee.org/telecom/wireless/when-disaster-strikes-flying-cell-towers-could-aid-search-and-rescue\">When Disaster Strikes, Flying Cell Towers Could Aid Search and Rescue - IEEE</a></p>\n",
-			"date_published": "2017-08-29T21:00:00-04:00",
-			"url": "http://hager.blog/2017/08/29/we-intend-to.html"
 		}
 		
 	]
