@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/09/the-tech-that.html",
+	      	
+			"content_html": "<p>🚗 <a href=\"https://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-tech-that-won-the-first-formula-student-driverless-race\">The Tech That Won the First Formula Student Driverless Race - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-09-09T12:42:00-04:00",
+			"url": "http://hager.blog/2017/09/09/the-tech-that.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/07/b-supertanker-fights.html",
 	      	
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/B747-SuperTanker-Fights-First-US-Fire-229594-1.html\">B747 SuperTanker Fights First U.S. Fire - AVweb flash Article</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🚀 “Sierra Nevada Corporation’s Dream Chaser left the ground at Edwards Air Force Base on Wednesday but the real testing is just about to begin…” – <a href=\"https://www.avweb.com/avwebflash/news/Dream-Chaser-Gets-A-Lift-229569-1.html\">Dream Chaser Gets A Lift - AVweb</a></p>\n",
 			"date_published": "2017-08-31T12:45:00-04:00",
 			"url": "http://hager.blog/2017/08/31/sierra-nevada-corporations.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/08/30/houstons-big-dams.html",
-	      	
-			"content_html": "<p>🌎 <a href=\"http://projects.propublica.org/graphics/addicks-barker\">Houston’s Big Dams Won’t Fail. But Many Neighborhoods Will Have to Be Flooded to Save Them. - ProPublica</a></p>\n",
-			"date_published": "2017-08-29T23:00:00-04:00",
-			"url": "http://hager.blog/2017/08/29/houstons-big-dams.html"
 		}
 		
 	]
