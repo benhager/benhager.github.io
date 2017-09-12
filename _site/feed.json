@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/12/nextgen-driving-simulator.html",
+	      	
+			"content_html": "<p>🚗 <a href=\"http://articles.sae.org/15541/\">Next-gen driving simulator uses Formula One motion control - SAE International</a></p>\n",
+			"date_published": "2017-09-12T06:19:00-04:00",
+			"url": "http://hager.blog/2017/09/12/nextgen-driving-simulator.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/09/12/in-total-operation.html",
+	      	
+			"content_html": "<p>✈️ “In total, Operation Airdrop organized over 500 sorties moving more than a quarter million pounds of supplies by air…” – <a href=\"https://www.avweb.com/avwebflash/news/Operation-Airdrop-Brings-Help-From-Above-229612-1.html\">Operation Airdrop Brings Help From Above - AVweb</a></p>\n",
+			"date_published": "2017-09-12T06:09:00-04:00",
+			"url": "http://hager.blog/2017/09/12/in-total-operation.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/09/flight-testing-of.html",
 	      	
 			"content_html": "<p>✈️ “Flight testing of the Mitsubishi MRJ has resumed, following grounding of the four-airplane test fleet on August 21…” – <a href=\"http://www.ainonline.com/aviation-news/air-transport/2017-09-08/mitsubishi-mrj-resumes-flight-testing\">Mitsubishi MRJ Resumes Flight Testing - AIN</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Eclipse-EA700-First-Flight-229584-1.html\">Eclipse EA700 First Flight - AVweb flash Article</a></p>\n",
 			"date_published": "2017-09-04T03:44:00-04:00",
 			"url": "http://hager.blog/2017/09/04/eclipse-ea-first.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/03/why-george-keyworth.html",
-	      	
-			"content_html": "<p>🔬 <a href=\"https://spectrum.ieee.org/view-from-the-valley/geek-life/profiles/remembering-george-keyworthand-why-he-thought-science-belonged-in-the-white-house\">Why George Keyworth Thought Science Belonged in the White House - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-09-03T04:58:00-04:00",
-			"url": "http://hager.blog/2017/09/03/why-george-keyworth.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/02/water-landings-in.html",
-	      	
-			"content_html": "<p>✈️ “Water landings in amphibious aircraft are no cause for alarm, but that’s a message still making its way to the general public…” – <a href=\"https://www.avweb.com/avwebflash/news/Icon-A5-Triggers-911-Calls-229577-1.html\">Icon A5 Triggers 911 Calls - AVweb</a></p>\n",
-			"date_published": "2017-09-02T14:56:00-04:00",
-			"url": "http://hager.blog/2017/09/02/water-landings-in.html"
 		}
 		
 	]
