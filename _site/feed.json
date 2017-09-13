@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/13/iphone-x-handson.html",
+	      	
+			"content_html": "<p>📱 <a href=\"https://www.macworld.com/article/3224526/apple-phone/iphone-x-hands-on-and-first-impressions-with-apples-new-iphone.html\">iPhone X: Hands-on and first impressions with Apple’s new iPhone - Macworld</a></p>\n",
+			"date_published": "2017-09-12T20:17:00-04:00",
+			"url": "http://hager.blog/2017/09/12/iphone-x-handson.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/12/daring-fireball-new.html",
 	      	
 			"content_html": "<p>📱 <a href=\"https://daringfireball.net/linked/2017/09/12/designing-for-iphone-x\">Daring Fireball: New Apple Developer Video: Designing for iPhone X</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>💻 “They are pursuing diverse workforces because diverse teams do better at solving big technical challenges…” – <a href=\"https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/engineering-managers-say-great-teams-need-diversity-regular-retraining\">Engineering Managers Say Great Teams Need Diversity, Regular Retraining - IEEE</a></p>\n",
 			"date_published": "2017-09-06T09:55:00-04:00",
 			"url": "http://hager.blog/2017/09/06/they-are-pursuing.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/05/the-tieup-is.html",
-	      	
-			"content_html": "<p>✈️ “The tie-up is one of the biggest deals in aviation history and is expected to be completed next year…” – <a href=\"http://www.bbc.com/news/business-41157711\">UTC and Rockwell Collins in $30bn aviation deal - BBC News</a></p>\n",
-			"date_published": "2017-09-05T11:50:00-04:00",
-			"url": "http://hager.blog/2017/09/05/the-tieup-is.html"
 		}
 		
 	]
