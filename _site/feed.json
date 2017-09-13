@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/13/naples-airport-cleanup.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Naples-Airport-Clean-Up-Begins-229618-1.html\">Naples Airport Clean-Up Begins - AVweb</a></p>\n",
+			"date_published": "2017-09-13T04:49:00-04:00",
+			"url": "http://hager.blog/2017/09/13/naples-airport-cleanup.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/13/iphone-x-handson.html",
 	      	
 			"content_html": "<p>📱 <a href=\"https://www.macworld.com/article/3224526/apple-phone/iphone-x-hands-on-and-first-impressions-with-apples-new-iphone.html\">iPhone X: Hands-on and first impressions with Apple’s new iPhone - Macworld</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://spectrum.ieee.org/automaton/robotics/drones/reliable-perching-makes-fixedwing-uavs-much-more-useful\">Reliable Perching Makes Fixed-Wing UAVs Much More Useful - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-09-06T10:19:00-04:00",
 			"url": "http://hager.blog/2017/09/06/reliable-perching-makes.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/06/they-are-pursuing.html",
-	      	
-			"content_html": "<p>💻 “They are pursuing diverse workforces because diverse teams do better at solving big technical challenges…” – <a href=\"https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/engineering-managers-say-great-teams-need-diversity-regular-retraining\">Engineering Managers Say Great Teams Need Diversity, Regular Retraining - IEEE</a></p>\n",
-			"date_published": "2017-09-06T09:55:00-04:00",
-			"url": "http://hager.blog/2017/09/06/they-are-pursuing.html"
 		}
 		
 	]
