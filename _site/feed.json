@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/14/how-not-to.html",
+	      	
+			"content_html": "<p>🚀 <a href=\"https://512pixels.net/2017/09/how-not-to-land-an-orbital-rocket-booster/\">How Not to Land an Orbital Rocket Booster – 512 Pixels</a></p>\n",
+			"date_published": "2017-09-14T19:51:00-04:00",
+			"url": "http://hager.blog/2017/09/14/how-not-to.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/13/naples-airport-cleanup.html",
 	      	
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Naples-Airport-Clean-Up-Begins-229618-1.html\">Naples Airport Clean-Up Begins - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ “The FAA says the new Part 23 will enable faster installation of innovative, safety-enhancing technologies into small airplanes, while reducing costs for the aviation industry.” – <a href=\"https://www.avweb.com/avwebflash/news/New-Part-23-Now-In-Effect-229589-1.html\">New Part 23 Now In Effect - AVweb</a></p>\n",
 			"date_published": "2017-09-06T10:21:00-04:00",
 			"url": "http://hager.blog/2017/09/06/the-faa-says.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/06/reliable-perching-makes.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://spectrum.ieee.org/automaton/robotics/drones/reliable-perching-makes-fixedwing-uavs-much-more-useful\">Reliable Perching Makes Fixed-Wing UAVs Much More Useful - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-09-06T10:19:00-04:00",
-			"url": "http://hager.blog/2017/09/06/reliable-perching-makes.html"
 		}
 		
 	]
