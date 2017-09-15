@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/15/highperforming-teams-need.html",
+	      	
+			"content_html": "<p><a href=\"https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it\">High-Performing Teams Need Psychological Safety. Here’s How to Create It</a></p>\n",
+			"date_published": "2017-09-15T06:47:00-04:00",
+			"url": "http://hager.blog/2017/09/15/highperforming-teams-need.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/14/how-not-to.html",
 	      	
 			"content_html": "<p>🚀 <a href=\"https://512pixels.net/2017/09/how-not-to-land-an-orbital-rocket-booster/\">How Not to Land an Orbital Rocket Booster – 512 Pixels</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/B747-SuperTanker-Fights-First-US-Fire-229594-1.html\">B747 SuperTanker Fights First U.S. Fire - AVweb flash Article</a></p>\n",
 			"date_published": "2017-09-07T03:22:00-04:00",
 			"url": "http://hager.blog/2017/09/07/b-supertanker-fights.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/06/the-faa-says.html",
-	      	
-			"content_html": "<p>✈️ “The FAA says the new Part 23 will enable faster installation of innovative, safety-enhancing technologies into small airplanes, while reducing costs for the aviation industry.” – <a href=\"https://www.avweb.com/avwebflash/news/New-Part-23-Now-In-Effect-229589-1.html\">New Part 23 Now In Effect - AVweb</a></p>\n",
-			"date_published": "2017-09-06T10:21:00-04:00",
-			"url": "http://hager.blog/2017/09/06/the-faa-says.html"
 		}
 		
 	]
