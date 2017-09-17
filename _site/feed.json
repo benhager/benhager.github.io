@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/17/daring-fireball-welcome.html",
+	      	
+			"content_html": "<p>📱 <a href=\"https://daringfireball.net/2017/09/welcome_to_the_steve_jobs_theater\">Daring Fireball: Welcome to the Steve Jobs Theater</a></p>\n",
+			"date_published": "2017-09-16T20:04:00-04:00",
+			"url": "http://hager.blog/2017/09/16/daring-fireball-welcome.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/09/17/daring-fireball-thoughts.html",
+	      	
+			"content_html": "<p>📱 <a href=\"https://daringfireball.net/2017/09/iphone_x_event_thoughts_and_observations\">Daring Fireball: Thoughts and Observations on the Products Announced at This Week’s iPhone X Introductory Event</a></p>\n",
+			"date_published": "2017-09-16T20:02:00-04:00",
+			"url": "http://hager.blog/2017/09/16/daring-fireball-thoughts.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/15/highperforming-teams-need.html",
 	      	
 			"content_html": "<p><a href=\"https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it\">High-Performing Teams Need Psychological Safety. Here’s How to Create It</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>✈️ “Flight testing of the Mitsubishi MRJ has resumed, following grounding of the four-airplane test fleet on August 21…” – <a href=\"http://www.ainonline.com/aviation-news/air-transport/2017-09-08/mitsubishi-mrj-resumes-flight-testing\">Mitsubishi MRJ Resumes Flight Testing - AIN</a></p>\n",
 			"date_published": "2017-09-09T13:39:00-04:00",
 			"url": "http://hager.blog/2017/09/09/flight-testing-of.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/09/the-tech-that.html",
-	      	
-			"content_html": "<p>🚗 <a href=\"https://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-tech-that-won-the-first-formula-student-driverless-race\">The Tech That Won the First Formula Student Driverless Race - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-09-09T12:42:00-04:00",
-			"url": "http://hager.blog/2017/09/09/the-tech-that.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/07/b-supertanker-fights.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/B747-SuperTanker-Fights-First-US-Fire-229594-1.html\">B747 SuperTanker Fights First U.S. Fire - AVweb flash Article</a></p>\n",
-			"date_published": "2017-09-07T03:22:00-04:00",
-			"url": "http://hager.blog/2017/09/07/b-supertanker-fights.html"
 		}
 		
 	]
