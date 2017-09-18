@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/18/microsofts-ceo-has.html",
+	      	
+			"content_html": "<p>💻 “Microsoft’s CEO has stopped infighting, restored morale, and created more than $250 billion in market value. All it took was focusing on what matters most…” – <a href=\"https://www.fastcompany.com/40457458/satya-nadella-rewrites-microsofts-code\">Satya Nadella Rewrites Microsoft’s Code</a></p>\n",
+			"date_published": "2017-09-18T15:57:00-04:00",
+			"url": "http://hager.blog/2017/09/18/microsofts-ceo-has.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/18/the-highly-modified.html",
 	      	
 			"content_html": "<p>✈️ “The highly modified P-51 Strega flown by James Consalvi edged long-time rival Steve Hinton Jr. in Voodoo…” – <a href=\"https://www.avweb.com/avwebflash/news/Strega-Wins-Reno-229639-1.html\">Strega Wins Reno - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🚗 <a href=\"http://articles.sae.org/15541/\">Next-gen driving simulator uses Formula One motion control - SAE International</a></p>\n",
 			"date_published": "2017-09-12T06:19:00-04:00",
 			"url": "http://hager.blog/2017/09/12/nextgen-driving-simulator.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/12/in-total-operation.html",
-	      	
-			"content_html": "<p>✈️ “In total, Operation Airdrop organized over 500 sorties moving more than a quarter million pounds of supplies by air…” – <a href=\"https://www.avweb.com/avwebflash/news/Operation-Airdrop-Brings-Help-From-Above-229612-1.html\">Operation Airdrop Brings Help From Above - AVweb</a></p>\n",
-			"date_published": "2017-09-12T06:09:00-04:00",
-			"url": "http://hager.blog/2017/09/12/in-total-operation.html"
 		}
 		
 	]
