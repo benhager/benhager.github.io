@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/21/stratolaunch-the-massive.html",
+	      	
+			"content_html": "<p>✈️ “Stratolaunch, the massive airplane that is being built by Scaled Composites to deliver satellites to low Earth orbit, successfully ran all six of its Pratt &amp; Whitney turbofan engines for the first time this week…” – <a href=\"https://www.avweb.com/avwebflash/news/First-Engine-Start-For-Stratolaunch-229658-1.html\">First Engine Start For Stratolaunch - AVweb</a></p>\n",
+			"date_published": "2017-09-21T19:58:00-04:00",
+			"url": "http://hager.blog/2017/09/21/stratolaunch-the-massive.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/18/microsofts-ceo-has.html",
 	      	
 			"content_html": "<p>💻 “Microsoft’s CEO has stopped infighting, restored morale, and created more than $250 billion in market value. All it took was focusing on what matters most…” – <a href=\"https://www.fastcompany.com/40457458/satya-nadella-rewrites-microsofts-code\">Satya Nadella Rewrites Microsoft’s Code</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>📱 <a href=\"https://daringfireball.net/linked/2017/09/12/designing-for-iphone-x\">Daring Fireball: New Apple Developer Video: Designing for iPhone X</a></p>\n",
 			"date_published": "2017-09-12T17:34:00-04:00",
 			"url": "http://hager.blog/2017/09/12/daring-fireball-new.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/12/nextgen-driving-simulator.html",
-	      	
-			"content_html": "<p>🚗 <a href=\"http://articles.sae.org/15541/\">Next-gen driving simulator uses Formula One motion control - SAE International</a></p>\n",
-			"date_published": "2017-09-12T06:19:00-04:00",
-			"url": "http://hager.blog/2017/09/12/nextgen-driving-simulator.html"
 		}
 		
 	]
