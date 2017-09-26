@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/26/his-interview-is.html",
+	      	
+			"content_html": "<p>His interview is excellent! Stop and take the 15 minutes to watch this - [Bob Costas: ‘Preposterous’ to say criticism of NFL kneeling protests not tied to race - CNN]\n(https://apple.news/AyNWD5RlkRvGIcS5FB5ffZA)</p>\n",
+			"date_published": "2017-09-25T21:25:00-04:00",
+			"url": "http://hager.blog/2017/09/25/his-interview-is.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/21/stratolaunch-the-massive.html",
 	      	
 			"content_html": "<p>✈️ “Stratolaunch, the massive airplane that is being built by Scaled Composites to deliver satellites to low Earth orbit, successfully ran all six of its Pratt &amp; Whitney turbofan engines for the first time this week…” – <a href=\"https://www.avweb.com/avwebflash/news/First-Engine-Start-For-Stratolaunch-229658-1.html\">First Engine Start For Stratolaunch - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>📱 <a href=\"https://www.macworld.com/article/3224526/apple-phone/iphone-x-hands-on-and-first-impressions-with-apples-new-iphone.html\">iPhone X: Hands-on and first impressions with Apple’s new iPhone - Macworld</a></p>\n",
 			"date_published": "2017-09-12T20:17:00-04:00",
 			"url": "http://hager.blog/2017/09/12/iphone-x-handson.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/12/daring-fireball-new.html",
-	      	
-			"content_html": "<p>📱 <a href=\"https://daringfireball.net/linked/2017/09/12/designing-for-iphone-x\">Daring Fireball: New Apple Developer Video: Designing for iPhone X</a></p>\n",
-			"date_published": "2017-09-12T17:34:00-04:00",
-			"url": "http://hager.blog/2017/09/12/daring-fireball-new.html"
 		}
 		
 	]
