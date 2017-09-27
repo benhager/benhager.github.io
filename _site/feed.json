@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/09/27/boeing-creates-million.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Boeing-Creates-2-Million-Prize-For-Personal-Flying-Device-229676-1.html\">Boeing Creates $2 Million Prize For ‘Personal Flying Device’ - AVweb</a></p>\n",
+			"date_published": "2017-09-27T07:00:00-04:00",
+			"url": "http://hager.blog/2017/09/27/boeing-creates-million.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/26/his-interview-is.html",
 	      	
 			"content_html": "<p>His interview is excellent! Stop and take the 15 minutes to watch this - [Bob Costas: ‘Preposterous’ to say criticism of NFL kneeling protests not tied to race - CNN]\n(https://apple.news/AyNWD5RlkRvGIcS5FB5ffZA)</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Naples-Airport-Clean-Up-Begins-229618-1.html\">Naples Airport Clean-Up Begins - AVweb</a></p>\n",
 			"date_published": "2017-09-13T04:49:00-04:00",
 			"url": "http://hager.blog/2017/09/13/naples-airport-cleanup.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/13/iphone-x-handson.html",
-	      	
-			"content_html": "<p>📱 <a href=\"https://www.macworld.com/article/3224526/apple-phone/iphone-x-hands-on-and-first-impressions-with-apples-new-iphone.html\">iPhone X: Hands-on and first impressions with Apple’s new iPhone - Macworld</a></p>\n",
-			"date_published": "2017-09-12T20:17:00-04:00",
-			"url": "http://hager.blog/2017/09/12/iphone-x-handson.html"
 		}
 		
 	]
