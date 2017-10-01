@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/10/01/sixty-years-ago.html",
+	      	
+			"content_html": "<p>🚀 “Sixty years ago, on Friday, 4 October 1957, the Soviet Union launched Sputnik 1, the first artificial satellite.” – <a href=\"https://spectrum.ieee.org/aerospace/satellites/sputnik-at-60\">Sputnik at 60 - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-10-01T10:06:00-04:00",
+			"url": "http://hager.blog/2017/10/01/sixty-years-ago.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/09/30/air-france-is.html",
+	      	
+			"content_html": "<p>✈️ “Air France is facing a daunting technical challenge to repair an extensively damaged A380 at one of Canada’s most remote airports…” – <a href=\"https://www.avweb.com/avwebflash/news/Damaged-A380-Diverts-to-Goose-Bay-229693-1.html\">Damaged A380 Diverts to Goose Bay - AVweb</a></p>\n",
+			"date_published": "2017-09-30T19:27:00-04:00",
+			"url": "http://hager.blog/2017/09/30/air-france-is.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/09/30/san-juan-mayor.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2017/09/29/us/san-juan-mayor-trump.html\">San Juan Mayor Rebukes Trump Administration for Rosy Comments on Relief Effort - The New York Times</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>✈️ “The highly modified P-51 Strega flown by James Consalvi edged long-time rival Steve Hinton Jr. in Voodoo…” – <a href=\"https://www.avweb.com/avwebflash/news/Strega-Wins-Reno-229639-1.html\">Strega Wins Reno - AVweb</a></p>\n",
 			"date_published": "2017-09-18T03:03:00-04:00",
 			"url": "http://hager.blog/2017/09/18/the-highly-modified.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/17/daring-fireball-welcome.html",
-	      	
-			"content_html": "<p>📱 <a href=\"https://daringfireball.net/2017/09/welcome_to_the_steve_jobs_theater\">Daring Fireball: Welcome to the Steve Jobs Theater</a></p>\n",
-			"date_published": "2017-09-16T20:04:00-04:00",
-			"url": "http://hager.blog/2017/09/16/daring-fireball-welcome.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/17/daring-fireball-thoughts.html",
-	      	
-			"content_html": "<p>📱 <a href=\"https://daringfireball.net/2017/09/iphone_x_event_thoughts_and_observations\">Daring Fireball: Thoughts and Observations on the Products Announced at This Week’s iPhone X Introductory Event</a></p>\n",
-			"date_published": "2017-09-16T20:02:00-04:00",
-			"url": "http://hager.blog/2017/09/16/daring-fireball-thoughts.html"
 		}
 		
 	]
