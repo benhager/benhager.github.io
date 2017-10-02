@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/10/02/sad-but-true.html",
+	      	
+			"content_html": "<p>Sad, but true… </p>\n\n<p><a href=\"https://www.mcsweeneys.net/articles/things-more-heavily-regulated-than-buying-a-gun-in-the-united-states\">Things More Heavily Regulated Than Buying a Gun in the United States - McSweeney’s</a></p>\n",
+			"date_published": "2017-10-02T18:54:00-04:00",
+			"url": "http://hager.blog/2017/10/02/sad-but-true.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/10/02/more-teachers-fewer.html",
+	      	
+			"content_html": "<p>💻 <a href=\"https://spectrum.ieee.org/tech-talk/at-work/education/what-500-million-could-mean-for-k12-computer-science-education\">More Teachers, Fewer 3D Printers: How to Improve K–12 Computer Science Education - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-10-02T18:51:00-04:00",
+			"url": "http://hager.blog/2017/10/02/more-teachers-fewer.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/10/01/sixty-years-ago.html",
 	      	
 			"content_html": "<p>🚀 “Sixty years ago, on Friday, 4 October 1957, the Soviet Union launched Sputnik 1, the first artificial satellite.” – <a href=\"https://spectrum.ieee.org/aerospace/satellites/sputnik-at-60\">Sputnik at 60 - IEEE Spectrum</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>✈️ “Stratolaunch, the massive airplane that is being built by Scaled Composites to deliver satellites to low Earth orbit, successfully ran all six of its Pratt &amp; Whitney turbofan engines for the first time this week…” – <a href=\"https://www.avweb.com/avwebflash/news/First-Engine-Start-For-Stratolaunch-229658-1.html\">First Engine Start For Stratolaunch - AVweb</a></p>\n",
 			"date_published": "2017-09-21T19:58:00-04:00",
 			"url": "http://hager.blog/2017/09/21/stratolaunch-the-massive.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/18/microsofts-ceo-has.html",
-	      	
-			"content_html": "<p>💻 “Microsoft’s CEO has stopped infighting, restored morale, and created more than $250 billion in market value. All it took was focusing on what matters most…” – <a href=\"https://www.fastcompany.com/40457458/satya-nadella-rewrites-microsofts-code\">Satya Nadella Rewrites Microsoft’s Code</a></p>\n",
-			"date_published": "2017-09-18T15:57:00-04:00",
-			"url": "http://hager.blog/2017/09/18/microsofts-ceo-has.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/18/the-highly-modified.html",
-	      	
-			"content_html": "<p>✈️ “The highly modified P-51 Strega flown by James Consalvi edged long-time rival Steve Hinton Jr. in Voodoo…” – <a href=\"https://www.avweb.com/avwebflash/news/Strega-Wins-Reno-229639-1.html\">Strega Wins Reno - AVweb</a></p>\n",
-			"date_published": "2017-09-18T03:03:00-04:00",
-			"url": "http://hager.blog/2017/09/18/the-highly-modified.html"
 		}
 		
 	]
