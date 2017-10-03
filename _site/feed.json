@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/10/03/the-public-and.html",
+	      	
+			"content_html": "<p>🏛 “The public and research support gun control. Here’s how it could help and why it doesn’t pass…”</p>\n\n<p><a href=\"https://www.vox.com/2015/10/3/9444417/gun-violence-united-states-america\">America’s gun problem, explained - Vox</a></p>\n",
+			"date_published": "2017-10-02T20:07:00-04:00",
+			"url": "http://hager.blog/2017/10/02/the-public-and.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/10/02/sad-but-true.html",
 	      	
 			"content_html": "<p>Sad, but true… </p>\n\n<p><a href=\"https://www.mcsweeneys.net/articles/things-more-heavily-regulated-than-buying-a-gun-in-the-united-states\">Things More Heavily Regulated Than Buying a Gun in the United States - McSweeney’s</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>His interview is excellent! Stop and take the 15 minutes to watch this - [Bob Costas: ‘Preposterous’ to say criticism of NFL kneeling protests not tied to race - CNN]\n(https://apple.news/AyNWD5RlkRvGIcS5FB5ffZA)</p>\n",
 			"date_published": "2017-09-25T21:25:00-04:00",
 			"url": "http://hager.blog/2017/09/25/his-interview-is.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/21/stratolaunch-the-massive.html",
-	      	
-			"content_html": "<p>✈️ “Stratolaunch, the massive airplane that is being built by Scaled Composites to deliver satellites to low Earth orbit, successfully ran all six of its Pratt &amp; Whitney turbofan engines for the first time this week…” – <a href=\"https://www.avweb.com/avwebflash/news/First-Engine-Start-For-Stratolaunch-229658-1.html\">First Engine Start For Stratolaunch - AVweb</a></p>\n",
-			"date_published": "2017-09-21T19:58:00-04:00",
-			"url": "http://hager.blog/2017/09/21/stratolaunch-the-massive.html"
 		}
 		
 	]
