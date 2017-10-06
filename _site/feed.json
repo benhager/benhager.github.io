@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/10/06/boeing-pursues-autonomy.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Boeing-Pursues-Autonomy-Acquires-Aurora-229716-1.html\">Boeing Pursues Autonomy, Acquires Aurora - AVweb flash Article</a></p>\n",
+			"date_published": "2017-10-06T07:00:00-04:00",
+			"url": "http://hager.blog/2017/10/06/boeing-pursues-autonomy.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/10/04/manned-flights-for.html",
 	      	
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Manned-Flights-For-Passenger-Drone-229705-1.html\">Manned Flights For ‘Passenger Drone’ - AVweb flash Article</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2017/99f70565d2.jpg\" width=\"600\" height=\"281\" /></p>\n",
 			"date_published": "2017-09-29T19:37:00-04:00",
 			"url": "http://hager.blog/2017/09/29/233704.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/09/28/airbus-has-flown.html",
-	      	
-			"content_html": "<p>✈️ “Airbus has flown a test aircraft for the first time with its new transonic laminar wing that it hopes will reduce wing friction by up to 50 percent…” – <a href=\"https://www.avweb.com/avwebflash/news/Airbus-Tests-New-Wing-229679-1.html\">Airbus Tests New Wing - AVweb</a></p>\n",
-			"date_published": "2017-09-28T09:35:00-04:00",
-			"url": "http://hager.blog/2017/09/28/airbus-has-flown.html"
 		}
 		
 	]
