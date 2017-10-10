@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/10/10/epa-photos-show.html",
+	      	
+			"content_html": "<p>🌎 <a href=\"http://www.businessinsider.com/photos-america-before-epa-documerica-2017-10/#many-of-these-photos-simply-show-life-in-america-at-the-time-but-a-number-also-document-concerning-environmental-issues-1\">EPA photos show what US looked like before pollution regulation</a></p>\n",
+			"date_published": "2017-10-10T16:21:00-04:00",
+			"url": "http://hager.blog/2017/10/10/epa-photos-show.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/10/09/waymo-is-about.html",
 	      	
 			"content_html": "<p>🚗 “Waymo is about to announce that its robocar ride-sharing program in Phoenix will dispense with its backup driver, according to a story in TheInformation.com…” – <a href=\"https://spectrum.ieee.org/cars-that-think/transportation/self-driving/report-waymo-to-announce-true-robocar-ride-sharing-in-phoenix\">Report: Waymo to Announce True Robocar Service - IEEE</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>💻 <a href=\"https://spectrum.ieee.org/tech-talk/at-work/education/what-500-million-could-mean-for-k12-computer-science-education\">More Teachers, Fewer 3D Printers: How to Improve K–12 Computer Science Education - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-10-02T18:51:00-04:00",
 			"url": "http://hager.blog/2017/10/02/more-teachers-fewer.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/10/01/sixty-years-ago.html",
-	      	
-			"content_html": "<p>🚀 “Sixty years ago, on Friday, 4 October 1957, the Soviet Union launched Sputnik 1, the first artificial satellite.” – <a href=\"https://spectrum.ieee.org/aerospace/satellites/sputnik-at-60\">Sputnik at 60 - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-10-01T10:06:00-04:00",
-			"url": "http://hager.blog/2017/10/01/sixty-years-ago.html"
 		}
 		
 	]
