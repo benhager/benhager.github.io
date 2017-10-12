@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/10/12/pilatus-pc-to.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Pilatus-PC-24-to-Deliver-by-Years-End-229743-1.html\">Pilatus PC-24 to Deliver by Year’s End - AVweb</a></p>\n",
+			"date_published": "2017-10-11T21:37:00-04:00",
+			"url": "http://hager.blog/2017/10/11/pilatus-pc-to.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/10/12/scaled-composites-rolled.html",
+	      	
+			"content_html": "<p>✈️ “Scaled Composites rolled out and flew its most recent project on Wednesday, the company has announced…” – <a href=\"https://www.avweb.com/avwebflash/news/Scaled-Flies-Single-Engine-Jet-229763-1.html\">Scaled Flies Single-Engine Jet - AVweb</a></p>\n",
+			"date_published": "2017-10-11T21:35:00-04:00",
+			"url": "http://hager.blog/2017/10/11/scaled-composites-rolled.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/10/10/epa-photos-show.html",
 	      	
 			"content_html": "<p>🌎 <a href=\"http://www.businessinsider.com/photos-america-before-epa-documerica-2017-10/#many-of-these-photos-simply-show-life-in-america-at-the-time-but-a-number-also-document-concerning-environmental-issues-1\">EPA photos show what US looked like before pollution regulation</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>🏛 “The public and research support gun control. Here’s how it could help and why it doesn’t pass…”</p>\n\n<p><a href=\"https://www.vox.com/2015/10/3/9444417/gun-violence-united-states-america\">America’s gun problem, explained - Vox</a></p>\n",
 			"date_published": "2017-10-02T20:07:00-04:00",
 			"url": "http://hager.blog/2017/10/02/the-public-and.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/10/02/sad-but-true.html",
-	      	
-			"content_html": "<p>Sad, but true… </p>\n\n<p><a href=\"https://www.mcsweeneys.net/articles/things-more-heavily-regulated-than-buying-a-gun-in-the-united-states\">Things More Heavily Regulated Than Buying a Gun in the United States - McSweeney’s</a></p>\n",
-			"date_published": "2017-10-02T18:54:00-04:00",
-			"url": "http://hager.blog/2017/10/02/sad-but-true.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/10/02/more-teachers-fewer.html",
-	      	
-			"content_html": "<p>💻 <a href=\"https://spectrum.ieee.org/tech-talk/at-work/education/what-500-million-could-mean-for-k12-computer-science-education\">More Teachers, Fewer 3D Printers: How to Improve K–12 Computer Science Education - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-10-02T18:51:00-04:00",
-			"url": "http://hager.blog/2017/10/02/more-teachers-fewer.html"
 		}
 		
 	]
