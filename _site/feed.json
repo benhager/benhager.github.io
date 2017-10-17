@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/10/17/experts-have-hailed.html",
+	      	
+			"content_html": "<p>✈️ “Experts have hailed the deal as hugely significant and described it as akin to a supervolcano exploding in the aviation world.” – <a href=\"http://www.bbc.com/news/uk-northern-ireland-41646795\">Bombardier to partner Airbus on C-Series jets - BBC</a></p>\n",
+			"date_published": "2017-10-17T13:22:00-04:00",
+			"url": "http://hager.blog/2017/10/17/experts-have-hailed.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/10/16/its-been-years.html",
 	      	
 			"content_html": "<p>✈️ “It’s been 70 years since Chuck Yeager squeezed into the sharply tapered cockpit of the Bell X-1 rocket plane and cracked a physical and psychological barrier that busted aircraft development wide open.” – <a href=\"https://www.avweb.com/avwebflash/news/Supersonic-Flight-70-Years-Old-229784-1.html\">Supersonic Flight 70 Years Old - AVweb</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Manned-Flights-For-Passenger-Drone-229705-1.html\">Manned Flights For ‘Passenger Drone’ - AVweb flash Article</a></p>\n",
 			"date_published": "2017-10-04T18:32:00-04:00",
 			"url": "http://hager.blog/2017/10/04/manned-flights-for.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/10/03/we-conducted-a.html",
-	      	
-			"content_html": "<p>🏛 “We conducted a survey on 29 gun control ideas, looking for the intersection of effectiveness and popularity.”</p>\n\n<p><a href=\"https://www.nytimes.com/interactive/2017/01/10/upshot/How-to-Prevent-Gun-Deaths-The-Views-of-Experts-and-the-Public.html\">How to Prevent Gun Deaths? Where Experts and the Public Agree - The New York Times</a></p>\n",
-			"date_published": "2017-10-03T12:41:00-04:00",
-			"url": "http://hager.blog/2017/10/03/we-conducted-a.html"
 		}
 		
 	]
