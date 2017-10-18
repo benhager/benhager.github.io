@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/10/18/adasky-is-developing.html",
+	      	
+			"content_html": "<p>🚗 “Adasky is developing a far infrared thermal camera called Viper that it says can expand the conditions that automated cars will be able to operate in, and improve safety.” – <a href=\"https://spectrum.ieee.org/cars-that-think/transportation/self-driving/do-selfdriving-cars-need-night-vision\">Night Vision for Self-Driving Cars - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-10-18T10:47:00-04:00",
+			"url": "http://hager.blog/2017/10/18/adasky-is-developing.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/10/17/experts-have-hailed.html",
 	      	
 			"content_html": "<p>✈️ “Experts have hailed the deal as hugely significant and described it as akin to a supervolcano exploding in the aviation world.” – <a href=\"http://www.bbc.com/news/uk-northern-ireland-41646795\">Bombardier to partner Airbus on C-Series jets - BBC</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Boeing-Pursues-Autonomy-Acquires-Aurora-229716-1.html\">Boeing Pursues Autonomy, Acquires Aurora - AVweb flash Article</a></p>\n",
 			"date_published": "2017-10-06T07:00:00-04:00",
 			"url": "http://hager.blog/2017/10/06/boeing-pursues-autonomy.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/10/04/manned-flights-for.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Manned-Flights-For-Passenger-Drone-229705-1.html\">Manned Flights For ‘Passenger Drone’ - AVweb flash Article</a></p>\n",
-			"date_published": "2017-10-04T18:32:00-04:00",
-			"url": "http://hager.blog/2017/10/04/manned-flights-for.html"
 		}
 		
 	]
