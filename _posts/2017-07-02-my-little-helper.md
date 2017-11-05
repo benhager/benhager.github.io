@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-01 20:52 -0400
+date: 2017-07-01 19:52 -0500
 guid: http://benhager.micro.blog/2017/07/02/my-little-helper.html
 ---
 My little helper! Lawn looks great now!
