@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/11/07/after-stopping-production.html",
+	      	
+			"content_html": "<p>✈️ “After stopping production more than 20 years ago, Aero Vodochody is preparing to bring an updated version of the L-39 Albatros jet trainer back to the market.” – <a href=\"https://www.avweb.com/avwebflash/news/Aero-Vodochody-Selecting-Suppliers-for-New-L-39NG-229882-1.html\">Aero Vodochody Selecting Suppliers for New L-39NG - AVweb</a></p>\n",
+			"date_published": "2017-11-06T23:35:00-05:00",
+			"url": "http://hager.blog/2017/11/06/after-stopping-production.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/11/06/003657.html",
 	      	
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2017/2704334912.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Pilatus-PC-24-to-Deliver-by-Years-End-229743-1.html\">Pilatus PC-24 to Deliver by Year’s End - AVweb</a></p>\n",
 			"date_published": "2017-10-11T20:37:00-05:00",
 			"url": "http://hager.blog/2017/10/11/pilatus-pc-to.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/10/12/scaled-composites-rolled.html",
-	      	
-			"content_html": "<p>✈️ “Scaled Composites rolled out and flew its most recent project on Wednesday, the company has announced…” – <a href=\"https://www.avweb.com/avwebflash/news/Scaled-Flies-Single-Engine-Jet-229763-1.html\">Scaled Flies Single-Engine Jet - AVweb</a></p>\n",
-			"date_published": "2017-10-11T20:35:00-05:00",
-			"url": "http://hager.blog/2017/10/11/scaled-composites-rolled.html"
 		}
 		
 	]
