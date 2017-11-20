@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/11/20/tesla-launches-an.html",
+	      	
+			"content_html": "<p>🚗 <a href=\"https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/tesla-launches-an-electric-semi-truckand-a-new-sports-car\">Tesla Launches an Electric Semi Truck—and a New Sports Car - IEEE Spectrum</a></p>\n",
+			"date_published": "2017-11-20T08:23:00-05:00",
+			"url": "http://hager.blog/2017/11/20/tesla-launches-an.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/11/11/ford-assembly-line.html",
 	      	
 			"content_html": "<p>🚗 <a href=\"https://spectrum.ieee.org/the-human-os/biomedical/bionics/ford-assembly-line-workers-try-out-exoskeleton-tech-to-boost-performance\">Ford Assembly Line Workers Try Out Exoskeleton Tech to Boost Performance</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/ERAU-Investigates-Language-As-Safety-Issue-229799-1.html\">ERAU Investigates Language As Safety Issue - AVweb</a></p>\n",
 			"date_published": "2017-10-21T15:05:00-05:00",
 			"url": "http://hager.blog/2017/10/21/erau-investigates-language.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/10/18/adasky-is-developing.html",
-	      	
-			"content_html": "<p>🚗 “Adasky is developing a far infrared thermal camera called Viper that it says can expand the conditions that automated cars will be able to operate in, and improve safety.” – <a href=\"https://spectrum.ieee.org/cars-that-think/transportation/self-driving/do-selfdriving-cars-need-night-vision\">Night Vision for Self-Driving Cars - IEEE Spectrum</a></p>\n",
-			"date_published": "2017-10-18T09:47:00-05:00",
-			"url": "http://hager.blog/2017/10/18/adasky-is-developing.html"
 		}
 		
 	]
