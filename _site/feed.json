@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/11/20/the-dream-chaser.html",
+	      	
+			"content_html": "<p>🚀 “The Dream Chaser flight test demonstrated excellent performance of the spacecraft’s aerodynamic design and the data shows that we are firmly on the path for safe, reliable orbital flight…” – <a href=\"https://www.avweb.com/avwebflash/news/Dream-Chaser-Flies-Free-Again-229918-1.html\">Dream Chaser Flies Free, Again</a></p>\n",
+			"date_published": "2017-11-20T17:37:00-05:00",
+			"url": "http://hager.blog/2017/11/20/the-dream-chaser.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/11/20/a-new-wind.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/A-New-Wind-Tunnel-For-MIT-229922-1.html\">A New Wind Tunnel For MIT - AVweb flash Article</a></p>\n",
+			"date_published": "2017-11-20T17:35:00-05:00",
+			"url": "http://hager.blog/2017/11/20/a-new-wind.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/11/20/tesla-launches-an.html",
 	      	
 			"content_html": "<p>🚗 <a href=\"https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/tesla-launches-an-electric-semi-truckand-a-new-sports-car\">Tesla Launches an Electric Semi Truck—and a New Sports Car - IEEE Spectrum</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p><a href=\"https://apple.news/AB2fZfCzmSpelK-wqDYSzKA\">Indicted!</a></p>\n\n<blockquote>\n  <p>Paul Manafort, Who Once Ran Trump Campaign, Indicted on Money Laundering and Tax Charges - The New York Times</p>\n</blockquote>\n",
 			"date_published": "2017-10-30T13:51:00-05:00",
 			"url": "http://hager.blog/2017/10/30/185120.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/10/30/a-plan-that.html",
-	      	
-			"content_html": "<p>✈️ “a plan that had evidently not been run past Air Force leadership…” – <a href=\"https://www.avweb.com/avwebflash/news/USAF-Rejects-Retired-Pilot-Recall-229816-1.html\">USAF Rejects Retired Pilot Recall - AVweb</a></p>\n",
-			"date_published": "2017-10-29T19:20:00-05:00",
-			"url": "http://hager.blog/2017/10/29/a-plan-that.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/10/21/erau-investigates-language.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/ERAU-Investigates-Language-As-Safety-Issue-229799-1.html\">ERAU Investigates Language As Safety Issue - AVweb</a></p>\n",
-			"date_published": "2017-10-21T15:05:00-05:00",
-			"url": "http://hager.blog/2017/10/21/erau-investigates-language.html"
 		}
 		
 	]
