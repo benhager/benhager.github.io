@@ -29,4 +29,4 @@ instagram_username: "stscdr"
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Michigan"
-site_id: ["SITE_ID"]
+site_id: "223"
