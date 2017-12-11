@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/12/11/enjoying-the-snow.html",
+	      	
+			"content_html": "<p>Enjoying the snow!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/af933c7c8d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-11T16:07:00-05:00",
+			"url": "http://hager.blog/2017/12/11/enjoying-the-snow.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/12/09/110415.html",
 	      	
 			"content_html": "<p><a href=\"https://www.avweb.com/avwebflash/news/Pilatus-PC-24-Certified-230026-1.html\">Pilatus PC-24 Certified!</a></p>\n\n<blockquote>\n  <p>The PC-24’s claim to fame is its ability to operate from shorter and more primitive strips than are typically demanded by business jets.</p>\n</blockquote>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🚗 <a href=\"https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/tesla-launches-an-electric-semi-truckand-a-new-sports-car\">Tesla Launches an Electric Semi Truck—and a New Sports Car - IEEE Spectrum</a></p>\n",
 			"date_published": "2017-11-20T08:23:00-05:00",
 			"url": "http://hager.blog/2017/11/20/tesla-launches-an.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/11/11/ford-assembly-line.html",
-	      	
-			"content_html": "<p>🚗 <a href=\"https://spectrum.ieee.org/the-human-os/biomedical/bionics/ford-assembly-line-workers-try-out-exoskeleton-tech-to-boost-performance\">Ford Assembly Line Workers Try Out Exoskeleton Tech to Boost Performance</a></p>\n",
-			"date_published": "2017-11-10T20:22:00-05:00",
-			"url": "http://hager.blog/2017/11/10/ford-assembly-line.html"
 		}
 		
 	]
