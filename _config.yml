@@ -20,7 +20,7 @@ relative_permalinks: false
 author: "Ben Hager"
 name: "Ben Hager"
 gravatar_hash: "2618ed4ba403bdaf8bad9b712e1784d1"
-avatar: "https://www.gravatar.com/avatar/2618ed4ba403bdaf8bad9b712e1784d1?s=160"
+avatar: "https://micro.blog/benhager/avatar.jpg"
 full_name: "Ben Hager"
 bio: ""
 twitter_username: "_benhager"
@@ -29,3 +29,4 @@ instagram_username: "stscdr"
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Michigan"
+site_id: ["SITE_ID"]
