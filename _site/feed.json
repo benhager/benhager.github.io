@@ -1,16 +1,32 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Ben Hager",
-	"home_page_url": "http://hager.blog/",
-	"feed_url": "http://hager.blog/feed.json",
+	"home_page_url": "https://hager.blog/",
+	"feed_url": "https://hager.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://benhager.micro.blog/2017/12/20/boeing-unveils-refueling.html",
+	      	
+			"content_html": "<p><a href=\"https://www.avweb.com/avwebflash/news/Boeing-Unveils-Refueling-Drone-230071-1.html\">Boeing Unveils Refueling Drone</a></p>\n\n<blockquote>\n  <p>The MQ-25 drone is designed to extend the combat range of fighter jets such as the Boeing F/A-18 Super Hornet, Boeing EA-18G Growler and Lockheed Martin F-35C, which are deployed from aircraft carriers.</p>\n</blockquote>\n",
+			"date_published": "2017-12-20T02:17:00-05:00",
+			"url": "https://hager.blog/2017/12/20/boeing-unveils-refueling.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2017/12/20/remember-this-when.html",
+	      	
+			"content_html": "<p>Remember this when voting next year!</p>\n\n<p><a href=\"https://www.nytimes.com/interactive/2017/12/19/us/politics/tax-bill-house-live-vote.html\">How Each House Member Voted on the Tax Bill</a></p>\n\n<blockquote>\n  <p>The House voted 227-203 on Tuesday to pass the Republican tax overhaul bill. The Times tracked how every representative voted.</p>\n</blockquote>\n",
+			"date_published": "2017-12-19T20:03:00-05:00",
+			"url": "https://hager.blog/2017/12/19/remember-this-when.html"
+		},
 		
 		{
 			"id": "http://benhager.micro.blog/2017/12/18/happy-th-night.html",
 	      	
 			"content_html": "<p>Happy 6th Night of Hanukkah!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/e3fd594b14.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-17T19:27:00-05:00",
-			"url": "http://hager.blog/2017/12/17/happy-th-night.html"
+			"url": "https://hager.blog/2017/12/17/happy-th-night.html"
 		},
 		
 		{
@@ -18,7 +34,7 @@
 	      	
 			"content_html": "<p>Happy 5th Night of Hanukkah!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/879dec8405.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-16T19:22:00-05:00",
-			"url": "http://hager.blog/2017/12/16/happy-th-night.html"
+			"url": "https://hager.blog/2017/12/16/happy-th-night.html"
 		},
 		
 		{
@@ -26,7 +42,7 @@
 	      	
 			"content_html": "<p>Happy 4th Night of Hanukkah! (yes, somehow we skipped the 3rd night)</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/172f3679cd.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-15T20:47:00-05:00",
-			"url": "http://hager.blog/2017/12/15/happy-th-night.html"
+			"url": "https://hager.blog/2017/12/15/happy-th-night.html"
 		},
 		
 		{
@@ -34,7 +50,7 @@
 	      	
 			"content_html": "<p>🚀 <a href=\"https://www.avweb.com/avwebflash/news/Blue-Origin-Test-Flies-Crew-Capsule-230044-1.html\">Blue Origin Test-Flies Crew Capsule - AVweb</a></p>\n\n<blockquote>\n  <p>The 60-foot-tall rocket carried crew capsule 2.0 on its first flight, to an altitude of about 322,000 feet, or 61 miles, in about two and a half minutes. The capsule then separated from the rocket for a few minutes of free fall, and then returned to the surface under three canopies.</p>\n</blockquote>\n",
 			"date_published": "2017-12-14T09:35:00-05:00",
-			"url": "http://hager.blog/2017/12/14/blue-origin-testflies.html"
+			"url": "https://hager.blog/2017/12/14/blue-origin-testflies.html"
 		},
 		
 		{
@@ -42,7 +58,7 @@
 	      	
 			"content_html": "<p>Happy 2nd Night of Hanukkah!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/a5e1f132b8.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-13T21:58:00-05:00",
-			"url": "http://hager.blog/2017/12/13/happy-nd-night.html"
+			"url": "https://hager.blog/2017/12/13/happy-nd-night.html"
 		},
 		
 		{
@@ -50,7 +66,7 @@
 	      	
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/ERAU-Expands-Aviation-Research-230042-1.html\">ERAU Expands Aviation Research - AVweb</a></p>\n\n<blockquote>\n  <p>Embry-Riddle Aeronautical University has received a $1 million federal grant to establish a new aviation and engineering research center in Florida, the school announced this week</p>\n</blockquote>\n",
 			"date_published": "2017-12-13T19:09:00-05:00",
-			"url": "http://hager.blog/2017/12/13/erau-expands-aviation.html"
+			"url": "https://hager.blog/2017/12/13/erau-expands-aviation.html"
 		},
 		
 		{
@@ -58,7 +74,7 @@
 	      	
 			"content_html": "<p>Happy 1st Night of Hanukkah!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/9a674ffcd6.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-12T18:54:00-05:00",
-			"url": "http://hager.blog/2017/12/12/happy-st-night.html"
+			"url": "https://hager.blog/2017/12/12/happy-st-night.html"
 		},
 		
 		{
@@ -66,23 +82,7 @@
 	      	
 			"content_html": "<p><a href=\"http://kusports.com/news/2017/dec/11/bill-selfs-hints-change-more-complicated-just-flip\">Bill Self’s hints of ‘change’ more complicated than just flipping a switch</a></p>\n\n<blockquote>\n  <p>What the Jayhawks have not had much of in the past two games is the kind of defense for which Self’s teams typically have been known.</p>\n</blockquote>\n",
 			"date_published": "2017-12-11T19:27:00-05:00",
-			"url": "http://hager.blog/2017/12/11/bill-selfs-hints.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/12/11/enjoying-the-snow.html",
-	      	
-			"content_html": "<p>Enjoying the snow!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/af933c7c8d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-11T16:07:00-05:00",
-			"url": "http://hager.blog/2017/12/11/enjoying-the-snow.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/12/09/110415.html",
-	      	
-			"content_html": "<p><a href=\"https://www.avweb.com/avwebflash/news/Pilatus-PC-24-Certified-230026-1.html\">Pilatus PC-24 Certified!</a></p>\n\n<blockquote>\n  <p>The PC-24’s claim to fame is its ability to operate from shorter and more primitive strips than are typically demanded by business jets.</p>\n</blockquote>\n",
-			"date_published": "2017-12-09T06:04:00-05:00",
-			"url": "http://hager.blog/2017/12/09/110415.html"
+			"url": "https://hager.blog/2017/12/11/bill-selfs-hints.html"
 		}
 		
 	]
