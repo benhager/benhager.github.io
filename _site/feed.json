@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/12/22/boeing-embraer-discuss.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Boeing-Embraer-Discuss-Combination-230080-1.html\">Boeing, Embraer Discuss “Combination” - AVweb</a></p>\n\n<blockquote>\n  <p>Boeing and Embraer confirmed on Thursday they are “engaged in discussions regarding a potential combination, the basis of which remains under discussion</p>\n</blockquote>\n",
+			"date_published": "2017-12-22T09:15:00-05:00",
+			"url": "https://hager.blog/2017/12/22/boeing-embraer-discuss.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/12/20/164733.html",
 	      	
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2017/24f005d5ba.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Happy 2nd Night of Hanukkah!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/a5e1f132b8.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-13T21:58:00-05:00",
 			"url": "https://hager.blog/2017/12/13/happy-nd-night.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/12/14/erau-expands-aviation.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/ERAU-Expands-Aviation-Research-230042-1.html\">ERAU Expands Aviation Research - AVweb</a></p>\n\n<blockquote>\n  <p>Embry-Riddle Aeronautical University has received a $1 million federal grant to establish a new aviation and engineering research center in Florida, the school announced this week</p>\n</blockquote>\n",
-			"date_published": "2017-12-13T19:09:00-05:00",
-			"url": "https://hager.blog/2017/12/13/erau-expands-aviation.html"
 		}
 		
 	]
