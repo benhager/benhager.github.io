@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2017/12/24/brazil-blocks-embraer.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Brazil-Blocks-Embraer-Takeover-230086-1.html\">Brazil Blocks Embraer Takeover - AVweb</a></p>\n\n<blockquote>\n  <p>The president of Brazil says his government will exercise its veto power to block the transfer of control of Embraer to Boeing. Michel Temer said Friday the company is not for sale but he would welcome investment from Boeing.</p>\n</blockquote>\n",
+			"date_published": "2017-12-24T17:29:00-05:00",
+			"url": "https://hager.blog/2017/12/24/brazil-blocks-embraer.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2017/12/24/what-is-kirsten.html",
 	      	
 			"content_html": "<p>🏛 <a href=\"https://fivethirtyeight.com/features/what-is-kirsten-gillibrand-up-to/\">What Is Kirsten Gillibrand Up To? - FiveThirtyEight</a></p>\n\n<blockquote>\n  <p>But Gillibrand’s appetite for biting the hands that feed her might actually be just what brings her success in the Democrats’ all-but-free-for-all scramble for leadership</p>\n</blockquote>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Happy 5th Night of Hanukkah!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/879dec8405.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-16T19:22:00-05:00",
 			"url": "https://hager.blog/2017/12/16/happy-th-night.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/12/16/happy-th-night.html",
-	      	
-			"content_html": "<p>Happy 4th Night of Hanukkah! (yes, somehow we skipped the 3rd night)</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/172f3679cd.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-15T20:47:00-05:00",
-			"url": "https://hager.blog/2017/12/15/happy-th-night.html"
 		}
 		
 	]
