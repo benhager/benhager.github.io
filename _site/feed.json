@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/02/back-to-work.html",
+	      	
+			"content_html": "<p>Back to work after nearly 2 full weeks off! Definitely missing the family today and spending the time with the kiddos. </p>\n",
+			"date_published": "2018-01-02T12:36:00-05:00",
+			"url": "https://hager.blog/2018/01/02/back-to-work.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/01/a-happy-boy.html",
 	      	
 			"content_html": "<p>A happy boy enjoying the new year!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/29c67c15ba.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2017/24f005d5ba.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-20T11:47:00-05:00",
 			"url": "https://hager.blog/2017/12/20/164733.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/12/20/164111.html",
-	      	
-			"content_html": "<p><a href=\"https://www.avweb.com/avwebflash/news/Stratolaunch-Takes-First-Steps-230070-1.html\">Stratolaunch First Steps</a></p>\n\n<blockquote>\n  <p>The prototype has a 500,000-pound empty weight, a target maximum takeoff weight of 1.3 million pounds and is powered by six turbofans scavenged from Boeing 747-400s.</p>\n</blockquote>\n",
-			"date_published": "2017-12-20T11:41:00-05:00",
-			"url": "https://hager.blog/2017/12/20/164111.html"
 		}
 		
 	]
