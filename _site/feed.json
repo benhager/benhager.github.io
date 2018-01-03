@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/03/trump-takes-credit.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Trump-Takes-Credit-For-Airline-Safety-Record-230129-1.html\">Trump Takes Credit For Airline Safety Record - AVweb</a></p>\n\n<blockquote>\n  <p>The last fatal crash involving a commercial aircraft in the U.S. was the Colgan Air crash in 2009</p>\n</blockquote>\n",
+			"date_published": "2018-01-03T00:07:00-05:00",
+			"url": "https://hager.blog/2018/01/03/trump-takes-credit.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/02/back-to-work.html",
 	      	
 			"content_html": "<p>Back to work after nearly 2 full weeks off! Definitely missing the family today and spending the time with the kiddos. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Boeing-Embraer-Discuss-Combination-230080-1.html\">Boeing, Embraer Discuss “Combination” - AVweb</a></p>\n\n<blockquote>\n  <p>Boeing and Embraer confirmed on Thursday they are “engaged in discussions regarding a potential combination, the basis of which remains under discussion</p>\n</blockquote>\n",
 			"date_published": "2017-12-22T09:15:00-05:00",
 			"url": "https://hager.blog/2017/12/22/boeing-embraer-discuss.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/12/20/164733.html",
-	      	
-			"content_html": "<p><img src=\"http://hager.blog/uploads/2017/24f005d5ba.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-20T11:47:00-05:00",
-			"url": "https://hager.blog/2017/12/20/164733.html"
 		}
 		
 	]
