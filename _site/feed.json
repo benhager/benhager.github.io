@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/04/happy-that-we.html",
+	      	
+			"content_html": "<p>Happy that we are being spared by the “snow bomb“ this week. I need to a break from clearing the driveway. Hope everyone in its path stays safe!</p>\n",
+			"date_published": "2018-01-04T16:36:00-05:00",
+			"url": "https://hager.blog/2018/01/04/happy-that-we.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/04/you-know-its.html",
 	      	
 			"content_html": "<p>You know it’s been a cold few weeks when 22 degrees Fahrenheit on Sunday sounds like a warm day!! ❄️</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 <a href=\"https://fivethirtyeight.com/features/what-is-kirsten-gillibrand-up-to/\">What Is Kirsten Gillibrand Up To? - FiveThirtyEight</a></p>\n\n<blockquote>\n  <p>But Gillibrand’s appetite for biting the hands that feed her might actually be just what brings her success in the Democrats’ all-but-free-for-all scramble for leadership</p>\n</blockquote>\n",
 			"date_published": "2017-12-23T21:28:00-05:00",
 			"url": "https://hager.blog/2017/12/23/what-is-kirsten.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/12/23/a-smile-for.html",
-	      	
-			"content_html": "<p>A smile for Mommy and Daddy!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/04fffadd1e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-23T13:25:00-05:00",
-			"url": "https://hager.blog/2017/12/23/a-smile-for.html"
 		}
 		
 	]
