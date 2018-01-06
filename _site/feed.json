@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/06/195839.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nbcnews.com/politics/donald-trump/trump-insists-he-very-stable-genius-amid-questions-over-mental-n835191\">Um, okay…</a> </p>\n\n<blockquote>\n  <p>“Actually, throughout my life, my two greatest assets have been mental stability and being, like, really smart,”</p>\n</blockquote>\n",
+			"date_published": "2018-01-06T14:58:00-05:00",
+			"url": "https://hager.blog/2018/01/06/195839.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/05/years-in-the.html",
 	      	
 			"content_html": "<p>33 years in the blink of an eye</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Wishing everyone a very Happy and Healthy Holiday season!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2017/d4d8f7f2dd.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-25T14:47:00-05:00",
 			"url": "https://hager.blog/2017/12/25/wishing-everyone-a.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2017/12/24/brazil-blocks-embraer.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Brazil-Blocks-Embraer-Takeover-230086-1.html\">Brazil Blocks Embraer Takeover - AVweb</a></p>\n\n<blockquote>\n  <p>The president of Brazil says his government will exercise its veto power to block the transfer of control of Embraer to Boeing. Michel Temer said Friday the company is not for sale but he would welcome investment from Boeing.</p>\n</blockquote>\n",
-			"date_published": "2017-12-24T17:29:00-05:00",
-			"url": "https://hager.blog/2017/12/24/brazil-blocks-embraer.html"
 		}
 		
 	]
