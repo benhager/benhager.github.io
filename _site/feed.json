@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/08/214314.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://www.vox.com/policy-and-politics/2018/1/8/16865248/100-days-since-chip-funding-expired\">100 days</a></p>\n\n<blockquote>\n  <p>One hundred days ago, Congress let the funding for the Children’s Health Insurance Program expire. For one hundred days, a program that covers 9 million American children has been left in this strange limbo, with the worst consequences being averted but nonetheless creeping</p>\n</blockquote>\n",
+			"date_published": "2018-01-08T16:43:00-05:00",
+			"url": "https://hager.blog/2018/01/08/214314.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/08/home-today-with.html",
 	      	
 			"content_html": "<p>Home today with a sick toddler! Keeping him warm and cozy on the couch and hoping he feels better soon!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Back to work after nearly 2 full weeks off! Definitely missing the family today and spending the time with the kiddos. </p>\n",
 			"date_published": "2018-01-02T12:36:00-05:00",
 			"url": "https://hager.blog/2018/01/02/back-to-work.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/01/a-happy-boy.html",
-	      	
-			"content_html": "<p>A happy boy enjoying the new year!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/29c67c15ba.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-01T16:20:00-05:00",
-			"url": "https://hager.blog/2018/01/01/a-happy-boy.html"
 		}
 		
 	]
