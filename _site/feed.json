@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/09/205244.html",
+	      	
+			"content_html": "<p>📚 <a href=\"http://www.simonandschuster.com/books/Bobby-Kennedy/Chris-Matthews/9781501111860\">A Raging Spirit</a></p>\n\n<blockquote>\n  <p>A revealing new portrait of Robert F. Kennedy that gets closer to the man than any book before, by bestselling author Chris Matthews, an esteemed Kennedy expert and anchor of MSNBC’s Hardball.</p>\n</blockquote>\n",
+			"date_published": "2018-01-09T15:52:00-05:00",
+			"url": "https://hager.blog/2018/01/09/205244.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/08/214314.html",
 	      	
 			"content_html": "<p>🏛 <a href=\"https://www.vox.com/policy-and-politics/2018/1/8/16865248/100-days-since-chip-funding-expired\">100 days</a></p>\n\n<blockquote>\n  <p>One hundred days ago, Congress let the funding for the Children’s Health Insurance Program expire. For one hundred days, a program that covers 9 million American children has been left in this strange limbo, with the worst consequences being averted but nonetheless creeping</p>\n</blockquote>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Trump-Takes-Credit-For-Airline-Safety-Record-230129-1.html\">Trump Takes Credit For Airline Safety Record - AVweb</a></p>\n\n<blockquote>\n  <p>The last fatal crash involving a commercial aircraft in the U.S. was the Colgan Air crash in 2009</p>\n</blockquote>\n",
 			"date_published": "2018-01-03T00:07:00-05:00",
 			"url": "https://hager.blog/2018/01/03/trump-takes-credit.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/02/back-to-work.html",
-	      	
-			"content_html": "<p>Back to work after nearly 2 full weeks off! Definitely missing the family today and spending the time with the kiddos. </p>\n",
-			"date_published": "2018-01-02T12:36:00-05:00",
-			"url": "https://hager.blog/2018/01/02/back-to-work.html"
 		}
 		
 	]
