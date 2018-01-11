@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/11/the-good-war.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://thenib.com/the-good-war\">The Good War - by Mike Dawson and Chris Hayes</a></p>\n\n<blockquote>\n  <p>How America’s infatuation with World War II has eroded our conscience</p>\n</blockquote>\n",
+			"date_published": "2018-01-11T01:55:00-05:00",
+			"url": "https://hager.blog/2018/01/11/the-good-war.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2018/01/11/north-carolina-is.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://mobile.nytimes.com/2018/01/09/us/north-carolina-gerrymander.html\">North Carolina Is Ordered to Redraw Its Congressional Map - The New York Times</a></p>\n\n<blockquote>\n  <p>The result, Judge Wynn wrote, violated the 14th Amendment’s guarantee of equal protection</p>\n</blockquote>\n",
+			"date_published": "2018-01-11T01:45:00-05:00",
+			"url": "https://hager.blog/2018/01/11/north-carolina-is.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/10/search-collections-with.html",
 	      	
 			"title": "Search Collections with Emoji",
@@ -69,22 +85,6 @@
 			"content_html": "<p>33 years in the blink of an eye</p>\n",
 			"date_published": "2018-01-05T09:16:00-05:00",
 			"url": "https://hager.blog/2018/01/05/years-in-the.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/04/happy-that-we.html",
-	      	
-			"content_html": "<p>Happy that we are being spared by the “snow bomb“ this week. I need to a break from clearing the driveway. Hope everyone in its path stays safe!</p>\n",
-			"date_published": "2018-01-04T16:36:00-05:00",
-			"url": "https://hager.blog/2018/01/04/happy-that-we.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/04/you-know-its.html",
-	      	
-			"content_html": "<p>You know it’s been a cold few weeks when 22 degrees Fahrenheit on Sunday sounds like a warm day!! ❄️</p>\n",
-			"date_published": "2018-01-03T19:22:00-05:00",
-			"url": "https://hager.blog/2018/01/03/you-know-its.html"
 		}
 		
 	]
