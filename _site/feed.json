@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/10/search-collections-with.html",
+	      	
+			"title": "Search Collections with Emoji",
+			
+			"content_html": "<p>Love this <a href=\"http://www.manton.org/2018/01/books-on-micro-blog.html\">new idea</a> from <a href=\"https://micro.blog/manton\">@manton</a> for the Micro.blog service. Been playing with this idea on <a href=\"https://hager.blog\">my own</a> micro blog for a while now. I have the following already sketches out:</p>\n\n<p>✈️ Aviation\n🚀 Aerospace/Rockets\n🚗 Automotive \n🏛 Politics \n📱 Phones / Mobile technology \n💻 Computers\n🔬 Science \n⚽️🏀🏈⚾️ Respective sports </p>\n",
+			"date_published": "2018-01-10T18:58:00-05:00",
+			"url": "https://hager.blog/2018/01/10/search-collections-with.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/09/205244.html",
 	      	
 			"content_html": "<p>📚 <a href=\"http://www.simonandschuster.com/books/Bobby-Kennedy/Chris-Matthews/9781501111860\">A Raging Spirit</a></p>\n\n<blockquote>\n  <p>A revealing new portrait of Robert F. Kennedy that gets closer to the man than any book before, by bestselling author Chris Matthews, an esteemed Kennedy expert and anchor of MSNBC’s Hardball.</p>\n</blockquote>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p>You know it’s been a cold few weeks when 22 degrees Fahrenheit on Sunday sounds like a warm day!! ❄️</p>\n",
 			"date_published": "2018-01-03T19:22:00-05:00",
 			"url": "https://hager.blog/2018/01/03/you-know-its.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/03/trump-takes-credit.html",
-	      	
-			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Trump-Takes-Credit-For-Airline-Safety-Record-230129-1.html\">Trump Takes Credit For Airline Safety Record - AVweb</a></p>\n\n<blockquote>\n  <p>The last fatal crash involving a commercial aircraft in the U.S. was the Colgan Air crash in 2009</p>\n</blockquote>\n",
-			"date_published": "2018-01-03T00:07:00-05:00",
-			"url": "https://hager.blog/2018/01/03/trump-takes-credit.html"
 		}
 		
 	]
