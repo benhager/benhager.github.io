@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/15/donald-trump-flushes.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2018/01/12/opinion/donald-trump-flushes-away-americas-reputation.html\">Donald Trump Flushes Away America’s Reputation - NYT</a></p>\n\n<blockquote>\n  <p>Where to begin? How about with a simple observation: The president of the United States is a racist. And another: The United States has a long and ugly history of excluding immigrants based on race or national origin</p>\n</blockquote>\n",
+			"date_published": "2018-01-15T02:47:00-05:00",
+			"url": "https://hager.blog/2018/01/15/donald-trump-flushes.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/14/jayhawks-won-and.html",
 	      	
 			"content_html": "<p>🏀 Jayhawks won and 🏈 Patriots won! Yesterday was a good day!!</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Home today with a sick toddler! Keeping him warm and cozy on the couch and hoping he feels better soon!</p>\n",
 			"date_published": "2018-01-08T12:54:00-05:00",
 			"url": "https://hager.blog/2018/01/08/home-today-with.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/07/air-hockey-fun.html",
-	      	
-			"content_html": "<p>Air hockey fun with mommy!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/7c74ac837a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-07T11:50:00-05:00",
-			"url": "https://hager.blog/2018/01/07/air-hockey-fun.html"
 		}
 		
 	]
