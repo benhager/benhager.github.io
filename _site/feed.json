@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/17/we-couldnt-figure.html",
+	      	
+			"content_html": "<p>🌎 We couldn’t figure out what this was last night. This is pretty cool: <a href=\"https://www.clickondetroit.com/news/usgs-confirms-meteor-over-metro-detroit-causing-magnitude-20-earthquake\">USGS confirms meteor over Metro Detroit, causing magnitude 2.0 earthquake</a></p>\n",
+			"date_published": "2018-01-17T05:08:00-05:00",
+			"url": "https://hager.blog/2018/01/17/we-couldnt-figure.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/17/a-new-theory.html",
 	      	
 			"content_html": "<p>🏛 <a href=\"https://slate.com/business/2018/01/a-new-theory-for-why-americans-cant-get-a-raise.html\">A new theory for why Americans can’t get a raise</a></p>\n\n<blockquote>\n  <p>If the U.S. really does have the sort of widespread monopsony problem this paper documents, it would be one more important point on the constellation of reasons workers have fallen so far behind this century.</p>\n</blockquote>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 <a href=\"https://thenib.com/the-good-war\">The Good War - by Mike Dawson and Chris Hayes</a></p>\n\n<blockquote>\n  <p>How America’s infatuation with World War II has eroded our conscience</p>\n</blockquote>\n",
 			"date_published": "2018-01-11T01:55:00-05:00",
 			"url": "https://hager.blog/2018/01/11/the-good-war.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/11/north-carolina-is.html",
-	      	
-			"content_html": "<p>🏛 <a href=\"https://mobile.nytimes.com/2018/01/09/us/north-carolina-gerrymander.html\">North Carolina Is Ordered to Redraw Its Congressional Map - The New York Times</a></p>\n\n<blockquote>\n  <p>The result, Judge Wynn wrote, violated the 14th Amendment’s guarantee of equal protection</p>\n</blockquote>\n",
-			"date_published": "2018-01-11T01:45:00-05:00",
-			"url": "https://hager.blog/2018/01/11/north-carolina-is.html"
 		}
 		
 	]
