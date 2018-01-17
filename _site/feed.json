@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/17/a-roundup-of.html",
+	      	
+			"content_html": "<p>📱 <a href=\"https://www.macstories.net/news/a-roundup-of-ces-home-automation-and-apple-accessory-announcements/\">A Roundup of CES Home Automation and Apple Accessory Announcements – MacStories</a></p>\n",
+			"date_published": "2018-01-16T19:02:00-05:00",
+			"url": "https://hager.blog/2018/01/16/a-roundup-of.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/16/mountain-of-a.html",
 	      	
 			"content_html": "<p>🏀<a href=\"http://www2.kusports.com/news/2018/jan/15/mountain-comeback-jayhawks-stun-west-virginia-move/\">Mountain of a comeback: Jayhawks stun West Virginia</a></p>\n\n<blockquote>\n  <p>Of all of the talented teams and insanely skilled players that Kansas … has taken to West Virginia during the past five years, it was a bunch of grinders and scrappers who finally came out of WVU Coliseum with a victory again.</p>\n</blockquote>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Love this <a href=\"http://www.manton.org/2018/01/books-on-micro-blog.html\">new idea</a> from <a href=\"https://micro.blog/manton\">@manton</a> for the Micro.blog service. Been playing with this idea on <a href=\"https://hager.blog\">my own</a> micro blog for a while now. I have the following already sketches out:</p>\n\n<p>✈️ Aviation\n🚀 Aerospace/Rockets\n🚗 Automotive \n🏛 Politics \n📱 Phones / Mobile technology \n💻 Computers\n🔬 Science \n⚽️🏀🏈⚾️ Respective sports </p>\n",
 			"date_published": "2018-01-10T18:58:00-05:00",
 			"url": "https://hager.blog/2018/01/10/search-collections-with.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/09/205244.html",
-	      	
-			"content_html": "<p>📚 <a href=\"http://www.simonandschuster.com/books/Bobby-Kennedy/Chris-Matthews/9781501111860\">A Raging Spirit</a></p>\n\n<blockquote>\n  <p>A revealing new portrait of Robert F. Kennedy that gets closer to the man than any book before, by bestselling author Chris Matthews, an esteemed Kennedy expert and anchor of MSNBC’s Hardball.</p>\n</blockquote>\n",
-			"date_published": "2018-01-09T15:52:00-05:00",
-			"url": "https://hager.blog/2018/01/09/205244.html"
 		}
 		
 	]
