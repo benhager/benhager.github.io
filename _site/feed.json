@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/18/report-getting-out.html",
+	      	
+			"content_html": "<p>🤣 <a href=\"https://www.theonion.com/report-getting-out-of-bed-in-morning-sharply-increases-1819578645\">Report: Getting Out Of Bed In Morning Sharply Increases Risk Of Things Getting Even Worse - The Onion</a></p>\n\n<blockquote>\n  <p>her research team observed no instances in which rising from one’s bed and beginning to go about one’s day improved things for any of the test participants</p>\n</blockquote>\n",
+			"date_published": "2018-01-17T20:15:00-05:00",
+			"url": "https://hager.blog/2018/01/17/report-getting-out.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/17/we-couldnt-figure.html",
 	      	
 			"content_html": "<p>🌎 We couldn’t figure out what this was last night. This is pretty cool: <a href=\"https://www.clickondetroit.com/news/usgs-confirms-meteor-over-metro-detroit-causing-magnitude-20-earthquake\">USGS confirms meteor over Metro Detroit, causing magnitude 2.0 earthquake</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I experienced anew kind of precipitation this morning on our way to school, it was what I’m calling “freezing slush”. Hope everyone is staying safe today/tonight. 🌨🌬❄️</p>\n",
 			"date_published": "2018-01-12T18:02:00-05:00",
 			"url": "https://hager.blog/2018/01/12/i-experienced-anew.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/11/the-good-war.html",
-	      	
-			"content_html": "<p>🏛 <a href=\"https://thenib.com/the-good-war\">The Good War - by Mike Dawson and Chris Hayes</a></p>\n\n<blockquote>\n  <p>How America’s infatuation with World War II has eroded our conscience</p>\n</blockquote>\n",
-			"date_published": "2018-01-11T01:55:00-05:00",
-			"url": "https://hager.blog/2018/01/11/the-good-war.html"
 		}
 		
 	]
