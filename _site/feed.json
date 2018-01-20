@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/20/shutdown-drama-shows.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"http://www.cnn.com/2018/01/20/politics/government-shutdown-schumer-trump-mcconnell/index.html\">Shutdown drama shows Washington’s failure to lead</a></p>\n\n<blockquote>\n  <p>The general impression was of a political system and a governing class that is simply not up to the task of dealing with the polarizing issues facing the American people</p>\n</blockquote>\n",
+			"date_published": "2018-01-20T02:22:00-05:00",
+			"url": "https://hager.blog/2018/01/20/shutdown-drama-shows.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2018/01/19/we-had-a.html",
+	      	
+			"content_html": "<p>We had a <strong>great</strong> time at breakfast this morning!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/5664e1663e.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-19T12:32:00-05:00",
+			"url": "https://hager.blog/2018/01/19/we-had-a.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/18/gorgeous-megapixel-panoramas.html",
 	      	
 			"content_html": "<p>📱 <a href=\"https://kottke.org/18/01/gorgeous-50-megapixel-panoramas-shot-on-an-iphone-at-20000-feet\">Gorgeous 50-megapixel panoramas shot on an iPhone at 20,000 feet</a></p>\n\n<blockquote>\n  <p>He strapped an iPhone 7 to the bottom of a Learjet, set it on Pano mode, and flew it over various landscapes at a height of 20,000 feet.</p>\n</blockquote>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2018/01/12/opinion/donald-trump-flushes-away-americas-reputation.html\">Donald Trump Flushes Away America’s Reputation - NYT</a></p>\n\n<blockquote>\n  <p>Where to begin? How about with a simple observation: The president of the United States is a racist. And another: The United States has a long and ugly history of excluding immigrants based on race or national origin</p>\n</blockquote>\n",
 			"date_published": "2018-01-15T02:47:00-05:00",
 			"url": "https://hager.blog/2018/01/15/donald-trump-flushes.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/14/jayhawks-won-and.html",
-	      	
-			"content_html": "<p>🏀 Jayhawks won and 🏈 Patriots won! Yesterday was a good day!!</p>\n",
-			"date_published": "2018-01-14T12:51:00-05:00",
-			"url": "https://hager.blog/2018/01/14/jayhawks-won-and.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/13/happy-baby-this.html",
-	      	
-			"content_html": "<p>Happy baby this morning!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/b1537a9006.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-13T10:45:00-05:00",
-			"url": "https://hager.blog/2018/01/13/happy-baby-this.html"
 		}
 		
 	]
