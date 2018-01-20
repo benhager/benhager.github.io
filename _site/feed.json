@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/20/one-year-later.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"http://www.cnn.com/2018/01/20/politics/womens-march-anniversary-trump-shutdown/index.html\">One year later, Women’s March returns</a></p>\n",
+			"date_published": "2018-01-20T15:35:00-05:00",
+			"url": "https://hager.blog/2018/01/20/one-year-later.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/20/shutdown-drama-shows.html",
 	      	
 			"content_html": "<p>🏛 <a href=\"http://www.cnn.com/2018/01/20/politics/government-shutdown-schumer-trump-mcconnell/index.html\">Shutdown drama shows Washington’s failure to lead</a></p>\n\n<blockquote>\n  <p>The general impression was of a political system and a governing class that is simply not up to the task of dealing with the polarizing issues facing the American people</p>\n</blockquote>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>What a game, what a finish!! Rock Chalk, Jayhawk! 🏀</p>\n",
 			"date_published": "2018-01-15T23:19:00-05:00",
 			"url": "https://hager.blog/2018/01/15/what-a-game.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/15/donald-trump-flushes.html",
-	      	
-			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2018/01/12/opinion/donald-trump-flushes-away-americas-reputation.html\">Donald Trump Flushes Away America’s Reputation - NYT</a></p>\n\n<blockquote>\n  <p>Where to begin? How about with a simple observation: The president of the United States is a racist. And another: The United States has a long and ugly history of excluding immigrants based on race or national origin</p>\n</blockquote>\n",
-			"date_published": "2018-01-15T02:47:00-05:00",
-			"url": "https://hager.blog/2018/01/15/donald-trump-flushes.html"
 		}
 		
 	]
