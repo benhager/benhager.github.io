@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/22/here-are-the.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2018/01/21/us/politics/bipartisan-senators-government-shutdown.html\">Here Are the Senators Trying to Find a Bipartisan Solution to the Government Shutdown - The New York Times</a></p>\n\n<p>Good to see that some folks are still trying to work together. </p>\n",
+			"date_published": "2018-01-21T23:50:00-05:00",
+			"url": "https://hager.blog/2018/01/21/here-are-the.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2018/01/22/congrats-to-the.html",
+	      	
+			"content_html": "<p>🏈 Congrats to the Eagles on a great game! I know a lot of people who are very happy tonight!! Looking Howard to a good super bowl matchup. 🏈</p>\n",
+			"date_published": "2018-01-21T23:42:00-05:00",
+			"url": "https://hager.blog/2018/01/21/congrats-to-the.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/21/patriots-heading-to.html",
 	      	
 			"content_html": "<p>🏈 Patriots!! Heading to the Super Bowl! 🏈</p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>📱 <a href=\"https://kottke.org/18/01/gorgeous-50-megapixel-panoramas-shot-on-an-iphone-at-20000-feet\">Gorgeous 50-megapixel panoramas shot on an iPhone at 20,000 feet</a></p>\n\n<blockquote>\n  <p>He strapped an iPhone 7 to the bottom of a Learjet, set it on Pano mode, and flew it over various landscapes at a height of 20,000 feet.</p>\n</blockquote>\n",
 			"date_published": "2018-01-18T09:34:00-05:00",
 			"url": "https://hager.blog/2018/01/18/gorgeous-megapixel-panoramas.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/18/report-getting-out.html",
-	      	
-			"content_html": "<p>🤣 <a href=\"https://www.theonion.com/report-getting-out-of-bed-in-morning-sharply-increases-1819578645\">Report: Getting Out Of Bed In Morning Sharply Increases Risk Of Things Getting Even Worse - The Onion</a></p>\n\n<blockquote>\n  <p>her research team observed no instances in which rising from one’s bed and beginning to go about one’s day improved things for any of the test participants</p>\n</blockquote>\n",
-			"date_published": "2018-01-17T20:15:00-05:00",
-			"url": "https://hager.blog/2018/01/17/report-getting-out.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/17/we-couldnt-figure.html",
-	      	
-			"content_html": "<p>🌎 We couldn’t figure out what this was last night. This is pretty cool: <a href=\"https://www.clickondetroit.com/news/usgs-confirms-meteor-over-metro-detroit-causing-magnitude-20-earthquake\">USGS confirms meteor over Metro Detroit, causing magnitude 2.0 earthquake</a></p>\n",
-			"date_published": "2018-01-17T05:08:00-05:00",
-			"url": "https://hager.blog/2018/01/17/we-couldnt-figure.html"
 		}
 		
 	]
