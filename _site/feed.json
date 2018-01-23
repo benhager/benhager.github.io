@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/23/i-love-watching.html",
+	      	
+			"content_html": "<p>I <em>love</em> watching the boys play together!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/ade4e4d420.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-23T08:46:00-05:00",
+			"url": "https://hager.blog/2018/01/23/i-love-watching.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/22/this-post-by.html",
 	      	
 			"content_html": "<p>This post by <a href=\"https://micro.blog/liss\">@liss</a>, <a href=\"https://www.caseyliss.com/2018/1/21/my-euphoria\">My Euphoria</a>, reminded me of a similar moment that we had this past fall when we brought our 2nd child home. His older brother has been great so far!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/13b6ac0737.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 <a href=\"http://www.cnn.com/2018/01/20/politics/government-shutdown-schumer-trump-mcconnell/index.html\">Shutdown drama shows Washington’s failure to lead</a></p>\n\n<blockquote>\n  <p>The general impression was of a political system and a governing class that is simply not up to the task of dealing with the polarizing issues facing the American people</p>\n</blockquote>\n",
 			"date_published": "2018-01-20T02:22:00-05:00",
 			"url": "https://hager.blog/2018/01/20/shutdown-drama-shows.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/19/we-had-a.html",
-	      	
-			"content_html": "<p>We had a <strong>great</strong> time at breakfast this morning!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/5664e1663e.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-19T12:32:00-05:00",
-			"url": "https://hager.blog/2018/01/19/we-had-a.html"
 		}
 		
 	]
