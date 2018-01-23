@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/23/deep-breath-the.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2018/01/23/opinion/shutdown-democrats.html\">Deep Breath: The Democrats Did Just Fine</a></p>\n\n<blockquote>\n  <p>My biggest question for Democratic leaders is whether they could have made the same deal a couple of days ago. If so, it would have been slightly better. But it probably doesn’t matter either way. A two-day shutdown isn’t going to affect the political scene months from now.</p>\n</blockquote>\n",
+			"date_published": "2018-01-23T09:54:00-05:00",
+			"url": "https://hager.blog/2018/01/23/deep-breath-the.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/23/i-love-watching.html",
 	      	
 			"content_html": "<p>I <em>love</em> watching the boys play together!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/ade4e4d420.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 <a href=\"http://www.cnn.com/2018/01/20/politics/womens-march-anniversary-trump-shutdown/index.html\">One year later, Women’s March returns</a></p>\n",
 			"date_published": "2018-01-20T15:35:00-05:00",
 			"url": "https://hager.blog/2018/01/20/one-year-later.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/20/shutdown-drama-shows.html",
-	      	
-			"content_html": "<p>🏛 <a href=\"http://www.cnn.com/2018/01/20/politics/government-shutdown-schumer-trump-mcconnell/index.html\">Shutdown drama shows Washington’s failure to lead</a></p>\n\n<blockquote>\n  <p>The general impression was of a political system and a governing class that is simply not up to the task of dealing with the polarizing issues facing the American people</p>\n</blockquote>\n",
-			"date_published": "2018-01-20T02:22:00-05:00",
-			"url": "https://hager.blog/2018/01/20/shutdown-drama-shows.html"
 		}
 		
 	]
