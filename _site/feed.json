@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/25/reading-tonight-after.html",
+	      	
+			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/ecc0f7db85.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Reading tonight after bath time</p>\n\n",
+			"date_published": "2018-01-24T20:11:00-05:00",
+			"url": "https://hager.blog/2018/01/24/reading-tonight-after.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/24/we-had-a.html",
 	      	
 			"content_html": "<p>We had a lot of fun making a pizza for dinner!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/fbc4cbfe69.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 <a href=\"https://www.npr.org/2018/01/20/578689252/how-america-has-changed-during-trumps-first-year-in-office-by-the-numbers\">How America Has Changed During Trump’s First Year In Office, By The Numbers : NPR</a></p>\n\n<blockquote>\n  <p>Although we’re looking at how the country is changing throughout the Trump presidency, this isn’t to say that the president created these outcomes.</p>\n</blockquote>\n\n<p>A very interesting review of the last year. </p>\n",
 			"date_published": "2018-01-21T11:57:00-05:00",
 			"url": "https://hager.blog/2018/01/21/how-america-has.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/21/doing-some-shopping.html",
-	      	
-			"content_html": "<p>Doing some shopping with the little guy this morning while his brother was at Sunday School. </p>\n\n<p><img src=\"http://hager.blog/uploads/2018/a6e9af2f4b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-21T11:54:00-05:00",
-			"url": "https://hager.blog/2018/01/21/doing-some-shopping.html"
 		}
 		
 	]
