@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/26/playing-in-the.html",
+	      	
+			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/2f9058466c.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Playing in the snow sculptures at Zehnder’s Snowfest ❄️</p>\n\n",
+			"date_published": "2018-01-26T15:33:00-05:00",
+			"url": "https://hager.blog/2018/01/26/playing-in-the.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/25/stephen-boyd-sends.html",
 	      	
 			"content_html": "<p>🏛 <a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2018/01/25/the-justice-department-stands-up-to-a-reckless-republican/\">Stephen Boyd sends letter to Nunes: The Justice Department stands up to a reckless Republican - The Washington Post</a></p>\n\n<blockquote>\n  <p>Nunes’s deliberate interference with a criminal and counterintelligence investigation, potential release of classified information and attempts to maliciously discredit the FBI should not be tolerated</p>\n</blockquote>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2018/01/21/us/politics/bipartisan-senators-government-shutdown.html\">Here Are the Senators Trying to Find a Bipartisan Solution to the Government Shutdown - The New York Times</a></p>\n\n<p>Good to see that some folks are still trying to work together. </p>\n",
 			"date_published": "2018-01-21T23:50:00-05:00",
 			"url": "https://hager.blog/2018/01/21/here-are-the.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/22/congrats-to-the.html",
-	      	
-			"content_html": "<p>🏈 Congrats to the Eagles on a great game! I know a lot of people who are very happy tonight!! Looking Howard to a good super bowl matchup. 🏈</p>\n",
-			"date_published": "2018-01-21T23:42:00-05:00",
-			"url": "https://hager.blog/2018/01/21/congrats-to-the.html"
 		}
 		
 	]
