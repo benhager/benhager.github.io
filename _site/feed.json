@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/01/29/we-now-have.html",
+	      	
+			"content_html": "<p>We now have this incredible ability to communicate globally, but most people are not prepared for that and easily fall victim to malicious actors.</p>\n\n<p>🏛️ <a href=\"https://www.project-syndicate.org/commentary/internet-platform-monopoly-threats-by-roger-mcnamee-2018-01\">Social Media’s Junkies and Dealers</a></p>\n",
+			"date_published": "2018-01-29T13:07:00-05:00",
+			"url": "https://hager.blog/2018/01/29/we-now-have.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2018/01/29/my-micro-monday.html",
+	      	
+			"content_html": "<p>My Micro Monday recommendation today is <a href=\"https://micro.blog/cleverdevil\">@cleverdevil</a>. He seems to be working on some interesting things, and it’s fun to follow.</p>\n",
+			"date_published": "2018-01-29T13:01:00-05:00",
+			"url": "https://hager.blog/2018/01/29/my-micro-monday.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2018/01/29/it-was-degrees.html",
+	      	
+			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/7e6ca12e4c.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>It was 50 degrees yesterday, and now there’s this… ❄️</p>\n\n",
+			"date_published": "2018-01-29T12:56:00-05:00",
+			"url": "https://hager.blog/2018/01/29/it-was-degrees.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/01/28/when-its-degrees.html",
 	      	
 			"content_html": "<p>When it’s <strong>50 degrees</strong> in January, we rake leaves 🍁 and play street hockey 🏒 </p>\n\n<p><img src=\"http://hager.blog/uploads/2018/a1886160db.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -61,30 +85,6 @@
 			"content_html": "<p>🏛 <a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2018/01/25/the-justice-department-stands-up-to-a-reckless-republican/\">Stephen Boyd sends letter to Nunes: The Justice Department stands up to a reckless Republican - The Washington Post</a></p>\n\n<blockquote>\n  <p>Nunes’s deliberate interference with a criminal and counterintelligence investigation, potential release of classified information and attempts to maliciously discredit the FBI should not be tolerated</p>\n</blockquote>\n",
 			"date_published": "2018-01-25T17:43:00-05:00",
 			"url": "https://hager.blog/2018/01/25/stephen-boyd-sends.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/25/happy-baby-this.html",
-	      	
-			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/b10c7d7e7e.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Happy baby this morning!</p>\n\n",
-			"date_published": "2018-01-25T07:52:00-05:00",
-			"url": "https://hager.blog/2018/01/25/happy-baby-this.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/25/reading-tonight-after.html",
-	      	
-			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/ecc0f7db85.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Reading tonight after bath time</p>\n\n",
-			"date_published": "2018-01-24T20:11:00-05:00",
-			"url": "https://hager.blog/2018/01/24/reading-tonight-after.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/24/we-had-a.html",
-	      	
-			"content_html": "<p>We had a lot of fun making a pizza for dinner!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/fbc4cbfe69.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-24T15:05:00-05:00",
-			"url": "https://hager.blog/2018/01/24/we-had-a.html"
 		}
 		
 	]
