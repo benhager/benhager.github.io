@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/02/apple-q-results.html",
+	      	
+			"content_html": "<p>📱 <a href=\"https://www.macstories.net/news/apple-q1-2018-results-88-3-billion-revenue-77-3-million-iphones-13-2-million-ipads-sold/\">Apple Q1 2018 Results: $88.3 Billion Revenue, 77.3 Million iPhones, 13.2 Million iPads Sold – MacStories</a></p>\n\n<blockquote>\n  <p>Revenue from the iPhone 8 and X lines was the highest in the company’s history of previous iPhone releases.</p>\n</blockquote>\n",
+			"date_published": "2018-02-02T07:10:00-05:00",
+			"url": "https://hager.blog/2018/02/02/apple-q-results.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/01/permanencehttpwwwmantonorgpermanencehtml-how-do.html",
 	      	
 			"content_html": "<p><a href=\"http://www.manton.org/2012/07/permanence.html\">Permanence</a></p>\n\n<blockquote>\n  <p>How do we preserve the culture and art and stories of our time when the preferred media is so fragile?</p>\n</blockquote>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Enjoyed a 50 degree day here and got some things done around the house with the boys. 😎</p>\n",
 			"date_published": "2018-01-27T18:02:00-05:00",
 			"url": "https://hager.blog/2018/01/27/enjoyed-a-degree.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/27/riding-our-bikes.html",
-	      	
-			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/6caea11535.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Riding our bikes in January! What a beautiful day. 😎</p>\n\n",
-			"date_published": "2018-01-26T19:52:00-05:00",
-			"url": "https://hager.blog/2018/01/26/riding-our-bikes.html"
 		}
 		
 	]
