@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/04/air-force-narrows.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Air-Force-Narrows-Light-Attack-Field-230261-1.html\">Air Force Narrows Light Attack Field - AVweb flash Article</a></p>\n\n<blockquote>\n  <p>The Air Force hopes the winner of the competition will be able to help out in close support roles in anti-terrorism and counter-insurgent roles now undertaken by much more expensive platforms like the A-10 and F-16.</p>\n</blockquote>\n",
+			"date_published": "2018-02-03T19:40:00-05:00",
+			"url": "https://hager.blog/2018/02/03/air-force-narrows.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2018/02/04/a-process-that.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://www.washingtonpost.com/amphtml/opinions/paul-ryan-is-tarnishing-the-house/2018/02/01/48968bca-0798-11e8-8777-2a059f168dd2_story.html\">A process that tarnishes the House</a></p>\n\n<blockquote>\n  <p>Mr. Ryan bears full responsibility for the deterioration of congressional oversight of intelligence operations</p>\n</blockquote>\n",
+			"date_published": "2018-02-03T19:38:00-05:00",
+			"url": "https://hager.blog/2018/02/03/a-process-that.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/02/apple-q-results.html",
 	      	
 			"content_html": "<p>📱 <a href=\"https://www.macstories.net/news/apple-q1-2018-results-88-3-billion-revenue-77-3-million-iphones-13-2-million-ipads-sold/\">Apple Q1 2018 Results: $88.3 Billion Revenue, 77.3 Million iPhones, 13.2 Million iPads Sold – MacStories</a></p>\n\n<blockquote>\n  <p>Revenue from the iPhone 8 and X lines was the highest in the company’s history of previous iPhone releases.</p>\n</blockquote>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>When it’s <strong>50 degrees</strong> in January, we rake leaves 🍁 and play street hockey 🏒 </p>\n\n<p><img src=\"http://hager.blog/uploads/2018/a1886160db.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-28T17:37:00-05:00",
 			"url": "https://hager.blog/2018/01/28/when-its-degrees.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/27/good-win-for.html",
-	      	
-			"content_html": "<p>Good win for the Jayhawks tonight in the Big 12 / SEC challenge! 🏀</p>\n",
-			"date_published": "2018-01-27T18:39:00-05:00",
-			"url": "https://hager.blog/2018/01/27/good-win-for.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/27/enjoyed-a-degree.html",
-	      	
-			"content_html": "<p>Enjoyed a 50 degree day here and got some things done around the house with the boys. 😎</p>\n",
-			"date_published": "2018-01-27T18:02:00-05:00",
-			"url": "https://hager.blog/2018/01/27/enjoyed-a-degree.html"
 		}
 		
 	]
