@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/05/we-had-a.html",
+	      	
+			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/bd29c12c5e.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>We had a small snow storm today and were able to get out and make a snowman!! ⛄️ </p>\n\n",
+			"date_published": "2018-02-04T19:18:00-05:00",
+			"url": "https://hager.blog/2018/02/04/we-had-a.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/04/air-force-narrows.html",
 	      	
 			"content_html": "<p>✈️ <a href=\"https://www.avweb.com/avwebflash/news/Air-Force-Narrows-Light-Attack-Field-230261-1.html\">Air Force Narrows Light Attack Field - AVweb flash Article</a></p>\n\n<blockquote>\n  <p>The Air Force hopes the winner of the competition will be able to help out in close support roles in anti-terrorism and counter-insurgent roles now undertaken by much more expensive platforms like the A-10 and F-16.</p>\n</blockquote>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/7e6ca12e4c.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>It was 50 degrees yesterday, and now there’s this… ❄️</p>\n\n",
 			"date_published": "2018-01-29T12:56:00-05:00",
 			"url": "https://hager.blog/2018/01/29/it-was-degrees.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/28/when-its-degrees.html",
-	      	
-			"content_html": "<p>When it’s <strong>50 degrees</strong> in January, we rake leaves 🍁 and play street hockey 🏒 </p>\n\n<p><img src=\"http://hager.blog/uploads/2018/a1886160db.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-28T17:37:00-05:00",
-			"url": "https://hager.blog/2018/01/28/when-its-degrees.html"
 		}
 		
 	]
