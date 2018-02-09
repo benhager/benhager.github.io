@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/09/let-it-snow.html",
+	      	
+			"content_html": "<p>Let it snow! Let it snow! ❄️⛄️❄️ (this is only the halfway point!)</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/c8af2f89c6.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-09T12:14:00-05:00",
+			"url": "https://hager.blog/2018/02/09/let-it-snow.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/08/i-really-like.html",
 	      	
 			"content_html": "<p>I really like this: <a href=\"https://om.co/2018/02/08/blogs-as-though-spaces/\">Blogs are “thought spaces”</a>. Need to figure out how to use this site better for that kind of stuff. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://www.manton.org/2012/07/permanence.html\">Permanence</a></p>\n\n<blockquote>\n  <p>How do we preserve the culture and art and stories of our time when the preferred media is so fragile?</p>\n</blockquote>\n",
 			"date_published": "2018-02-01T04:12:00-05:00",
 			"url": "https://hager.blog/2018/02/01/permanencehttpwwwmantonorgpermanencehtml-how-do.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/31/i-made-myself.html",
-	      	
-			"content_html": "<p>I made myself a goal to post on <a href=\"https://Hager.blog\">Hager.blog</a> every day in January. With this post I have accomplished that goal!! 😃</p>\n",
-			"date_published": "2018-01-31T17:53:00-05:00",
-			"url": "https://hager.blog/2018/01/31/i-made-myself.html"
 		}
 		
 	]
