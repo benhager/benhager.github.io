@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/08/i-really-like.html",
+	      	
+			"content_html": "<p>I really like this: <a href=\"https://om.co/2018/02/08/blogs-as-though-spaces/\">Blogs are “thought spaces”</a>. Need to figure out how to use this site better for that kind of stuff. </p>\n",
+			"date_published": "2018-02-08T18:57:00-05:00",
+			"url": "https://hager.blog/2018/02/08/i-really-like.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/07/this-is-such.html",
 	      	
 			"content_html": "<p>This is such an incredible picture!! Congrats to everyone that made this possible! 🚀</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/9062f92308.jpg\" width=\"600\" height=\"335\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I made myself a goal to post on <a href=\"https://Hager.blog\">Hager.blog</a> every day in January. With this post I have accomplished that goal!! 😃</p>\n",
 			"date_published": "2018-01-31T17:53:00-05:00",
 			"url": "https://hager.blog/2018/01/31/i-made-myself.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/31/wishing-my-wonderful.html",
-	      	
-			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/cfc8429830.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Wishing my wonderful wife a very happy birthday today!! 🎂</p>\n\n",
-			"date_published": "2018-01-30T19:47:00-05:00",
-			"url": "https://hager.blog/2018/01/30/wishing-my-wonderful.html"
 		}
 		
 	]
