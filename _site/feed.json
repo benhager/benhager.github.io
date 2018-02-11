@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/11/taking-a-break.html",
+	      	
+			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/7afab8d63d.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Taking a break from shoveling the driveway!</p>\n\n",
+			"date_published": "2018-02-11T11:59:00-05:00",
+			"url": "https://hager.blog/2018/02/11/taking-a-break.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/09/let-it-snow.html",
 	      	
 			"content_html": "<p>Let it snow! Let it snow! ❄️⛄️❄️ (this is only the halfway point!)</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/c8af2f89c6.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>📱 <a href=\"https://www.macstories.net/news/apple-q1-2018-results-88-3-billion-revenue-77-3-million-iphones-13-2-million-ipads-sold/\">Apple Q1 2018 Results: $88.3 Billion Revenue, 77.3 Million iPhones, 13.2 Million iPads Sold – MacStories</a></p>\n\n<blockquote>\n  <p>Revenue from the iPhone 8 and X lines was the highest in the company’s history of previous iPhone releases.</p>\n</blockquote>\n",
 			"date_published": "2018-02-02T07:10:00-05:00",
 			"url": "https://hager.blog/2018/02/02/apple-q-results.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/01/permanencehttpwwwmantonorgpermanencehtml-how-do.html",
-	      	
-			"content_html": "<p><a href=\"http://www.manton.org/2012/07/permanence.html\">Permanence</a></p>\n\n<blockquote>\n  <p>How do we preserve the culture and art and stories of our time when the preferred media is so fragile?</p>\n</blockquote>\n",
-			"date_published": "2018-02-01T04:12:00-05:00",
-			"url": "https://hager.blog/2018/02/01/permanencehttpwwwmantonorgpermanencehtml-how-do.html"
 		}
 		
 	]
