@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/14/thanks-to-this.html",
+	      	
+			"content_html": "<p>Thanks to <a href=\"https://appstories.net/episodes/42/\">this epiaode</a>, I’m now not satisfied with my current RSS service and app solution…. going to need to take a deep dive on this sometime in the next week. </p>\n",
+			"date_published": "2018-02-14T18:35:00-05:00",
+			"url": "https://hager.blog/2018/02/14/thanks-to-this.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/14/what-are-people.html",
 	      	
 			"content_html": "<p>What are people using for a RSS service these days (not apps, services)?? I don’t mind paying some money, but anything more than $20-$30 a year seems excessive…</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Was a really good game. Fun to watch! 🏈</p>\n",
 			"date_published": "2018-02-04T22:19:00-05:00",
 			"url": "https://hager.blog/2018/02/04/was-a-really.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/05/we-had-a.html",
-	      	
-			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/bd29c12c5e.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>We had a small snow storm today and were able to get out and make a snowman!! ⛄️ </p>\n\n",
-			"date_published": "2018-02-04T19:18:00-05:00",
-			"url": "https://hager.blog/2018/02/04/we-had-a.html"
 		}
 		
 	]
