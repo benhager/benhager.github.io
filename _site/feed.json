@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/15/got-my-finn.html",
+	      	
+			"content_html": "<p>Got my <a href=\"https://www.sfbags.com/products/finn-access-wallet\">Finn Access Wallet</a> in the mail today from WaterField Designs. The quality of their stuff is so great, I love it!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/dfa79500a7.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-15T17:34:00-05:00",
+			"url": "https://hager.blog/2018/02/15/got-my-finn.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/14/thanks-to-this.html",
 	      	
 			"content_html": "<p>Thanks to <a href=\"https://appstories.net/episodes/42/\">this episode</a>, I’m now not satisfied with my current RSS service and app solution…. going to need to take a deep dive on this sometime in the next week. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🚀 Watch the live stream here: <a href=\"https://www.youtube.com/watch?v=wbSwFU6tY1c\">Falcon Heave Test Flight</a></p>\n",
 			"date_published": "2018-02-06T13:43:00-05:00",
 			"url": "https://hager.blog/2018/02/06/watch-the-live.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/05/was-a-really.html",
-	      	
-			"content_html": "<p>Was a really good game. Fun to watch! 🏈</p>\n",
-			"date_published": "2018-02-04T22:19:00-05:00",
-			"url": "https://hager.blog/2018/02/04/was-a-really.html"
 		}
 		
 	]
