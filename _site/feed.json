@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/18/beautiful-view-overlooking.html",
+	      	
+			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/78e25439f4.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Beautiful view overlooking the 16th fairway at my parents place in Bonita Springs. </p>\n\n",
+			"date_published": "2018-02-18T18:11:00-05:00",
+			"url": "https://hager.blog/2018/02/18/beautiful-view-overlooking.html"
+		},
+		
+		{
+			"id": "http://benhager.micro.blog/2018/02/16/rabbi-joe-black.html",
+	      	
+			"content_html": "<p><a href=\"https://rabbijoeblack.blogspot.com/2018/02/opening-prayer-for-colorado-state-house.html\">Rabbi Joe Black: Opening Prayer For the Colorado State House in the Aftermath of a Tragedy</a></p>\n\n<blockquote>\n  <p>On this tragic day when we confront the aftermath of the 18th School shooting in our nation on the 46th day of this year, I do not feel like praying.\nOur prayers have not stopped the bullets.\nOur prayers have changed nothing.</p>\n</blockquote>\n",
+			"date_published": "2018-02-16T14:28:00-05:00",
+			"url": "https://hager.blog/2018/02/16/rabbi-joe-black.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/15/got-my-finn.html",
 	      	
 			"content_html": "<p>Got my <a href=\"https://www.sfbags.com/products/finn-access-wallet\">Finn Access Wallet</a> in the mail today from WaterField Designs. The quality of their stuff is so great, I love it!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/dfa79500a7.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>I really like this: <a href=\"https://om.co/2018/02/08/blogs-as-though-spaces/\">Blogs are “thought spaces”</a>. Need to figure out how to use this site better for that kind of stuff. </p>\n",
 			"date_published": "2018-02-08T18:57:00-05:00",
 			"url": "https://hager.blog/2018/02/08/i-really-like.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/07/this-is-such.html",
-	      	
-			"content_html": "<p>This is such an incredible picture!! Congrats to everyone that made this possible! 🚀</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/9062f92308.jpg\" width=\"600\" height=\"335\" /></p>\n",
-			"date_published": "2018-02-07T17:31:00-05:00",
-			"url": "https://hager.blog/2018/02/07/this-is-such.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/06/watch-the-live.html",
-	      	
-			"content_html": "<p>🚀 Watch the live stream here: <a href=\"https://www.youtube.com/watch?v=wbSwFU6tY1c\">Falcon Heave Test Flight</a></p>\n",
-			"date_published": "2018-02-06T13:43:00-05:00",
-			"url": "https://hager.blog/2018/02/06/watch-the-live.html"
 		}
 		
 	]
