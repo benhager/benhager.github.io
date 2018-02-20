@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/20/the-content-of.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2018/02/19/opinion/gop-character-bad-faith.html\">The Content of the G.O.P.’s Character - NYT</a></p>\n\n<blockquote>\n  <p>When did you last see a member of the Trump administration, or for that matter any prominent Republican, admit error or accept responsibility for problems?</p>\n</blockquote>\n\n<blockquote>\n  <p>Don’t say that it has always been that way, that it’s just the way people are. On the contrary, taking responsibility for your actions — what my parents called being a mensch — used to be considered an essential virtue in politicians and adults in general. </p>\n</blockquote>\n",
+			"date_published": "2018-02-20T18:29:00-05:00",
+			"url": "https://hager.blog/2018/02/20/the-content-of.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/20/just-another-day.html",
 	      	
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/4584c88cef.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Just another day at the beach!! 😎 🏖 </p>\n\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/7e6ca12e4c.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>It was 50 degrees yesterday, and now there’s this… ❄️</p>\n\n",
 			"date_published": "2018-01-29T12:56:00-05:00",
 			"url": "https://hager.blog/2018/01/29/it-was-degrees.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/28/when-its-degrees.html",
-	      	
-			"content_html": "<p>When it’s <strong>50 degrees</strong> in January, we rake leaves 🍁 and play street hockey 🏒 </p>\n\n<p><img src=\"http://hager.blog/uploads/2018/a1886160db.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-28T17:37:00-05:00",
-			"url": "https://hager.blog/2018/01/28/when-its-degrees.html"
 		}
 		
 	]
