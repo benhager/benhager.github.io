@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/23/enjoying-the-beach.html",
+	      	
+			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/f8e315a693.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Enjoying the beach with Charlie!!</p>\n\n",
+			"date_published": "2018-02-22T21:29:00-05:00",
+			"url": "https://hager.blog/2018/02/22/enjoying-the-beach.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/22/there-are-some.html",
 	      	
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/6cfc73f40a.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>There are some days when you realize just how lucky you are!!</p>\n\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>We now have this incredible ability to communicate globally, but most people are not prepared for that and easily fall victim to malicious actors.</p>\n\n<p>🏛️ <a href=\"https://www.project-syndicate.org/commentary/internet-platform-monopoly-threats-by-roger-mcnamee-2018-01\">Social Media’s Junkies and Dealers</a></p>\n",
 			"date_published": "2018-01-29T13:07:00-05:00",
 			"url": "https://hager.blog/2018/01/29/we-now-have.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/29/my-micro-monday.html",
-	      	
-			"content_html": "<p>My Micro Monday recommendation today is <a href=\"https://micro.blog/cleverdevil\">@cleverdevil</a>. He seems to be working on some interesting things, and it’s fun to follow.</p>\n",
-			"date_published": "2018-01-29T13:01:00-05:00",
-			"url": "https://hager.blog/2018/01/29/my-micro-monday.html"
 		}
 		
 	]
