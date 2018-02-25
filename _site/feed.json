@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/25/rock-chalk-jayhawk.html",
+	      	
+			"content_html": "<p>Rock Chalk, Jayhawk! 14 Straight!!\n🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/e55f0fcf17.jpg\" width=\"600\" height=\"300\" /></p>\n",
+			"date_published": "2018-02-24T19:01:00-05:00",
+			"url": "https://hager.blog/2018/02/24/rock-chalk-jayhawk.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/24/enjoying-an-afternoon.html",
 	      	
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/2ad38e911b.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Enjoying an afternoon walk on our last day in Florida! 😎</p>\n\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I made myself a goal to post on <a href=\"https://Hager.blog\">Hager.blog</a> every day in January. With this post I have accomplished that goal!! 😃</p>\n",
 			"date_published": "2018-01-31T17:53:00-05:00",
 			"url": "https://hager.blog/2018/01/31/i-made-myself.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/01/31/wishing-my-wonderful.html",
-	      	
-			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/cfc8429830.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Wishing my wonderful wife a very happy birthday today!! 🎂</p>\n\n",
-			"date_published": "2018-01-30T19:47:00-05:00",
-			"url": "https://hager.blog/2018/01/30/wishing-my-wonderful.html"
 		}
 		
 	]
