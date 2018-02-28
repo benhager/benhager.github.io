@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/02/28/how-the-nra.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://www.politico.com/magazine/story/2014/05/nra-guns-second-amendment-106856?o=1\">How the NRA Rewrote the Second Amendment - POLITICO Magazine</a></p>\n\n<blockquote>\n  <p>The Founders never intended to create an unregulated individual right to a gun. Today, millions believe they did. Here’s how it happened.</p>\n</blockquote>\n",
+			"date_published": "2018-02-27T19:09:00-05:00",
+			"url": "https://hager.blog/2018/02/27/how-the-nra.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/02/26/inside-the-federal.html",
 	      	
 			"content_html": "<p>🏛 <a href=\"https://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns\">Inside The Federal Bureau Of Way Too Many Guns - GQ</a></p>\n\n<blockquote>\n  <p>There’s no telling how many guns we have in America—and when one gets used in a crime, no way for the cops to connect it to its owner. The only place the police can turn for help is a Kafkaesque agency in West Virginia, where, thanks to the gun lobby, computers are illegal and detective work is absurdly antiquated.</p>\n</blockquote>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>📱 <a href=\"https://www.macstories.net/news/apple-q1-2018-results-88-3-billion-revenue-77-3-million-iphones-13-2-million-ipads-sold/\">Apple Q1 2018 Results: $88.3 Billion Revenue, 77.3 Million iPhones, 13.2 Million iPads Sold – MacStories</a></p>\n\n<blockquote>\n  <p>Revenue from the iPhone 8 and X lines was the highest in the company’s history of previous iPhone releases.</p>\n</blockquote>\n",
 			"date_published": "2018-02-02T07:10:00-05:00",
 			"url": "https://hager.blog/2018/02/02/apple-q-results.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/01/permanencehttpwwwmantonorgpermanencehtml-how-do.html",
-	      	
-			"content_html": "<p><a href=\"http://www.manton.org/2012/07/permanence.html\">Permanence</a></p>\n\n<blockquote>\n  <p>How do we preserve the culture and art and stories of our time when the preferred media is so fragile?</p>\n</blockquote>\n",
-			"date_published": "2018-02-01T04:12:00-05:00",
-			"url": "https://hager.blog/2018/02/01/permanencehttpwwwmantonorgpermanencehtml-how-do.html"
 		}
 		
 	]
