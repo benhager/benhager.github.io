@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/03/12/topseeded-jayhawks-motivated.html",
+	      	
+			"content_html": "<p>🏀 <a href=\"http://m.kusports.com/news/2018/mar/11/top-seeded-jayhawks-motivated-eager-playing-every-/\">Top-seeded Jayhawks motivated, aiming to enjoy ‘playing every minute’ of NCAA Tournament - KUsports.com Mobile</a></p>\n",
+			"date_published": "2018-03-12T06:25:00-05:00",
+			"url": "https://hager.blog/2018/03/12/topseeded-jayhawks-motivated.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/03/09/had-a-beautiful.html",
 	      	
 			"content_html": "<p><a href=\"http://hager.blog/uploads/2018/c8e3733364.jpg\"><img src=\"http://hager.blog/uploads/2018/c8e3733364.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Had a beautiful winter drive to work today! ❄️</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I really like this: <a href=\"https://om.co/2018/02/08/blogs-as-though-spaces/\">Blogs are “thought spaces”</a>. Need to figure out how to use this site better for that kind of stuff. </p>\n",
 			"date_published": "2018-02-08T18:57:00-05:00",
 			"url": "https://hager.blog/2018/02/08/i-really-like.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/07/this-is-such.html",
-	      	
-			"content_html": "<p>This is such an incredible picture!! Congrats to everyone that made this possible! 🚀</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/9062f92308.jpg\" width=\"600\" height=\"335\" /></p>\n",
-			"date_published": "2018-02-07T17:31:00-05:00",
-			"url": "https://hager.blog/2018/02/07/this-is-such.html"
 		}
 		
 	]
