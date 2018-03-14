@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-02 17:54 -0500
+audio: 
+date: 2017-10-02 18:54 -0400
 guid: http://benhager.micro.blog/2017/10/02/sad-but-true.html
 ---
 Sad, but true... 
