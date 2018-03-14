@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-09 05:53 -0500
+audio: 
+date: 2017-10-09 06:53 -0400
 guid: http://benhager.micro.blog/2017/10/09/if-this-pans.html
 ---
 ✈️ If this pans out to be true, it’s not good for ATC in India!
