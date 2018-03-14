@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-03-01 12:43 -0500
+audio: 
+date: 2018-03-01 13:43 -0400
 guid: http://benhager.micro.blog/2018/03/01/we-decided-to.html
 ---
 
