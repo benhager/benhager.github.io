@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-21 11:54 -0500
+audio: 
+date: 2018-01-21 12:54 -0400
 guid: http://benhager.micro.blog/2018/01/21/doing-some-shopping.html
 ---
 Doing some shopping with the little guy this morning while his brother was at Sunday School. 
