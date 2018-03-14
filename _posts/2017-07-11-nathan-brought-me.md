@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-11 18:15 -0500
+audio: 
+date: 2017-07-11 19:15 -0400
 guid: http://benhager.micro.blog/2017/07/11/nathan-brought-me.html
 ---
 Nathan brought me a blue raspberry slurpy from 7/11 today!!
