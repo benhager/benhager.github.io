@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-17 03:26 -0500
+audio: 
+date: 2018-01-17 04:26 -0400
 guid: http://benhager.micro.blog/2018/01/17/a-new-theory.html
 ---
 🏛 [A new theory for why Americans can’t get a raise](https://slate.com/business/2018/01/a-new-theory-for-why-americans-cant-get-a-raise.html)
