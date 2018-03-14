@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-17 20:15 -0500
+audio: 
+date: 2018-01-17 21:15 -0400
 guid: http://benhager.micro.blog/2018/01/18/report-getting-out.html
 ---
 🤣 [Report: Getting Out Of Bed In Morning Sharply Increases Risk Of Things Getting Even Worse - The Onion](https://www.theonion.com/report-getting-out-of-bed-in-morning-sharply-increases-1819578645)
