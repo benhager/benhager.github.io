@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-27 08:55 -0500
+audio: 
+date: 2017-05-27 09:55 -0400
 guid: http://benhager.micro.blog/2017/05/27/great-way-to.html
 ---
 Great way to spend the morning!
