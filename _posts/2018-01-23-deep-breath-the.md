@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-23 09:54 -0500
+audio: 
+date: 2018-01-23 10:54 -0400
 guid: http://benhager.micro.blog/2018/01/23/deep-breath-the.html
 ---
 🏛 [Deep Breath: The Democrats Did Just Fine](https://www.nytimes.com/2018/01/23/opinion/shutdown-democrats.html)
