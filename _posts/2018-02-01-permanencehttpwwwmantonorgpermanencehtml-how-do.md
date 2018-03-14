@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-01 04:12 -0500
+audio: 
+date: 2018-02-01 05:12 -0400
 guid: http://benhager.micro.blog/2018/02/01/permanencehttpwwwmantonorgpermanencehtml-how-do.html
 ---
 [Permanence](http://www.manton.org/2012/07/permanence.html)
