@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-24 20:11 -0500
+audio: 
+date: 2018-01-24 21:11 -0400
 guid: http://benhager.micro.blog/2018/01/25/reading-tonight-after.html
 ---
 
