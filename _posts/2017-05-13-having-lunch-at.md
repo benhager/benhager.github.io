@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-13 11:20 -0500
+audio: 
+date: 2017-05-13 12:20 -0400
 guid: http://benhager.micro.blog/2017/05/13/having-lunch-at.html
 ---
 Having lunch at the Arbor Brewing Company with the family!
