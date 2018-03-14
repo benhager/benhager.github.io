@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-20 18:29 -0500
+audio: 
+date: 2018-02-20 19:29 -0400
 guid: http://benhager.micro.blog/2018/02/20/the-content-of.html
 ---
 🏛 [The Content of the G.O.P.’s Character - NYT](https://www.nytimes.com/2018/02/19/opinion/gop-character-bad-faith.html)
