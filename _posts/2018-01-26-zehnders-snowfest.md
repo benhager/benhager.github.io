@@ -2,7 +2,8 @@
 layout: post
 title: "Zehnder’s Snowfest 2017 ❄️"
 microblog: false
-date: 2018-01-26 17:34 -0500
+audio: 
+date: 2018-01-26 18:34 -0400
 guid: http://benhager.micro.blog/2018/01/26/zehnders-snowfest.html
 ---
 
