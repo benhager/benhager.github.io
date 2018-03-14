@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-16 14:28 -0500
+audio: 
+date: 2018-02-16 15:28 -0400
 guid: http://benhager.micro.blog/2018/02/16/rabbi-joe-black.html
 ---
 [Rabbi Joe Black: Opening Prayer For the Colorado State House in the Aftermath of a Tragedy](https://rabbijoeblack.blogspot.com/2018/02/opening-prayer-for-colorado-state-house.html)
