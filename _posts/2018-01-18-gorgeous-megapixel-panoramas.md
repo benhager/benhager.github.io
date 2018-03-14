@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-18 09:34 -0500
+audio: 
+date: 2018-01-18 10:34 -0400
 guid: http://benhager.micro.blog/2018/01/18/gorgeous-megapixel-panoramas.html
 ---
 📱 [Gorgeous 50-megapixel panoramas shot on an iPhone at 20,000 feet](https://kottke.org/18/01/gorgeous-50-megapixel-panoramas-shot-on-an-iphone-at-20000-feet)
