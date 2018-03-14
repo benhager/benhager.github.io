@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-23 21:47 -0500
+audio: 
+date: 2017-07-23 22:47 -0400
 guid: http://benhager.micro.blog/2017/07/24/planting-some-pink.html
 ---
 Planting some pink flowers for the front porch!
