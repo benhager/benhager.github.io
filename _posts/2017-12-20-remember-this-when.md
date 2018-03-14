@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-19 20:03 -0500
+audio: 
+date: 2017-12-19 21:03 -0400
 guid: http://benhager.micro.blog/2017/12/20/remember-this-when.html
 ---
 Remember this when voting next year!
