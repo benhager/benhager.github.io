@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-24 14:02 -0500
+audio: 
+date: 2018-02-24 15:02 -0400
 guid: http://benhager.micro.blog/2018/02/24/enjoying-an-afternoon.html
 ---
 
