@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-03 11:58 -0500
+audio: 
+date: 2017-05-03 12:58 -0400
 guid: http://benhager.micro.blog/2017/05/03/getting-in-my.html
 ---
 Getting in my 10,000 steps today!
