@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-13 09:06 -0500
+audio: 
+date: 2018-02-13 10:06 -0400
 guid: http://benhager.micro.blog/2018/02/13/embryriddle-offers-free.html
 ---
 ✈️ [Embry-Riddle Offers Free Aviation 101 Course - AVweb](https://www.avweb.com/avwebflash/news/Embry-Riddle-Offers-Free-Aviation-101-Course-222555-1.html)
