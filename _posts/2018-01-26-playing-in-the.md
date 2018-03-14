@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-26 15:33 -0500
+audio: 
+date: 2018-01-26 16:33 -0400
 guid: http://benhager.micro.blog/2018/01/26/playing-in-the.html
 ---
 
