@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-15 02:47 -0500
+audio: 
+date: 2018-01-15 03:47 -0400
 guid: http://benhager.micro.blog/2018/01/15/donald-trump-flushes.html
 ---
 🏛 [Donald Trump Flushes Away America’s Reputation - NYT](https://www.nytimes.com/2018/01/12/opinion/donald-trump-flushes-away-americas-reputation.html)
