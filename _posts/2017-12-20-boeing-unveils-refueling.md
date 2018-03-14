@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-20 02:17 -0500
+audio: 
+date: 2017-12-20 03:17 -0400
 guid: http://benhager.micro.blog/2017/12/20/boeing-unveils-refueling.html
 ---
 [Boeing Unveils Refueling Drone](https://www.avweb.com/avwebflash/news/Boeing-Unveils-Refueling-Drone-230071-1.html)
