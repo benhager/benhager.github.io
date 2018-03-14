@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-23 08:46 -0500
+audio: 
+date: 2018-01-23 09:46 -0400
 guid: http://benhager.micro.blog/2018/01/23/i-love-watching.html
 ---
 I _love_ watching the boys play together!
