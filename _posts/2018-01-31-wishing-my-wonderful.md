@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-30 19:47 -0500
+audio: 
+date: 2018-01-30 20:47 -0400
 guid: http://benhager.micro.blog/2018/01/31/wishing-my-wonderful.html
 ---
 
