@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-25 17:43 -0500
+audio: 
+date: 2018-01-25 18:43 -0400
 guid: http://benhager.micro.blog/2018/01/25/stephen-boyd-sends.html
 ---
 🏛 [Stephen Boyd sends letter to Nunes: The Justice Department stands up to a reckless Republican - The Washington Post](https://www.washingtonpost.com/blogs/right-turn/wp/2018/01/25/the-justice-department-stands-up-to-a-reckless-republican/)
