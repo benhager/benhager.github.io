@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-13 10:45 -0500
+audio: 
+date: 2018-01-13 11:45 -0400
 guid: http://benhager.micro.blog/2018/01/13/happy-baby-this.html
 ---
 Happy baby this morning!
