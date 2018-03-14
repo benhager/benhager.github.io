@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-13 07:12 -0500
+audio: 
+date: 2017-06-13 08:12 -0400
 guid: http://benhager.micro.blog/2017/06/13/nathan-and-i.html
 ---
 Nathan and I having fun with the new Facebook filters!
