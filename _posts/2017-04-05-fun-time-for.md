@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-04-04 19:26 -0500
+audio: 
+date: 2017-04-04 20:26 -0400
 guid: http://benhager.micro.blog/2017/04/05/fun-time-for.html
 ---
 Fun time for the boys!!
