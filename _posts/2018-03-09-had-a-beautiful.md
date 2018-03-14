@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-03-09 18:22 -0500
+audio: 
+date: 2018-03-09 19:22 -0400
 guid: http://benhager.micro.blog/2018/03/09/had-a-beautiful.html
 ---
 
