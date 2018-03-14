@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-22 18:43 -0500
+audio: 
+date: 2017-05-22 19:43 -0400
 guid: http://benhager.micro.blog/2017/05/22/love-having-more.html
 ---
 Love having more time in the evenings to spend with this goober!!
