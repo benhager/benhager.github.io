@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-29 12:56 -0500
+audio: 
+date: 2018-01-29 13:56 -0400
 guid: http://benhager.micro.blog/2018/01/29/it-was-degrees.html
 ---
 
