@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-26 05:26 -0500
+audio: 
+date: 2018-02-26 06:26 -0400
 guid: http://benhager.micro.blog/2018/02/26/inside-the-federal.html
 ---
 🏛 [Inside The Federal Bureau Of Way Too Many Guns - GQ](https://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)
