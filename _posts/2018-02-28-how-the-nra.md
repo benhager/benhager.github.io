@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-27 19:09 -0500
+audio: 
+date: 2018-02-27 20:09 -0400
 guid: http://benhager.micro.blog/2018/02/28/how-the-nra.html
 ---
 🏛 [How the NRA Rewrote the Second Amendment - POLITICO Magazine](https://www.politico.com/magazine/story/2014/05/nra-guns-second-amendment-106856?o=1)
