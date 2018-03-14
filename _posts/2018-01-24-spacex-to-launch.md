@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-24 08:21 -0500
+audio: 
+date: 2018-01-24 09:21 -0400
 guid: http://benhager.micro.blog/2018/01/24/spacex-to-launch.html
 ---
 🚀 [SpaceX To Launch Tesla Roadster In Mars Orbit (Really) - AVweb](https://www.avweb.com/avwebflash/news/SpaceX-to-Launch-Tesla-Roadster-in-Mars-Orbit-Really-230210-1.html)
