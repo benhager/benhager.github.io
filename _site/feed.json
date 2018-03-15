@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/03/15/no-seed-jayhawks.html",
+	      	
+			"content_html": "<p>🏀 <a href=\"http://www.kusports.com/news/2018/mar/15/no-1-seed-jayhawks-eliminate-potential-march-cinde/\">No. 1 seed Jayhawks eliminate potential March Cinderella Penn - KUsports</a></p>\n\n<blockquote>\n  <p>The Big 12 regular-season and postseason champion Jayhawks moved on to the NCAA Tournament’s second round with a 76-60 victory over the Ivy League champion Quakers.</p>\n</blockquote>\n",
+			"date_published": "2018-03-15T19:05:00-04:00",
+			"url": "https://hager.blog/2018/03/15/no-seed-jayhawks.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/03/14/stephen-hawking-dies.html",
 	      	
 			"content_html": "<p>🔭 <a href=\"https://www.nytimes.com/2018/03/14/obituaries/stephen-hawking-dead.html?referer=\">Stephen Hawking Dies at 76; His Mind Roamed the Cosmos - The New York Times</a></p>\n\n<blockquote>\n  <p>Scientifically, Dr. Hawking will be best remembered for a discovery so strange that it might be expressed in the form of a Zen koan: When is a black hole not black? When it explodes.</p>\n</blockquote>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/7afab8d63d.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Taking a break from shoveling the driveway!</p>\n\n",
 			"date_published": "2018-02-11T12:59:00-04:00",
 			"url": "https://hager.blog/2018/02/11/taking-a-break.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/09/let-it-snow.html",
-	      	
-			"content_html": "<p>Let it snow! Let it snow! ❄️⛄️❄️ (this is only the halfway point!)</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/c8af2f89c6.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-09T13:14:00-04:00",
-			"url": "https://hager.blog/2018/02/09/let-it-snow.html"
 		}
 		
 	]
