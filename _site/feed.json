@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/03/17/opinion-the-bobby.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2018/03/16/opinion/sunday/progressives-robert-kennedy-trump.html\">Opinion - The Bobby Kennedy Pathway - The New York Times</a></p>\n\n<blockquote>\n  <p>But a half-century ago, a champion of civil rights offered a third approach: a liberalism without elitism and a populism without racism.</p>\n</blockquote>\n",
+			"date_published": "2018-03-17T11:15:00-04:00",
+			"url": "https://hager.blog/2018/03/17/opinion-the-bobby.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/03/15/no-seed-jayhawks.html",
 	      	
 			"content_html": "<p>🏀 <a href=\"http://www.kusports.com/news/2018/mar/15/no-1-seed-jayhawks-eliminate-potential-march-cinde/\">No. 1 seed Jayhawks eliminate potential March Cinderella Penn - KUsports</a></p>\n\n<blockquote>\n  <p>The Big 12 regular-season and postseason champion Jayhawks moved on to the NCAA Tournament’s second round with a 76-60 victory over the Ivy League champion Quakers.</p>\n</blockquote>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/5443006332.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Enjoying a new toy!</p>\n\n",
 			"date_published": "2018-02-12T10:04:00-04:00",
 			"url": "https://hager.blog/2018/02/12/enjoying-a-new.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/11/taking-a-break.html",
-	      	
-			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/7afab8d63d.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" /></p>\n\n<p>Taking a break from shoveling the driveway!</p>\n\n",
-			"date_published": "2018-02-11T12:59:00-04:00",
-			"url": "https://hager.blog/2018/02/11/taking-a-break.html"
 		}
 		
 	]
