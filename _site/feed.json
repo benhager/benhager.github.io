@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/03/22/elbit-systems-to.html",
+	      	
+			"content_html": "<p>✈️ <a href=\"https://www.flyingmag.com/elbit-systems-to-buy-universal-avionics\">Elbit Systems to Buy Universal Avionics - Flying Magazine</a></p>\n",
+			"date_published": "2018-03-22T18:31:00-04:00",
+			"url": "https://hager.blog/2018/03/22/elbit-systems-to.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/03/22/193134.html",
 	      	
 			"content_html": "<p><a href=\"http://hager.blog/uploads/2018/7985cce839.jpg\"><img src=\"http://hager.blog/uploads/2018/7985cce839.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Got my <a href=\"https://www.sfbags.com/products/finn-access-wallet\">Finn Access Wallet</a> in the mail today from WaterField Designs. The quality of their stuff is so great, I love it!!</p>\n\n<p><img src=\"http://hager.blog/uploads/2018/dfa79500a7.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-02-15T18:34:00-04:00",
 			"url": "https://hager.blog/2018/02/15/got-my-finn.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/14/thanks-to-this.html",
-	      	
-			"content_html": "<p>Thanks to <a href=\"https://appstories.net/episodes/42/\">this episode</a>, I’m now not satisfied with my current RSS service and app solution…. going to need to take a deep dive on this sometime in the next week. </p>\n",
-			"date_published": "2018-02-14T19:35:00-04:00",
-			"url": "https://hager.blog/2018/02/14/thanks-to-this.html"
 		}
 		
 	]
