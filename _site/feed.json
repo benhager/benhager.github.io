@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/03/26/jayhawks-topple-duke.html",
+	      	
+			"content_html": "<p>🏀🏀🏀🏀 <a href=\"http://www.kusports.com/news/2018/mar/25/jayhawks-topple-duke-ot-reach-final-four/\">Jayhawks topple Duke in OT to reach Final Four - KUsports</a></p>\n\n<blockquote>\n  <p>Playing on the familiar March stage known as the Elite Eight, Kansas finally kicked down the door in its third straight regional final appearance.</p>\n</blockquote>\n",
+			"date_published": "2018-03-25T21:12:00-04:00",
+			"url": "https://hager.blog/2018/03/25/jayhawks-topple-duke.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/03/24/kansas-survives-close.html",
 	      	
 			"content_html": "<p>🏀🏀🏀 <a href=\"http://www.kusports.com/news/2018/mar/23/kansas-survives-close-call-vs-clemson-advance-elit/\">Kansas survives close call vs. Clemson to advance to Elite Eight - KUsports</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/78e25439f4.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Beautiful view overlooking the 16th fairway at my parents place in Bonita Springs. </p>\n\n",
 			"date_published": "2018-02-18T19:11:00-04:00",
 			"url": "https://hager.blog/2018/02/18/beautiful-view-overlooking.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/16/rabbi-joe-black.html",
-	      	
-			"content_html": "<p><a href=\"https://rabbijoeblack.blogspot.com/2018/02/opening-prayer-for-colorado-state-house.html\">Rabbi Joe Black: Opening Prayer For the Colorado State House in the Aftermath of a Tragedy</a></p>\n\n<blockquote>\n  <p>On this tragic day when we confront the aftermath of the 18th School shooting in our nation on the 46th day of this year, I do not feel like praying.\nOur prayers have not stopped the bullets.\nOur prayers have changed nothing.</p>\n</blockquote>\n",
-			"date_published": "2018-02-16T15:28:00-04:00",
-			"url": "https://hager.blog/2018/02/16/rabbi-joe-black.html"
 		}
 		
 	]
