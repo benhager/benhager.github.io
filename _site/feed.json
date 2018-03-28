@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://benhager.micro.blog/2018/03/28/john-paul-stevens.html",
+	      	
+			"content_html": "<p>🏛 <a href=\"https://www.nytimes.com/2018/03/27/opinion/john-paul-stevens-repeal-second-amendment.html\">John Paul Stevens: Repeal the Second Amendment - NYT</a></p>\n\n<blockquote>\n  <p>Chief Justice Burger publicly characterized the N.R.A. as perpetrating “one of the greatest pieces of fraud, I repeat the word fraud, on the American public by special interest groups that I have ever seen in my lifetime.”</p>\n</blockquote>\n",
+			"date_published": "2018-03-28T18:18:00-04:00",
+			"url": "https://hager.blog/2018/03/28/john-paul-stevens.html"
+		},
+		
+		{
 			"id": "http://benhager.micro.blog/2018/03/26/jayhawks-topple-duke.html",
 	      	
 			"content_html": "<p>🏀🏀🏀🏀 <a href=\"http://www.kusports.com/news/2018/mar/25/jayhawks-topple-duke-ot-reach-final-four/\">Jayhawks topple Duke in OT to reach Final Four - KUsports</a></p>\n\n<blockquote>\n  <p>Playing on the familiar March stage known as the Elite Eight, Kansas finally kicked down the door in its third straight regional final appearance.</p>\n</blockquote>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/4584c88cef.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Just another day at the beach!! 😎 🏖 </p>\n\n",
 			"date_published": "2018-02-19T23:33:00-04:00",
 			"url": "https://hager.blog/2018/02/19/just-another-day.html"
-		},
-		
-		{
-			"id": "http://benhager.micro.blog/2018/02/18/beautiful-view-overlooking.html",
-	      	
-			"content_html": "<p><img src=\"http://hager.blog/uploads/2018/78e25439f4.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Beautiful view overlooking the 16th fairway at my parents place in Bonita Springs. </p>\n\n",
-			"date_published": "2018-02-18T19:11:00-04:00",
-			"url": "https://hager.blog/2018/02/18/beautiful-view-overlooking.html"
 		}
 		
 	]
