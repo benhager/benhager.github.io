@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-23 18:05 -0400
+date: 2017-05-23 18:05:13 -0400
 guid: http://benhager.micro.blog/2017/05/23/the-best-helper.html
 ---
 The best helper at the grocery store!
