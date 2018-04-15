@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-12 12:02 -0400
+date: 2017-05-12 12:02:47 -0400
 guid: http://benhager.micro.blog/2017/05/12/another-beautiful-day.html
 ---
 Another beautiful day for a walk...
