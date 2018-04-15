@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-01-08 11:31 -0400
+date: 2017-01-08 11:31:15 -0400
 guid: http://benhager.micro.blog/2017/01/08/enjoying-our-snow.html
 ---
 Enjoying our snow day!
