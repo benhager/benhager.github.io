@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-06-01 23:06 -0400
+date: 2016-06-01 23:06:26 -0400
 guid: http://benhager.micro.blog/2016/06/02/nathan-martin-hager.html
 ---
 Nathan Martin Hager
