@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-20 11:56 -0400
+date: 2017-05-20 11:56:18 -0400
 guid: http://benhager.micro.blog/2017/05/20/great-morning-at.html
 ---
 Great morning at the farmers market with the family!!
