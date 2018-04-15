@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-10 12:29 -0400
+date: 2017-05-10 12:29:20 -0400
 guid: http://benhager.micro.blog/2017/05/10/almost-to-todayimg.html
 ---
 Almost to 10,000 today...
